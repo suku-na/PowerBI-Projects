@@ -27,8 +27,8 @@ It helps identify **seasonal demand**, **top-selling products**, and **profit tr
 ---
 
 ## 📊 Dashboard Preview
-*(Add your dashboard screenshot below — for example:)*  
-`![Dashboard Preview](./images/icecream_dashboard.png)`
+ 
+`![Dashboard Preview](C:\Users\sk018\OneDrive\Pictures\Screenshots\Screenshot 2025-10-22 143634.png)`
 
 ---
 
