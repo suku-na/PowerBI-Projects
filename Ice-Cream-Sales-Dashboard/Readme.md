@@ -27,8 +27,8 @@ It helps identify **seasonal demand**, **top-selling products**, and **profit tr
 ---
 
 ## 📊 Dashboard Preview
- 
-`![Dashboard Preview](C:\Users\sk018\OneDrive\Pictures\Screenshots\Screenshot 2025-10-22 143634.png)`
+
+**<img width="1637" height="724" alt="Screenshot 2025-10-22 143634" src="https://github.com/user-attachments/assets/2dba68cd-daae-4108-8a40-80a18973507f" />**
 
 ---
 
