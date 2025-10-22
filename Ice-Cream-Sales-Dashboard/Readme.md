@@ -11,7 +11,7 @@
  <!-- Power BI -->
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="60" alt="Power BI"/>
   <!-- Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="50" alt="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="45" height="45" alt="Excel" style="filter: invert(52%) sepia(96%) saturate(322%) hue-rotate(83deg) brightness(90%) contrast(85%);"/>
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
   <!-- Windows -->
