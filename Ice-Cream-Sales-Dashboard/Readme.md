@@ -8,24 +8,31 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="60" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" alt="Excel"/>
+  <!-- Power BI -->
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" width="60" alt="Power BI"/>
+  <!-- Excel -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" width="50" alt="Excel"/>
+  <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
+  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+  <!-- Windows -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" alt="Windows"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_Query_Logo.png" width="55" alt="Power Query"/>
+  <!-- Power Query -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query.svg" width="55" alt="Power Query"/>
 </p>
 
 ---
 
 ## 📘 Overview
-The **Ice Cream Sales Dashboard** is an interactive Power BI project built to analyze and visualize sales performance across multiple dimensions such as **flavor**, **region**, **season**, and **sales channel**.  
-It enables decision-makers to identify **top-performing products**, **seasonal demand patterns**, and **profit trends**, helping improve marketing strategies and inventory planning.
+The **Ice Cream Sales Dashboard** is an interactive Power BI project designed to analyze and visualize ice cream sales data across multiple regions, flavors, and time periods.  
+It helps identify **seasonal demand**, **top-selling products**, and **profit trends**, empowering data-driven business decisions.
 
 ---
 
 ## 📊 Dashboard Preview
-*(Add dashboard screenshot here — for example: `![Dashboard Preview](./images/icecream_dashboard.png)`)*
+*(Add your dashboard screenshot below — for example:)*  
+`![Dashboard Preview](./images/icecream_dashboard.png)`
 
 ---
 
@@ -33,33 +40,32 @@ It enables decision-makers to identify **top-performing products**, **seasonal d
 | Column Name | Description |
 |--------------|-------------|
 | **Date** | Transaction date of ice cream sale |
-| **Region** | Sales region (North, South, East, West, etc.) |
-| **Flavor** | Type of ice cream sold |
-| **Sales Channel** | Mode of sale (Retail, Online, Distributor, etc.) |
+| **Region** | Region where the sale occurred |
+| **Flavor** | Ice cream flavor sold |
+| **Sales Channel** | Retail, Online, or Distributor |
 | **Quantity Sold** | Units sold per transaction |
 | **Revenue** | Total revenue generated |
-| **Profit** | Profit earned per sale |
+| **Profit** | Profit earned from sale |
 
 ---
 
 ## 💡 Key Insights
-- 📈 **Seasonal Trends:** Summer months show the highest spike in sales and profit margins.  
-- 🍨 **Top Flavors:** Vanilla and Chocolate lead sales volume across all regions.  
-- 🏬 **Regional Performance:** Western region generates maximum revenue contribution.  
-- 💰 **Profitability Analysis:** Distributor channels offer higher margins than retail.  
-- 📅 **Time-based Analysis:** Dynamic filters enable viewing KPIs by month, quarter, or year.
+- 📈 **Seasonal Trends:** Summer months drive peak sales and profit growth.  
+- 🍨 **Top Flavors:** Vanilla and Chocolate consistently lead in demand.  
+- 🌎 **Regional Leaders:** Western and Southern regions generate maximum sales.  
+- 💰 **Profit Margins:** Distributor channels yield higher profit per unit.  
+- 📅 **Time Analysis:** Dynamic filters enable insights by month, quarter, and year.
 
 ---
 
 ## ⚙️ Features
-- Interactive **Power BI visuals** with slicers and filters  
-- **KPI cards** for total revenue, profit, and quantity sold  
-- **Dynamic dashboards** for comparing performance across time and region  
-- Integrated **Power Query** data transformation  
-- Clean and modern visualization design  
+- Interactive **Power BI visuals** with dynamic slicers and filters  
+- **KPI cards** displaying total sales, profit, and units sold  
+- **Power Query transformations** for clean, structured data  
+- User-friendly **dashboard layout** with category-based comparisons  
+- **Drill-through analysis** for region and flavor performance  
 
 ---
-
 
 ## 📂 Repository Structure
 
@@ -69,22 +75,21 @@ It enables decision-makers to identify **top-performing products**, **seasonal d
 ├── Ice Cream Sales Dashboard.pbix
 ├── README.md
 └── 📁 images
-└── icecream_dashboard.png (optional – add your Power BI dashboard screenshot)
 ```
-
+---
 
 ---
 
 ## 🚀 How to Use
 1. Download or clone the repository.  
 2. Open the `.pbix` file in **Microsoft Power BI Desktop**.  
-3. Refresh the data connection (if applicable).  
-4. Explore the interactive dashboard using available filters and visuals.
+3. Refresh the data connection if required.  
+4. Interact with visuals to explore KPIs, seasonal patterns, and sales insights.
 
 ---
 
 ## 🔗 References
-- Microsoft Power BI Documentation — [https://learn.microsoft.com/power-bi](https://learn.microsoft.com/power-bi)
+- Microsoft Power BI — [https://learn.microsoft.com/power-bi](https://learn.microsoft.com/power-bi)  
 - Power Query M Language — [https://learn.microsoft.com/powerquery-m](https://learn.microsoft.com/powerquery-m)
 
 ---
@@ -102,5 +107,4 @@ It enables decision-makers to identify **top-performing products**, **seasonal d
 </p>
 
 
-
-
+## 📂 Repository Structure
