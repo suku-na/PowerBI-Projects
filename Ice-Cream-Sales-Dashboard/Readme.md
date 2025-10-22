@@ -60,14 +60,14 @@ It enables decision-makers to identify **top-performing products**, **seasonal d
 
 ---
 
-###
+
+## 📂 Repository Structure
 📁 Ice Cream Sales Dashboard
 │
 ├── Ice Cream Sales Dashboard.pbix
 ├── README.md
 └── 📁 images
 └── icecream_dashboard.png (optional – add your Power BI dashboard screenshot)
-###
 
 
 ---
@@ -99,5 +99,5 @@ It enables decision-makers to identify **top-performing products**, **seasonal d
 </p>
 
 
-## 📂 Repository Structure
+
 
