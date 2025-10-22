@@ -8,14 +8,14 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-
+  <!-- PowerBI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI"/> 
   <!-- Excel -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="45" height="45" alt="Excel" style="filter: invert(52%) sepia(96%) saturate(322%) hue-rotate(83deg) brightness(90%) contrast(85%);"/>
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
   <!-- Windows -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" alt="Windows"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI"/> 
 </p>
 
 ---
