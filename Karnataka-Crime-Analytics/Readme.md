@@ -19,7 +19,8 @@
 
 ## 📊 Dashboard Preview
 
-**<img width="1637" height="724" alt="Home.png" src="https://github.com/user-attachments/assets/2dba68cd-daae-4108-8a40-80a18973507f" />**
+**<img width="1057" height="711" alt="image" src="https://github.com/user-attachments/assets/4e146aac-1bbd-4087-9e42-f41d46bd85cb" />**
+
 
 ---
 
