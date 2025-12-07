@@ -1,0 +1,901 @@
+District,Year,Location,Reported_Cases,Male_Victims,Female_Victims,Victims_Under18
+Ramanagara,2023,Public Place,4,0,4,1
+Mysuru,2023,Workplace,4,0,4,1
+Shimoga,2023,Workplace,2,0,2,0
+RuralAreaX,2023,Workplace,5,0,5,1
+Udupi,2023,School/College,2,0,2,0
+Tumakuru,2023,Workplace,2,0,2,0
+Koppal,2023,Public Place,5,0,5,1
+Kalaburagi,2023,Domestic,2,0,2,0
+Vijayanagar,2023,Domestic,3,0,3,1
+Mysuru,2023,Online,5,0,5,0
+Mangaluru,2023,Public Place,1,0,1,0
+Chikkamagaluru,2023,Online,2,0,2,0
+Chikkaballapura,2023,School/College,6,0,6,1
+Shimoga,2023,School/College,0,0,0,0
+Tumakuru,2023,School/College,1,0,1,0
+Chamarajanagar2,2023,Workplace,5,0,5,0
+Chikkamagaluru,2023,School/College,3,0,3,1
+Koppal,2023,Public Place,1,0,1,0
+Kalaburagi,2023,Workplace,3,0,3,1
+Uttara Kannada,2023,Public Place,4,0,4,1
+Kolar,2023,Public Place,3,0,3,0
+Chamarajanagar2,2023,School/College,8,0,8,2
+Kolar,2023,School/College,4,0,4,0
+Mandya,2023,School/College,2,0,2,0
+Uttara Kannada,2023,Public Place,1,0,1,0
+Tumakuru,2023,Public Place,5,0,5,1
+Ramanagara,2023,Workplace,1,0,1,0
+Bengaluru Urban,2023,Online,9,1,8,3
+Hubballi,2023,Workplace,8,0,8,3
+Chikkamagaluru,2023,Public Place,4,0,4,0
+RuralAreaX,2023,Public Place,2,0,2,0
+Mysuru,2023,Workplace,2,0,2,0
+RuralAreaX,2023,School/College,1,0,1,0
+Dharwad,2023,Domestic,3,0,3,0
+Gadag,2023,Online,5,0,5,1
+Hubballi,2023,Public Place,3,0,3,0
+Yadgir,2023,School/College,3,0,3,0
+Chamarajanagar,2023,Workplace,4,0,4,1
+Belagavi,2023,Domestic,7,0,7,3
+Shimoga,2023,Public Place,5,0,5,1
+Kodagu,2023,School/College,5,0,5,0
+Vijayanagar,2023,Online,0,0,0,0
+Chikkamagaluru,2023,Online,5,0,5,0
+Chamarajanagar2,2023,Domestic,6,0,6,2
+Gadag,2023,Online,5,0,5,0
+Hassan,2023,School/College,2,0,2,0
+Bidar,2023,School/College,3,0,3,1
+Shimoga,2023,Online,6,1,5,0
+Chamarajanagar,2023,Workplace,1,0,1,0
+Shivamogga,2023,School/College,5,0,5,1
+Davangere,2023,Online,3,0,3,0
+Kodagu,2023,Domestic,7,1,6,1
+Kalaburagi,2023,School/College,4,0,4,0
+Shimoga,2023,School/College,4,0,4,0
+Ramanagara,2023,Online,1,0,1,0
+Kodagu,2023,Online,3,0,3,0
+Shivamogga,2023,School/College,5,0,5,0
+Chikkamagaluru,2023,School/College,2,0,2,0
+Bagalkot,2023,School/College,1,0,1,0
+Mangaluru,2023,Public Place,1,0,1,0
+Uttara Kannada,2023,Domestic,4,0,4,1
+Bengaluru Urban,2023,Domestic,3,0,3,0
+Dharwad,2023,Domestic,5,0,5,2
+Chitradurga,2023,Online,3,0,3,1
+Uttara Kannada,2023,Online,5,0,5,1
+Hubballi,2023,Workplace,5,0,5,0
+Belagavi,2023,Workplace,1,0,1,0
+Chikkamagaluru,2023,School/College,3,0,3,0
+Yadgir,2023,School/College,6,0,6,0
+Bagalkot,2023,Workplace,2,0,2,0
+Gadag,2023,Online,0,0,0,0
+Belagavi,2023,Public Place,3,0,3,0
+Ramanagara,2023,School/College,7,0,7,3
+Mysuru,2023,School/College,3,0,3,1
+RuralAreaX,2023,Public Place,6,0,6,0
+Yadgir,2023,Public Place,6,0,6,0
+Ramanagara,2023,Workplace,4,0,4,1
+Davangere,2023,School/College,2,0,2,0
+RuralAreaX,2023,Workplace,2,0,2,0
+Hassan,2023,Workplace,8,0,8,1
+Udupi,2023,School/College,4,0,4,1
+Kalaburagi,2023,Workplace,4,0,4,0
+RuralAreaX,2023,Workplace,2,0,2,0
+Chitradurga,2023,Workplace,6,0,6,0
+Belagavi,2023,School/College,4,0,4,0
+Hassan,2023,Domestic,8,1,7,0
+Vijayanagar,2023,School/College,4,0,4,0
+RuralAreaX,2023,Domestic,2,0,2,0
+Mangaluru,2023,Workplace,7,0,7,2
+Vijayanagar,2023,Public Place,6,0,6,2
+Ramanagara,2023,Public Place,4,0,4,0
+Shivamogga,2023,Workplace,2,0,2,0
+Bagalkot,2023,Public Place,5,0,5,1
+Udupi,2023,Workplace,4,0,4,1
+Hassan,2023,Online,8,0,8,3
+Gadag,2023,Domestic,6,0,6,0
+Koppal,2023,Workplace,3,0,3,1
+Mandya,2023,Public Place,1,0,1,0
+Kolar,2023,Workplace,2,0,2,0
+Bagalkot,2023,Online,3,0,3,1
+Uttara Kannada,2023,School/College,2,0,2,0
+Gadag,2023,School/College,6,0,6,0
+Uttara Kannada,2023,Workplace,4,0,4,1
+Tumakuru,2023,School/College,3,0,3,0
+Gadag,2023,Domestic,2,0,2,0
+Ramanagara,2023,Online,1,0,1,0
+Hassan,2023,Online,1,0,1,0
+Chitradurga,2023,Workplace,3,0,3,0
+Ballari,2023,School/College,3,0,3,1
+Mandya,2023,Public Place,4,0,4,0
+Bengaluru Rural,2023,School/College,4,0,4,1
+Yadgir,2023,School/College,1,0,1,0
+Tumakuru,2023,School/College,3,0,3,0
+Uttara Kannada,2023,Domestic,5,0,5,1
+Chikkaballapura,2023,Online,3,0,3,0
+Kalaburagi,2023,Workplace,3,0,3,0
+Chikkamagaluru,2023,Workplace,2,0,2,0
+Udupi,2023,Online,5,0,5,0
+Koppal,2023,Online,3,0,3,0
+Kalaburagi,2023,Public Place,3,0,3,0
+Mandya,2023,Online,6,0,6,0
+Mandya,2023,Public Place,4,0,4,1
+RuralAreaX,2023,Workplace,6,1,5,2
+Ballari,2023,Domestic,3,0,3,0
+Mysuru,2023,Workplace,6,0,6,2
+Kodagu,2023,Online,5,0,5,2
+Dharwad,2023,School/College,8,1,7,2
+Koppal,2023,Public Place,4,0,4,1
+Tumakuru,2023,Workplace,3,0,3,1
+Kalaburagi,2023,Online,5,0,5,2
+Gadag,2023,Domestic,4,0,4,1
+Udupi,2023,Workplace,2,0,2,0
+Belagavi,2023,Public Place,4,0,4,1
+Tumakuru,2023,Online,0,0,0,0
+Chikkaballapura,2023,Online,2,0,2,0
+Uttara Kannada,2023,Workplace,3,0,3,0
+Kalaburagi,2023,Domestic,6,1,5,0
+Raichur,2023,Workplace,2,0,2,0
+Ramanagara,2023,Public Place,3,0,3,0
+Yadgir,2023,Workplace,3,0,3,0
+Chitradurga,2023,Public Place,5,0,5,2
+Vijayapura,2023,School/College,5,0,5,0
+Chikkamagaluru,2023,Workplace,4,0,4,1
+Dharwad,2023,Domestic,4,0,4,1
+Yadgir,2023,School/College,6,0,6,0
+Ramanagara,2023,Public Place,3,0,3,1
+Chamarajanagar2,2023,Online,1,0,1,0
+RuralAreaX,2023,Workplace,1,0,1,0
+Belagavi,2023,Domestic,3,0,3,1
+Mangaluru,2023,Workplace,1,0,1,0
+Bagalkot,2023,Domestic,5,0,5,1
+Chikkamagaluru,2023,Public Place,2,0,2,0
+Belagavi,2023,Workplace,7,0,7,2
+Kolar,2023,Domestic,2,0,2,0
+Chitradurga,2023,Workplace,1,0,1,0
+Bengaluru Urban,2023,Public Place,2,0,2,0
+Ramanagara,2023,Public Place,4,0,4,0
+Raichur,2023,Workplace,2,0,2,0
+Koppal,2023,Online,5,0,5,1
+Udupi,2023,Workplace,2,0,2,0
+Mangaluru,2023,Online,2,0,2,0
+Uttara Kannada,2023,School/College,4,0,4,0
+Kodagu,2023,Online,4,0,4,0
+Udupi,2023,Domestic,5,0,5,1
+Bidar,2023,Public Place,4,0,4,1
+Mangaluru,2023,Workplace,4,0,4,0
+RuralAreaX,2023,Workplace,6,1,5,1
+Haveri,2023,Online,6,0,6,2
+Uttara Kannada,2023,Workplace,4,0,4,0
+Chikkamagaluru,2023,Domestic,1,0,1,0
+Chitradurga,2023,School/College,3,0,3,1
+Chikkamagaluru,2023,School/College,4,0,4,0
+Vijayanagar,2023,Workplace,6,1,5,2
+RuralAreaX,2023,Domestic,6,0,6,0
+Kalaburagi,2023,Workplace,4,0,4,0
+RuralAreaX,2023,Public Place,5,0,5,0
+Ramanagara,2023,School/College,3,0,3,0
+Kalaburagi,2023,Online,3,0,3,1
+Kalaburagi,2023,School/College,3,0,3,0
+Belagavi,2023,Online,4,0,4,0
+Mangaluru,2023,Workplace,1,0,1,0
+RuralAreaX,2023,Public Place,5,0,5,1
+Kodagu,2023,Online,2,0,2,0
+Mangaluru,2023,School/College,2,0,2,0
+Shivamogga,2023,Online,4,0,4,0
+Kodagu,2023,Public Place,3,0,3,0
+Mangaluru,2023,Workplace,5,0,5,0
+Chikkaballapura,2023,Workplace,4,0,4,1
+Koppal,2023,Online,1,0,1,0
+Haveri,2023,Online,3,0,3,0
+Chikkamagaluru,2023,School/College,4,0,4,1
+Bidar,2023,Workplace,5,0,5,1
+Mangaluru,2023,Workplace,3,0,3,0
+Kalaburagi,2023,Online,5,0,5,1
+Kodagu,2023,Domestic,4,0,4,1
+Hubballi,2023,Public Place,5,0,5,0
+Chamarajanagar2,2023,Online,3,0,3,0
+Gadag,2023,Public Place,7,1,6,1
+Udupi,2023,Online,5,0,5,0
+Kodagu,2023,School/College,1,0,1,0
+RuralAreaX,2023,Online,1,0,1,0
+Shivamogga,2023,School/College,2,0,2,0
+RuralAreaX,2023,School/College,6,0,6,1
+Mandya,2023,Public Place,2,0,2,0
+Mangaluru,2023,School/College,1,0,1,0
+Udupi,2023,Domestic,3,0,3,0
+Chikkaballapura,2023,Domestic,6,1,5,1
+Bengaluru Rural,2023,School/College,4,0,4,0
+Vijayapura,2023,Domestic,4,0,4,0
+Chikkaballapura,2023,Domestic,7,0,7,1
+Ballari,2023,Workplace,2,0,2,0
+Uttara Kannada,2023,Public Place,9,1,8,2
+Vijayapura,2023,School/College,3,0,3,0
+Mysuru,2023,Online,2,0,2,0
+Shimoga,2023,School/College,1,0,1,0
+Yadgir,2023,Public Place,5,0,5,1
+Bagalkot,2023,School/College,4,0,4,1
+Bagalkot,2023,Public Place,5,0,5,2
+Ballari,2023,Online,3,0,3,0
+Chamarajanagar,2023,Public Place,4,0,4,1
+Chikkaballapura,2023,Online,2,0,2,0
+Kolar,2023,Domestic,3,0,3,0
+Gadag,2023,Public Place,1,0,1,0
+Chamarajanagar,2023,Domestic,2,0,2,0
+Bengaluru Rural,2023,Public Place,3,0,3,1
+Uttara Kannada,2023,Workplace,5,0,5,0
+Belagavi,2023,Workplace,2,0,2,0
+Davangere,2023,Public Place,5,0,5,1
+Kodagu,2023,Workplace,4,0,4,1
+Uttara Kannada,2023,Domestic,3,0,3,0
+Bengaluru Rural,2023,Domestic,8,0,8,2
+Mangaluru,2023,Online,0,0,0,0
+Mandya,2023,Public Place,3,0,3,1
+Bagalkot,2023,Online,6,0,6,1
+Bengaluru Urban,2023,Online,3,0,3,0
+Haveri,2023,Online,5,0,5,1
+Vijayapura,2023,Public Place,4,0,4,1
+Udupi,2023,Workplace,0,0,0,0
+Belagavi,2023,Domestic,4,0,4,1
+Tumakuru,2023,Workplace,6,1,5,2
+Tumakuru,2023,Workplace,6,0,6,1
+Chikkamagaluru,2023,Online,2,0,2,0
+Hubballi,2023,Public Place,5,0,5,1
+Hassan,2023,Workplace,4,0,4,0
+Belagavi,2023,Online,2,0,2,0
+Vijayapura,2023,Workplace,4,0,4,1
+Chamarajanagar2,2023,Domestic,5,0,5,1
+Vijayanagar,2023,Workplace,5,0,5,1
+RuralAreaX,2023,School/College,3,0,3,0
+Bagalkot,2023,Workplace,2,0,2,0
+Ramanagara,2023,Workplace,2,0,2,0
+Shivamogga,2023,School/College,3,0,3,0
+Hassan,2023,Online,7,0,7,3
+Bengaluru Rural,2023,School/College,5,0,5,2
+Bengaluru Urban,2023,Public Place,6,0,6,1
+Bagalkot,2023,Public Place,4,0,4,0
+Chamarajanagar2,2023,Online,3,0,3,0
+Ballari,2023,Domestic,2,0,2,0
+Uttara Kannada,2023,Workplace,1,0,1,0
+Bengaluru Urban,2023,Workplace,3,0,3,0
+Haveri,2023,Workplace,5,0,5,1
+Davangere,2023,Workplace,4,0,4,0
+Vijayapura,2023,Workplace,2,0,2,0
+Mandya,2023,Online,5,0,5,1
+RuralAreaX,2023,Public Place,9,1,8,2
+Chamarajanagar,2023,School/College,3,0,3,0
+Mangaluru,2023,Workplace,2,0,2,0
+Mysuru,2023,Public Place,6,1,5,1
+Ballari,2023,Online,5,0,5,1
+Bidar,2023,Domestic,3,0,3,0
+Bengaluru Urban,2023,Online,4,0,4,0
+Bidar,2023,Workplace,7,0,7,2
+Chamarajanagar,2023,School/College,2,0,2,0
+Kodagu,2023,Domestic,3,0,3,1
+Gadag,2023,School/College,2,0,2,0
+Shivamogga,2023,Domestic,6,0,6,2
+Belagavi,2023,Public Place,2,0,2,0
+Tumakuru,2023,Workplace,3,0,3,0
+Chikkamagaluru,2023,School/College,3,0,3,1
+Mysuru,2023,Domestic,4,0,4,0
+Ramanagara,2023,Online,1,0,1,0
+Chamarajanagar2,2023,Workplace,6,1,5,2
+Bidar,2023,Domestic,2,0,2,0
+Hubballi,2023,Domestic,4,0,4,1
+Mysuru,2023,Domestic,6,0,6,0
+Gadag,2023,School/College,5,0,5,0
+Chamarajanagar,2023,Public Place,5,0,5,0
+Kolar,2023,Domestic,1,0,1,0
+Mangaluru,2023,Public Place,5,0,5,1
+Mangaluru,2023,Workplace,4,0,4,1
+Kolar,2023,Domestic,1,0,1,0
+Bagalkot,2023,Public Place,2,0,2,0
+Ramanagara,2023,Online,2,0,2,0
+Kalaburagi,2023,Domestic,2,0,2,0
+Yadgir,2023,Public Place,1,0,1,0
+Chitradurga,2023,Domestic,4,0,4,1
+Chikkaballapura,2023,Workplace,3,0,3,1
+Chikkamagaluru,2023,Public Place,1,0,1,0
+Vijayanagar,2023,School/College,5,0,5,2
+Bengaluru Urban,2023,Public Place,5,0,5,1
+RuralAreaX,2023,Workplace,4,0,4,0
+Tumakuru,2023,School/College,3,0,3,0
+Ballari,2023,Public Place,4,0,4,1
+Koppal,2023,Workplace,6,1,5,1
+Belagavi,2023,Workplace,5,0,5,1
+Bengaluru Urban,2023,Workplace,1,0,1,0
+Chikkaballapura,2023,Domestic,2,0,2,0
+Bengaluru Rural,2023,Online,3,0,3,1
+Tumakuru,2023,Domestic,4,0,4,1
+Chitradurga,2023,Online,2,0,2,0
+Kalaburagi,2023,Domestic,5,0,5,1
+Belagavi,2023,Domestic,5,0,5,1
+Mysuru,2023,Workplace,7,0,7,1
+Yadgir,2023,School/College,11,2,9,4
+Bidar,2023,Online,3,0,3,0
+RuralAreaX,2023,Domestic,2,0,2,0
+Vijayanagar,2023,Online,1,0,1,0
+Hassan,2023,Public Place,2,0,2,0
+RuralAreaX,2023,Public Place,2,0,2,0
+Koppal,2023,Workplace,2,0,2,0
+Belagavi,2023,Workplace,3,0,3,1
+Vijayapura,2023,Online,6,0,6,0
+Vijayanagar,2023,School/College,8,1,7,2
+Yadgir,2023,Workplace,2,0,2,0
+Chamarajanagar2,2023,Online,5,0,5,2
+Tumakuru,2023,Workplace,3,0,3,1
+Dharwad,2023,Online,2,0,2,0
+Ballari,2023,Online,1,0,1,0
+Chikkamagaluru,2023,School/College,9,0,9,1
+Belagavi,2023,Public Place,3,0,3,1
+Haveri,2023,School/College,2,0,2,0
+Chamarajanagar2,2023,Workplace,6,0,6,1
+Shivamogga,2023,Workplace,2,0,2,0
+Bengaluru Rural,2023,Public Place,2,0,2,0
+Belagavi,2023,Domestic,8,0,8,2
+Bidar,2023,Workplace,3,0,3,0
+Gadag,2023,Public Place,6,1,5,1
+Shimoga,2023,Workplace,0,0,0,0
+Vijayapura,2023,Domestic,1,0,1,0
+Belagavi,2023,Online,3,0,3,1
+Ballari,2023,Online,7,0,7,2
+Bagalkot,2023,School/College,6,0,6,0
+Mangaluru,2023,Online,0,0,0,0
+Chikkamagaluru,2023,Online,2,0,2,0
+Chitradurga,2023,Online,5,0,5,1
+Ramanagara,2023,Domestic,2,0,2,0
+Vijayanagar,2023,Online,2,0,2,0
+Chitradurga,2023,Workplace,4,0,4,0
+Hubballi,2023,School/College,2,0,2,0
+Dharwad,2023,Domestic,2,0,2,0
+Mysuru,2023,Online,3,0,3,1
+Bengaluru Urban,2023,Public Place,1,0,1,0
+Bidar,2023,School/College,1,0,1,0
+Chikkamagaluru,2023,School/College,4,0,4,1
+Uttara Kannada,2023,Online,5,0,5,1
+Bengaluru Rural,2023,Online,1,0,1,0
+Chamarajanagar2,2023,Public Place,5,0,5,1
+Mysuru,2023,Public Place,5,0,5,0
+Chikkaballapura,2023,Workplace,2,0,2,0
+Kolar,2023,School/College,5,0,5,1
+Kolar,2023,Online,2,0,2,0
+Koppal,2023,Online,5,0,5,2
+RuralAreaX,2023,Online,6,1,5,1
+Raichur,2023,Public Place,5,0,5,2
+Belagavi,2023,Public Place,3,0,3,0
+Ramanagara,2023,Domestic,2,0,2,0
+Gadag,2023,Workplace,3,0,3,0
+Vijayanagar,2023,Online,5,0,5,0
+Vijayanagar,2023,Online,3,0,3,1
+Bidar,2023,School/College,3,0,3,0
+Uttara Kannada,2023,Online,5,0,5,1
+Bagalkot,2023,Online,7,1,6,1
+Koppal,2023,Public Place,4,0,4,1
+Gadag,2023,Workplace,2,0,2,0
+Chitradurga,2023,Domestic,3,0,3,0
+Mangaluru,2023,Domestic,6,0,6,0
+Mysuru,2023,Public Place,4,0,4,1
+Chikkamagaluru,2023,Workplace,3,0,3,0
+Yadgir,2023,Public Place,4,0,4,0
+Kalaburagi,2023,Workplace,4,0,4,1
+Chamarajanagar,2023,Public Place,2,0,2,0
+Gadag,2023,Online,4,0,4,1
+Udupi,2023,Online,2,0,2,0
+Bengaluru Rural,2023,Public Place,2,0,2,0
+Shivamogga,2023,Public Place,1,0,1,0
+Chikkaballapura,2023,Online,3,0,3,0
+Chitradurga,2023,Online,2,0,2,0
+Hubballi,2023,Online,1,0,1,0
+Vijayapura,2023,School/College,2,0,2,0
+Mysuru,2023,Public Place,4,0,4,1
+Kalaburagi,2023,Domestic,4,0,4,1
+Kolar,2023,School/College,4,0,4,0
+Kalaburagi,2023,Domestic,5,0,5,0
+Udupi,2023,School/College,5,0,5,1
+Hassan,2023,Public Place,3,0,3,1
+Chamarajanagar,2023,Online,2,0,2,0
+Tumakuru,2023,Online,7,0,7,1
+Ballari,2023,Domestic,6,1,5,0
+Koppal,2023,Public Place,3,0,3,0
+Bengaluru Urban,2023,Online,3,0,3,0
+Udupi,2023,Workplace,3,0,3,0
+Udupi,2023,Domestic,5,0,5,2
+Haveri,2023,Domestic,5,0,5,0
+Chitradurga,2023,School/College,5,0,5,1
+Yadgir,2023,Workplace,4,0,4,1
+Davangere,2023,School/College,3,0,3,0
+Vijayanagar,2023,Domestic,3,0,3,1
+Belagavi,2023,Public Place,0,0,0,0
+Ramanagara,2023,School/College,4,0,4,1
+Chikkamagaluru,2023,Online,4,0,4,1
+Haveri,2023,Online,1,0,1,0
+Kolar,2023,Public Place,7,0,7,2
+Koppal,2023,Workplace,6,0,6,2
+Bengaluru Rural,2023,Workplace,3,0,3,0
+Raichur,2023,Public Place,2,0,2,0
+Chitradurga,2023,Workplace,4,0,4,0
+Koppal,2023,Workplace,2,0,2,0
+Chitradurga,2023,Public Place,5,0,5,1
+Chamarajanagar2,2023,Online,3,0,3,0
+Mandya,2023,Public Place,3,0,3,1
+Bidar,2023,Public Place,1,0,1,0
+Hassan,2023,Workplace,1,0,1,0
+Ramanagara,2023,Workplace,3,0,3,0
+Koppal,2023,Public Place,1,0,1,0
+Shimoga,2023,Public Place,3,0,3,0
+Mandya,2023,Online,6,0,6,1
+Gadag,2023,Domestic,2,0,2,0
+Gadag,2023,Public Place,3,0,3,1
+Hassan,2023,Domestic,7,0,7,2
+Bengaluru Rural,2023,Domestic,3,0,3,1
+Shivamogga,2023,Public Place,6,0,6,1
+Chamarajanagar2,2023,Domestic,5,0,5,2
+Mangaluru,2023,Public Place,2,0,2,0
+Koppal,2023,Public Place,3,0,3,1
+Dharwad,2023,Public Place,3,0,3,0
+Bengaluru Urban,2023,Workplace,3,0,3,0
+Dharwad,2023,Public Place,4,0,4,1
+Vijayapura,2023,School/College,3,0,3,1
+Chamarajanagar2,2023,Domestic,0,0,0,0
+Belagavi,2023,Workplace,3,0,3,0
+Chikkamagaluru,2023,Online,1,0,1,0
+Davangere,2023,Workplace,5,0,5,0
+Mandya,2023,Domestic,6,1,5,0
+Belagavi,2023,Workplace,6,0,6,0
+Shivamogga,2023,Public Place,1,0,1,0
+Ballari,2023,Online,2,0,2,0
+Chikkamagaluru,2023,School/College,0,0,0,0
+Vijayanagar,2023,Domestic,2,0,2,0
+Haveri,2023,Domestic,3,0,3,0
+Raichur,2023,Public Place,1,0,1,0
+Vijayanagar,2023,School/College,6,1,5,1
+Bengaluru Urban,2023,Public Place,3,0,3,0
+Ramanagara,2023,Workplace,5,0,5,0
+Udupi,2023,Public Place,4,0,4,1
+Hubballi,2023,Online,5,0,5,1
+Raichur,2023,Online,2,0,2,0
+Hubballi,2023,School/College,6,0,6,1
+Ramanagara,2023,Domestic,3,0,3,0
+Bengaluru Rural,2023,Workplace,5,0,5,2
+Bagalkot,2023,School/College,3,0,3,0
+RuralAreaX,2023,Workplace,3,0,3,0
+Hubballi,2023,Online,0,0,0,0
+Kodagu,2023,Workplace,4,0,4,0
+Raichur,2023,School/College,5,0,5,1
+Hassan,2023,Workplace,4,0,4,0
+Chikkaballapura,2023,Workplace,1,0,1,0
+Ramanagara,2023,Public Place,4,0,4,0
+Bidar,2023,Workplace,1,0,1,0
+Shimoga,2023,Domestic,3,0,3,1
+Yadgir,2023,Workplace,7,0,7,2
+Bengaluru Rural,2023,Online,5,0,5,1
+Kodagu,2023,Workplace,4,0,4,0
+Dharwad,2023,Public Place,2,0,2,0
+Bidar,2023,School/College,4,0,4,1
+Belagavi,2023,Online,2,0,2,0
+Mandya,2023,Online,10,1,9,4
+Bengaluru Urban,2023,School/College,8,0,8,1
+Belagavi,2023,Domestic,4,0,4,0
+Chamarajanagar2,2023,Public Place,1,0,1,0
+Hubballi,2023,School/College,2,0,2,0
+Bengaluru Urban,2023,Online,5,0,5,0
+Chamarajanagar,2023,School/College,4,0,4,0
+Kodagu,2023,Online,6,1,5,0
+Haveri,2023,Workplace,4,0,4,1
+Uttara Kannada,2023,Domestic,3,0,3,1
+Vijayanagar,2023,Domestic,6,0,6,0
+Tumakuru,2023,Online,4,0,4,1
+Kalaburagi,2023,Online,3,0,3,0
+Ramanagara,2023,School/College,4,0,4,0
+Vijayanagar,2023,Online,4,0,4,1
+Kolar,2023,Online,4,0,4,0
+Chamarajanagar2,2023,Public Place,1,0,1,0
+Chikkamagaluru,2023,Domestic,5,0,5,2
+Vijayapura,2023,Public Place,5,0,5,0
+Kodagu,2023,Domestic,3,0,3,1
+Ramanagara,2023,Domestic,4,0,4,1
+Dharwad,2023,Online,4,0,4,1
+RuralAreaX,2023,Public Place,4,0,4,1
+Udupi,2023,Domestic,3,0,3,1
+Koppal,2023,Online,0,0,0,0
+Vijayanagar,2023,School/College,7,0,7,2
+Raichur,2023,Domestic,3,0,3,0
+Mandya,2023,Domestic,2,0,2,0
+Hubballi,2023,Online,3,0,3,0
+Bengaluru Urban,2023,School/College,1,0,1,0
+Raichur,2023,Domestic,2,0,2,0
+Vijayapura,2023,Workplace,2,0,2,0
+Gadag,2023,Public Place,4,0,4,0
+Davangere,2023,Domestic,2,0,2,0
+RuralAreaX,2023,School/College,2,0,2,0
+Raichur,2023,Domestic,7,0,7,3
+Mandya,2023,Online,4,0,4,0
+Mysuru,2023,School/College,6,1,5,0
+Vijayapura,2023,Domestic,3,0,3,1
+Bidar,2023,Workplace,2,0,2,0
+Bagalkot,2023,School/College,2,0,2,0
+Kalaburagi,2023,School/College,2,0,2,0
+Belagavi,2023,Workplace,3,0,3,0
+Davangere,2023,School/College,0,0,0,0
+Ballari,2023,School/College,2,0,2,0
+Hassan,2023,Workplace,2,0,2,0
+Yadgir,2023,Public Place,3,0,3,0
+Hassan,2023,Online,2,0,2,0
+Uttara Kannada,2023,School/College,5,0,5,2
+Davangere,2023,Online,4,0,4,1
+Yadgir,2023,Domestic,3,0,3,0
+RuralAreaX,2023,Online,2,0,2,0
+Uttara Kannada,2023,Public Place,2,0,2,0
+Chikkamagaluru,2023,Domestic,2,0,2,0
+Yadgir,2023,School/College,8,1,7,0
+Dharwad,2023,Online,3,0,3,0
+Shivamogga,2023,Domestic,2,0,2,0
+Hassan,2023,Online,2,0,2,0
+Koppal,2023,School/College,2,0,2,0
+Ramanagara,2023,Domestic,4,0,4,1
+Chikkaballapura,2023,Domestic,1,0,1,0
+Chamarajanagar2,2023,Public Place,8,1,7,3
+Kolar,2023,Online,3,0,3,0
+Mangaluru,2023,Public Place,4,0,4,1
+Bengaluru Rural,2023,Domestic,2,0,2,0
+Chamarajanagar,2023,Public Place,1,0,1,0
+Vijayapura,2023,Online,2,0,2,0
+Tumakuru,2023,Online,2,0,2,0
+Bidar,2023,Public Place,6,0,6,2
+Mysuru,2023,Public Place,3,0,3,0
+Kalaburagi,2023,School/College,4,0,4,1
+Bidar,2023,Public Place,1,0,1,0
+Kolar,2023,Workplace,4,0,4,1
+Dharwad,2023,Workplace,3,0,3,1
+Bidar,2023,Domestic,1,0,1,0
+Bidar,2023,Public Place,4,0,4,0
+Hassan,2023,School/College,3,0,3,0
+Shimoga,2023,Public Place,5,0,5,1
+Bengaluru Urban,2023,Workplace,3,0,3,0
+Mangaluru,2023,Workplace,5,0,5,1
+Shivamogga,2023,School/College,2,0,2,0
+Kolar,2023,School/College,3,0,3,1
+Haveri,2023,Public Place,4,0,4,0
+Bengaluru Rural,2023,Online,4,0,4,1
+Bagalkot,2023,Workplace,8,1,7,1
+Haveri,2023,Online,2,0,2,0
+Chikkaballapura,2023,Domestic,1,0,1,0
+Chikkamagaluru,2023,Public Place,4,0,4,1
+Tumakuru,2023,Workplace,9,0,9,3
+Dharwad,2023,Workplace,3,0,3,0
+Chamarajanagar2,2023,Public Place,3,0,3,0
+RuralAreaX,2023,Domestic,6,0,6,2
+Tumakuru,2023,Online,4,0,4,1
+Ramanagara,2023,School/College,3,0,3,0
+Bagalkot,2023,School/College,2,0,2,0
+Mandya,2023,Online,3,0,3,0
+Chamarajanagar2,2023,School/College,1,0,1,0
+Gadag,2023,School/College,6,1,5,1
+Bengaluru Urban,2023,School/College,5,0,5,1
+Hubballi,2023,School/College,6,0,6,2
+Bengaluru Urban,2023,Domestic,3,0,3,0
+Chikkaballapura,2023,Domestic,4,0,4,1
+Mandya,2023,Workplace,1,0,1,0
+Vijayanagar,2023,School/College,1,0,1,0
+Mysuru,2023,Domestic,4,0,4,0
+Koppal,2023,Workplace,3,0,3,1
+Mysuru,2023,Domestic,3,0,3,1
+Kolar,2023,Public Place,3,0,3,0
+Chitradurga,2023,Public Place,2,0,2,0
+Chikkamagaluru,2023,Public Place,4,0,4,1
+Mandya,2023,Online,3,0,3,0
+Bengaluru Rural,2023,Public Place,2,0,2,0
+Davangere,2023,Workplace,3,0,3,0
+Bengaluru Urban,2023,Public Place,8,0,8,2
+Raichur,2023,School/College,0,0,0,0
+Ramanagara,2023,Workplace,5,0,5,2
+Yadgir,2023,Online,2,0,2,0
+Chikkamagaluru,2023,Domestic,8,1,7,2
+Ramanagara,2023,School/College,0,0,0,0
+Raichur,2023,Workplace,9,1,8,1
+Kolar,2023,Public Place,5,0,5,1
+Mandya,2023,Domestic,2,0,2,0
+Chikkaballapura,2023,Workplace,2,0,2,0
+Chamarajanagar,2023,Online,4,0,4,1
+Vijayapura,2023,Workplace,3,0,3,1
+Dharwad,2023,Public Place,1,0,1,0
+Mandya,2023,Public Place,4,0,4,0
+Chikkamagaluru,2023,Workplace,1,0,1,0
+Chamarajanagar2,2023,Workplace,2,0,2,0
+Yadgir,2023,Workplace,4,0,4,0
+Chamarajanagar,2023,Online,2,0,2,0
+Haveri,2023,School/College,1,0,1,0
+Kodagu,2023,Domestic,10,1,9,2
+Raichur,2023,Workplace,5,0,5,2
+Yadgir,2023,Online,6,1,5,2
+Mandya,2023,Public Place,0,0,0,0
+Haveri,2023,School/College,1,0,1,0
+Bengaluru Urban,2023,School/College,2,0,2,0
+Chikkaballapura,2023,Online,5,0,5,1
+Gadag,2023,School/College,5,0,5,2
+Shimoga,2023,Online,4,0,4,0
+Tumakuru,2023,Online,5,0,5,2
+Mangaluru,2023,Workplace,1,0,1,0
+Ramanagara,2023,School/College,2,0,2,0
+Ramanagara,2023,School/College,4,0,4,0
+Shivamogga,2023,Public Place,4,0,4,1
+Udupi,2023,Public Place,9,1,8,1
+Chamarajanagar2,2023,Workplace,1,0,1,0
+Hubballi,2023,Domestic,5,0,5,1
+Chikkaballapura,2023,Workplace,6,0,6,2
+Uttara Kannada,2023,Workplace,7,0,7,1
+Davangere,2023,Workplace,5,0,5,1
+Ballari,2023,Public Place,0,0,0,0
+Shimoga,2023,School/College,4,0,4,1
+Shivamogga,2023,Online,3,0,3,0
+Belagavi,2023,Online,4,0,4,0
+Ramanagara,2023,Domestic,5,0,5,1
+Hassan,2023,Public Place,5,0,5,1
+Mandya,2023,Online,6,0,6,1
+Udupi,2023,School/College,6,0,6,1
+Shimoga,2023,Workplace,4,0,4,0
+Dharwad,2023,Domestic,6,0,6,2
+Chikkamagaluru,2023,School/College,3,0,3,0
+Yadgir,2023,Public Place,3,0,3,0
+Bengaluru Urban,2023,Domestic,1,0,1,0
+Vijayanagar,2023,School/College,0,0,0,0
+Bagalkot,2023,Domestic,3,0,3,0
+Shimoga,2023,Online,3,0,3,1
+Mysuru,2023,School/College,0,0,0,0
+Udupi,2023,Workplace,4,0,4,0
+Bengaluru Urban,2023,Public Place,5,0,5,0
+Raichur,2023,Public Place,6,0,6,2
+Koppal,2023,Domestic,2,0,2,0
+Kalaburagi,2023,Workplace,3,0,3,1
+Mandya,2023,Workplace,5,0,5,1
+Dharwad,2023,Workplace,5,0,5,1
+Mysuru,2023,Domestic,4,0,4,0
+Chitradurga,2023,Domestic,3,0,3,0
+Bagalkot,2023,Workplace,3,0,3,0
+Vijayapura,2023,Domestic,6,0,6,1
+Ramanagara,2023,School/College,5,0,5,1
+RuralAreaX,2023,Domestic,3,0,3,0
+Chamarajanagar2,2023,Public Place,3,0,3,0
+Raichur,2023,Public Place,0,0,0,0
+Chikkamagaluru,2023,School/College,3,0,3,1
+Shivamogga,2023,Domestic,3,0,3,0
+Ramanagara,2023,Domestic,3,0,3,0
+Ballari,2023,Domestic,3,0,3,0
+Kalaburagi,2023,Public Place,7,0,7,1
+Haveri,2023,Domestic,2,0,2,0
+Kolar,2023,Workplace,3,0,3,0
+Chamarajanagar,2023,Public Place,6,0,6,2
+Gadag,2023,School/College,4,0,4,1
+Chikkamagaluru,2023,Domestic,1,0,1,0
+Kolar,2023,Online,3,0,3,1
+Kalaburagi,2023,School/College,6,0,6,1
+Shimoga,2023,Domestic,4,0,4,1
+Chitradurga,2023,Online,1,0,1,0
+Kodagu,2023,Online,2,0,2,0
+Bengaluru Rural,2023,Public Place,5,0,5,2
+Hubballi,2023,Workplace,5,0,5,0
+Kalaburagi,2023,Domestic,4,0,4,1
+Haveri,2023,Online,4,0,4,1
+Chamarajanagar2,2023,Public Place,3,0,3,0
+Chikkamagaluru,2023,Workplace,1,0,1,0
+Koppal,2023,Online,0,0,0,0
+Kalaburagi,2023,Public Place,2,0,2,0
+Haveri,2023,Domestic,5,0,5,1
+Kalaburagi,2023,Workplace,7,1,6,2
+Shivamogga,2023,School/College,0,0,0,0
+Bengaluru Rural,2023,Online,4,0,4,1
+Mysuru,2023,School/College,4,0,4,1
+Vijayanagar,2023,School/College,11,1,10,1
+Hassan,2023,Domestic,4,0,4,0
+Vijayanagar,2023,Online,7,1,6,1
+Bengaluru Rural,2023,Public Place,4,0,4,1
+Vijayanagar,2023,Domestic,7,0,7,1
+Davangere,2023,Workplace,0,0,0,0
+Udupi,2023,School/College,6,1,5,0
+Haveri,2023,Online,2,0,2,0
+Mandya,2023,Public Place,5,0,5,1
+Tumakuru,2023,Domestic,7,0,7,1
+Uttara Kannada,2023,Workplace,3,0,3,0
+Vijayapura,2023,Workplace,2,0,2,0
+Belagavi,2023,Online,3,0,3,0
+Kolar,2023,Workplace,3,0,3,1
+Ballari,2023,Online,3,0,3,1
+Gadag,2023,Workplace,0,0,0,0
+Hubballi,2023,Public Place,3,0,3,0
+Hubballi,2023,Public Place,4,0,4,1
+Davangere,2023,School/College,3,0,3,1
+Belagavi,2023,Online,5,0,5,1
+Shivamogga,2023,Public Place,1,0,1,0
+Udupi,2023,School/College,7,0,7,2
+RuralAreaX,2023,School/College,1,0,1,0
+Mangaluru,2023,Public Place,6,1,5,1
+Vijayanagar,2023,School/College,7,0,7,1
+Kolar,2023,Workplace,0,0,0,0
+Bengaluru Urban,2023,Domestic,1,0,1,0
+Hubballi,2023,Domestic,5,0,5,1
+Shimoga,2023,Domestic,4,0,4,1
+Mysuru,2023,Public Place,4,0,4,0
+Tumakuru,2023,Public Place,5,0,5,1
+Chamarajanagar2,2023,School/College,6,0,6,1
+Vijayanagar,2023,School/College,0,0,0,0
+Haveri,2023,Workplace,3,0,3,1
+Tumakuru,2023,Public Place,1,0,1,0
+Vijayapura,2023,Online,2,0,2,0
+Haveri,2023,Public Place,3,0,3,0
+Chikkamagaluru,2023,School/College,6,1,5,2
+Kodagu,2023,School/College,2,0,2,0
+Chikkaballapura,2023,School/College,0,0,0,0
+Udupi,2023,School/College,4,0,4,0
+Hubballi,2023,Online,4,0,4,0
+Kalaburagi,2023,Domestic,5,0,5,1
+Bengaluru Rural,2023,Online,0,0,0,0
+Bidar,2023,Public Place,4,0,4,1
+Chikkaballapura,2023,Domestic,4,0,4,1
+Kalaburagi,2023,Workplace,7,0,7,2
+Bengaluru Urban,2023,Workplace,2,0,2,0
+Shivamogga,2023,Online,3,0,3,0
+Kolar,2023,Public Place,2,0,2,0
+Koppal,2023,Online,4,0,4,1
+Shivamogga,2023,Workplace,2,0,2,0
+Belagavi,2023,Domestic,5,0,5,1
+Davangere,2023,Online,6,1,5,2
+Bengaluru Rural,2023,Domestic,5,0,5,1
+Vijayapura,2023,Online,4,0,4,1
+Bidar,2023,Online,0,0,0,0
+RuralAreaX,2023,School/College,5,0,5,0
+Bidar,2023,School/College,3,0,3,0
+Yadgir,2023,Domestic,6,0,6,1
+Bengaluru Urban,2023,Online,4,0,4,1
+Dharwad,2023,Domestic,1,0,1,0
+Raichur,2023,Workplace,8,0,8,1
+Vijayanagar,2023,Online,4,0,4,1
+Chikkaballapura,2023,Public Place,5,0,5,0
+Kolar,2023,Domestic,6,0,6,2
+Shivamogga,2023,Online,4,0,4,1
+Mysuru,2023,School/College,4,0,4,1
+Chitradurga,2023,Workplace,3,0,3,0
+RuralAreaX,2023,Online,1,0,1,0
+Davangere,2023,School/College,3,0,3,1
+Mandya,2023,Online,2,0,2,0
+Gadag,2023,Public Place,8,1,7,2
+Chamarajanagar2,2023,Workplace,3,0,3,0
+Hassan,2023,Workplace,4,0,4,0
+Chikkaballapura,2023,Workplace,2,0,2,0
+Shivamogga,2023,Online,5,0,5,1
+Chikkaballapura,2023,School/College,6,0,6,2
+Chikkamagaluru,2023,Public Place,1,0,1,0
+Kodagu,2023,School/College,4,0,4,0
+Kalaburagi,2023,School/College,2,0,2,0
+Hassan,2023,Domestic,4,0,4,0
+Gadag,2023,Workplace,3,0,3,1
+Mysuru,2023,Domestic,1,0,1,0
+Mangaluru,2023,Domestic,5,0,5,0
+Kodagu,2023,Public Place,2,0,2,0
+Kalaburagi,2023,Public Place,4,0,4,1
+Dharwad,2023,Public Place,2,0,2,0
+Chitradurga,2023,School/College,3,0,3,0
+Tumakuru,2023,Online,3,0,3,1
+Mangaluru,2023,Domestic,2,0,2,0
+Ramanagara,2023,Public Place,4,0,4,1
+Gadag,2023,Online,3,0,3,0
+Chitradurga,2023,Public Place,5,0,5,1
+Kodagu,2023,School/College,3,0,3,1
+Mangaluru,2023,Domestic,4,0,4,0
+Tumakuru,2023,Online,4,0,4,0
+Koppal,2023,Public Place,8,1,7,2
+Dharwad,2023,Workplace,6,0,6,1
+Mysuru,2023,Workplace,4,0,4,1
+Kolar,2023,Workplace,5,0,5,0
+Yadgir,2023,Workplace,0,0,0,0
+Shivamogga,2023,Workplace,1,0,1,0
+Bengaluru Urban,2023,Workplace,1,0,1,0
+Raichur,2023,School/College,1,0,1,0
+Shivamogga,2023,Domestic,1,0,1,0
+Kalaburagi,2023,Workplace,2,0,2,0
+Chamarajanagar,2023,Domestic,4,0,4,0
+Haveri,2023,Public Place,8,0,8,1
+Bidar,2023,Domestic,6,0,6,1
+Chikkamagaluru,2023,Online,3,0,3,1
+Mysuru,2023,Public Place,2,0,2,0
+Bagalkot,2023,Workplace,1,0,1,0
+Haveri,2023,Public Place,5,0,5,1
+Yadgir,2023,Online,2,0,2,0
+Chitradurga,2023,Online,5,0,5,0
+Vijayanagar,2023,Workplace,5,0,5,1
+Udupi,2023,School/College,5,0,5,1
+Vijayanagar,2023,Online,2,0,2,0
+Kolar,2023,Online,3,0,3,0
+Chikkamagaluru,2023,Domestic,6,0,6,2
+Bidar,2023,Domestic,4,0,4,0
+Uttara Kannada,2023,Domestic,4,0,4,1
+Belagavi,2023,Domestic,5,0,5,1
+Chikkamagaluru,2023,Workplace,0,0,0,0
+Tumakuru,2023,Workplace,5,0,5,1
+Chitradurga,2023,Public Place,2,0,2,0
+Bagalkot,2023,Public Place,3,0,3,0
+Belagavi,2023,School/College,6,0,6,1
+Vijayapura,2023,Workplace,3,0,3,0
+Tumakuru,2023,Domestic,4,0,4,1
+Kodagu,2023,Domestic,3,0,3,0
+Shivamogga,2023,Public Place,2,0,2,0
+Vijayanagar,2023,Public Place,3,0,3,0
+Mandya,2023,School/College,2,0,2,0
+Chikkamagaluru,2023,Public Place,3,0,3,0
+Bagalkot,2023,Workplace,3,0,3,0
+Koppal,2023,Domestic,2,0,2,0
+RuralAreaX,2023,School/College,7,0,7,2
+RuralAreaX,2023,Workplace,2,0,2,0
+Hubballi,2023,Online,2,0,2,0
+Chitradurga,2023,Public Place,8,1,7,2
+Hubballi,2023,Workplace,2,0,2,0
+Ramanagara,2023,Workplace,5,0,5,1
+RuralAreaX,2023,Domestic,1,0,1,0
+Vijayapura,2023,Domestic,5,0,5,2
+Chitradurga,2023,Public Place,3,0,3,0
+Bagalkot,2023,Domestic,2,0,2,0
+Shivamogga,2023,School/College,4,0,4,1
+Koppal,2023,Domestic,5,0,5,1
+Vijayanagar,2023,School/College,5,0,5,1
+Kodagu,2023,Workplace,4,0,4,0
+Yadgir,2023,Public Place,3,0,3,1
+Yadgir,2023,Online,5,0,5,1
+Raichur,2023,Public Place,1,0,1,0
+RuralAreaX,2023,Online,5,0,5,1
+Koppal,2023,School/College,0,0,0,0
+Kolar,2023,School/College,7,0,7,2
+Kolar,2023,Workplace,0,0,0,0
+Mysuru,2023,Workplace,3,0,3,0
+Bagalkot,2023,Domestic,6,1,5,0
+Kolar,2023,Public Place,3,0,3,0
+Davangere,2023,Workplace,3,0,3,0
+Yadgir,2023,Public Place,5,0,5,1
+Kolar,2023,Online,3,0,3,0
+Uttara Kannada,2023,Public Place,6,1,5,2
+Mangaluru,2023,Domestic,0,0,0,0
+Udupi,2023,School/College,11,1,10,1
+Hassan,2023,Online,2,0,2,0
+Belagavi,2023,Public Place,0,0,0,0
+Bengaluru Rural,2023,Workplace,4,0,4,1
+Chamarajanagar,2023,School/College,4,0,4,0
+Chamarajanagar2,2023,Workplace,6,1,5,2
+Belagavi,2023,Public Place,6,0,6,2
+Koppal,2023,Online,4,0,4,1
+RuralAreaX,2023,Public Place,4,0,4,1
+Hassan,2023,Online,2,0,2,0
+Mangaluru,2023,Online,3,0,3,0
+Chamarajanagar,2023,School/College,1,0,1,0
+Kolar,2023,School/College,2,0,2,0
+RuralAreaX,2023,Online,5,0,5,1
+Udupi,2023,Online,6,0,6,1
+Kodagu,2023,Online,3,0,3,0
+Mysuru,2023,School/College,1,0,1,0
+Bengaluru Rural,2023,Public Place,9,1,8,1
+Uttara Kannada,2023,Workplace,5,0,5,1
+Kalaburagi,2023,School/College,4,0,4,0
+Gadag,2023,Workplace,4,0,4,1
+RuralAreaX,2023,Workplace,4,0,4,0
+Chikkaballapura,2023,Workplace,5,0,5,1
+Chikkaballapura,2023,School/College,8,1,7,2
+Raichur,2023,School/College,4,0,4,0
+Haveri,2023,Domestic,6,1,5,1
+Raichur,2023,Domestic,4,0,4,1
+Belagavi,2023,Workplace,4,0,4,1
+Haveri,2023,Domestic,5,0,5,0
+Bidar,2023,Online,1,0,1,0
+Belagavi,2023,Workplace,2,0,2,0
+Bengaluru Rural,2023,Workplace,3,0,3,0
+Shimoga,2023,Domestic,3,0,3,0
+Mysuru,2023,Workplace,2,0,2,0
+Mandya,2023,Public Place,3,0,3,1
+Chikkamagaluru,2023,Workplace,5,0,5,1
+Mandya,2023,Workplace,8,1,7,2
+Tumakuru,2023,Workplace,1,0,1,0
+Mysuru,2023,Workplace,3,0,3,0
+RuralAreaX,2023,Workplace,0,0,0,0
+Mangaluru,2023,Workplace,5,0,5,0
+Bengaluru Rural,2023,Workplace,2,0,2,0
+Kodagu,2023,Online,2,0,2,0
+Bengaluru Rural,2023,Workplace,5,0,5,1
+Shimoga,2023,Online,5,0,5,1
+Dharwad,2023,School/College,5,0,5,1

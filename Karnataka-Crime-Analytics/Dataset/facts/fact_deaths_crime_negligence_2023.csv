@@ -1,0 +1,901 @@
+District,Year,Negligence_Cause,Death_Count,Male_Deaths,Female_Deaths
+Koppal,2023,Police Negligence,2,1,1
+Yadgir,2023,Other,5,4,1
+Ballari,2023,Fire,3,2,1
+Ballari,2023,Other,3,2,1
+Bagalkot,2023,Fire,2,1,1
+Bagalkot,2023,Medical,2,1,1
+Shivamogga,2023,Industrial,2,1,1
+Yadgir,2023,Other,1,0,1
+Chamarajanagar2,2023,Industrial,6,4,2
+Koppal,2023,Fire,0,0,0
+Raichur,2023,Fire,4,3,1
+Belagavi,2023,Fire,2,1,1
+Vijayanagar,2023,Other,2,1,1
+Raichur,2023,Police Negligence,6,4,2
+Kodagu,2023,Police Negligence,2,1,1
+Dharwad,2023,Police Negligence,0,0,0
+Udupi,2023,Industrial,3,2,1
+Chikkamagaluru,2023,Medical,2,1,1
+Davangere,2023,Industrial,0,0,0
+Uttara Kannada,2023,Fire,0,0,0
+Kalaburagi,2023,Police Negligence,3,2,1
+Bidar,2023,Medical,2,1,1
+Bagalkot,2023,Medical,1,0,1
+Bidar,2023,Fire,2,1,1
+Raichur,2023,Police Negligence,1,0,1
+Chamarajanagar2,2023,Industrial,6,4,2
+Hassan,2023,Fire,2,1,1
+Bagalkot,2023,Industrial,3,2,1
+Vijayanagar,2023,Industrial,1,0,1
+Ramanagara,2023,Industrial,2,1,1
+Haveri,2023,Police Negligence,2,1,1
+Kodagu,2023,Industrial,6,5,1
+Davangere,2023,Fire,3,2,1
+Vijayapura,2023,Industrial,4,2,2
+Chamarajanagar2,2023,Industrial,2,1,1
+Hassan,2023,Industrial,1,0,1
+Davangere,2023,Police Negligence,1,0,1
+Hubballi,2023,Police Negligence,2,1,1
+Bidar,2023,Fire,3,2,1
+Raichur,2023,Fire,2,1,1
+Kolar,2023,Other,2,1,1
+Udupi,2023,Medical,3,2,1
+Hubballi,2023,Fire,2,1,1
+Udupi,2023,Industrial,1,0,1
+Haveri,2023,Other,2,1,1
+Gadag,2023,Other,4,2,2
+Dharwad,2023,Other,3,1,2
+Kalaburagi,2023,Other,6,3,3
+RuralAreaX,2023,Fire,2,1,1
+Bengaluru Rural,2023,Other,0,0,0
+Raichur,2023,Other,2,1,1
+Bidar,2023,Industrial,1,0,1
+Yadgir,2023,Industrial,0,0,0
+Hubballi,2023,Industrial,0,0,0
+Kolar,2023,Industrial,3,2,1
+Kodagu,2023,Fire,3,2,1
+Davangere,2023,Medical,0,0,0
+Hassan,2023,Industrial,0,0,0
+Hassan,2023,Other,4,2,2
+Bidar,2023,Fire,2,1,1
+Koppal,2023,Medical,2,1,1
+Ramanagara,2023,Medical,4,2,2
+Raichur,2023,Other,1,0,1
+Tumakuru,2023,Medical,2,1,1
+RuralAreaX,2023,Industrial,1,0,1
+Gadag,2023,Industrial,1,0,1
+Kalaburagi,2023,Industrial,3,2,1
+Chamarajanagar,2023,Police Negligence,1,0,1
+Dharwad,2023,Fire,1,0,1
+Chamarajanagar,2023,Industrial,2,1,1
+Raichur,2023,Medical,1,0,1
+Mangaluru,2023,Police Negligence,1,0,1
+Hubballi,2023,Medical,1,0,1
+Koppal,2023,Industrial,4,3,1
+Ramanagara,2023,Fire,4,2,2
+Bagalkot,2023,Medical,1,0,1
+Bengaluru Urban,2023,Fire,0,0,0
+Chikkamagaluru,2023,Medical,2,1,1
+Udupi,2023,Police Negligence,3,1,2
+Bagalkot,2023,Police Negligence,3,2,1
+Ballari,2023,Fire,2,1,1
+Uttara Kannada,2023,Medical,2,1,1
+Chikkaballapura,2023,Fire,2,1,1
+Kalaburagi,2023,Medical,3,2,1
+Ballari,2023,Other,1,0,1
+Hassan,2023,Medical,1,0,1
+Kolar,2023,Police Negligence,2,1,1
+Udupi,2023,Police Negligence,3,1,2
+Raichur,2023,Police Negligence,4,2,2
+Belagavi,2023,Other,3,2,1
+Shimoga,2023,Medical,1,0,1
+Ballari,2023,Industrial,1,0,1
+Davangere,2023,Other,3,2,1
+Shimoga,2023,Industrial,1,0,1
+Davangere,2023,Industrial,3,2,1
+Uttara Kannada,2023,Other,3,2,1
+Kalaburagi,2023,Fire,1,0,1
+Dharwad,2023,Industrial,0,0,0
+Vijayapura,2023,Police Negligence,4,3,1
+Shimoga,2023,Police Negligence,2,1,1
+Belagavi,2023,Fire,1,0,1
+Bengaluru Urban,2023,Industrial,1,0,1
+Hassan,2023,Police Negligence,4,3,1
+Raichur,2023,Fire,2,1,1
+Tumakuru,2023,Police Negligence,2,1,1
+Hubballi,2023,Medical,0,0,0
+Davangere,2023,Other,1,0,1
+Gadag,2023,Other,2,1,1
+Chamarajanagar,2023,Police Negligence,3,1,2
+Mandya,2023,Medical,3,2,1
+Bengaluru Rural,2023,Industrial,2,1,1
+Bengaluru Rural,2023,Industrial,3,1,2
+Hubballi,2023,Police Negligence,2,1,1
+Hubballi,2023,Medical,2,1,1
+Shimoga,2023,Industrial,1,0,1
+Bagalkot,2023,Other,2,1,1
+Udupi,2023,Industrial,0,0,0
+Hubballi,2023,Police Negligence,4,3,1
+Chitradurga,2023,Police Negligence,4,2,2
+Mangaluru,2023,Fire,1,0,1
+Davangere,2023,Industrial,2,1,1
+RuralAreaX,2023,Industrial,3,1,2
+Dharwad,2023,Other,0,0,0
+Bengaluru Urban,2023,Police Negligence,3,2,1
+Hubballi,2023,Industrial,1,0,1
+Chikkaballapura,2023,Industrial,2,1,1
+Chitradurga,2023,Police Negligence,1,0,1
+Kolar,2023,Police Negligence,3,2,1
+Chikkamagaluru,2023,Medical,2,1,1
+Haveri,2023,Industrial,2,1,1
+Bagalkot,2023,Industrial,2,1,1
+Shivamogga,2023,Fire,2,1,1
+Uttara Kannada,2023,Industrial,2,1,1
+Bengaluru Rural,2023,Other,2,1,1
+Ramanagara,2023,Police Negligence,3,2,1
+Yadgir,2023,Other,2,1,1
+Kalaburagi,2023,Police Negligence,2,1,1
+Kalaburagi,2023,Fire,3,2,1
+Kolar,2023,Other,1,0,1
+Udupi,2023,Other,2,1,1
+Haveri,2023,Fire,4,2,2
+Belagavi,2023,Police Negligence,0,0,0
+Shimoga,2023,Other,0,0,0
+Chitradurga,2023,Other,2,1,1
+Bidar,2023,Other,2,1,1
+Tumakuru,2023,Other,2,1,1
+Shivamogga,2023,Police Negligence,3,2,1
+Chamarajanagar2,2023,Other,1,0,1
+Chamarajanagar,2023,Other,3,1,2
+Tumakuru,2023,Industrial,4,2,2
+Chikkamagaluru,2023,Industrial,4,3,1
+Vijayanagar,2023,Fire,0,0,0
+Chikkamagaluru,2023,Other,1,0,1
+Dharwad,2023,Fire,3,2,1
+Hassan,2023,Police Negligence,4,2,2
+Vijayanagar,2023,Fire,1,0,1
+Mandya,2023,Medical,1,0,1
+Hassan,2023,Police Negligence,1,0,1
+Shimoga,2023,Fire,1,0,1
+Belagavi,2023,Medical,1,0,1
+Chitradurga,2023,Police Negligence,0,0,0
+Bengaluru Rural,2023,Police Negligence,3,2,1
+Bengaluru Rural,2023,Other,3,2,1
+Hassan,2023,Medical,0,0,0
+Mandya,2023,Other,2,1,1
+Haveri,2023,Medical,4,2,2
+Mysuru,2023,Police Negligence,3,2,1
+Chikkamagaluru,2023,Other,6,4,2
+Mysuru,2023,Police Negligence,2,1,1
+Chikkamagaluru,2023,Other,1,0,1
+Bagalkot,2023,Other,1,0,1
+Belagavi,2023,Other,4,2,2
+Kalaburagi,2023,Medical,2,1,1
+Raichur,2023,Medical,2,1,1
+Chamarajanagar2,2023,Medical,4,3,1
+Mandya,2023,Industrial,2,1,1
+Shimoga,2023,Industrial,1,0,1
+Ramanagara,2023,Medical,4,2,2
+Hubballi,2023,Fire,0,0,0
+Chamarajanagar,2023,Police Negligence,3,2,1
+Vijayanagar,2023,Fire,3,2,1
+Gadag,2023,Medical,2,1,1
+Mysuru,2023,Medical,3,1,2
+Bengaluru Rural,2023,Industrial,0,0,0
+Chikkaballapura,2023,Industrial,1,0,1
+Mandya,2023,Fire,1,0,1
+Hubballi,2023,Medical,3,2,1
+Kodagu,2023,Industrial,2,1,1
+Gadag,2023,Other,3,1,2
+Udupi,2023,Police Negligence,0,0,0
+Koppal,2023,Other,2,1,1
+Bengaluru Rural,2023,Police Negligence,2,1,1
+Chitradurga,2023,Other,1,0,1
+Hassan,2023,Industrial,1,0,1
+Mangaluru,2023,Other,1,0,1
+Raichur,2023,Police Negligence,2,1,1
+Kolar,2023,Other,3,2,1
+Chitradurga,2023,Fire,1,0,1
+Gadag,2023,Industrial,0,0,0
+Vijayapura,2023,Other,1,0,1
+Chitradurga,2023,Fire,1,0,1
+Bidar,2023,Industrial,2,1,1
+Hassan,2023,Industrial,0,0,0
+Hassan,2023,Industrial,1,0,1
+Chamarajanagar2,2023,Police Negligence,1,0,1
+Vijayapura,2023,Fire,2,1,1
+Bengaluru Urban,2023,Medical,3,1,2
+Shivamogga,2023,Police Negligence,1,0,1
+Bidar,2023,Police Negligence,1,0,1
+Mysuru,2023,Police Negligence,0,0,0
+Tumakuru,2023,Police Negligence,2,1,1
+Vijayapura,2023,Industrial,1,0,1
+RuralAreaX,2023,Industrial,3,1,2
+Mangaluru,2023,Police Negligence,1,0,1
+Yadgir,2023,Other,3,1,2
+Udupi,2023,Medical,1,0,1
+Chamarajanagar,2023,Medical,1,0,1
+Bengaluru Urban,2023,Police Negligence,6,4,2
+Haveri,2023,Police Negligence,3,2,1
+Dharwad,2023,Police Negligence,0,0,0
+Chitradurga,2023,Other,2,1,1
+Chikkamagaluru,2023,Police Negligence,3,2,1
+Vijayanagar,2023,Medical,3,2,1
+Shimoga,2023,Other,2,1,1
+Hubballi,2023,Medical,1,0,1
+Ramanagara,2023,Other,3,2,1
+Bidar,2023,Medical,1,0,1
+Hassan,2023,Industrial,0,0,0
+Udupi,2023,Police Negligence,1,0,1
+Uttara Kannada,2023,Fire,3,2,1
+Bengaluru Rural,2023,Police Negligence,3,2,1
+Yadgir,2023,Industrial,0,0,0
+Bagalkot,2023,Medical,1,0,1
+Dharwad,2023,Industrial,3,2,1
+Chikkamagaluru,2023,Police Negligence,5,4,1
+Ballari,2023,Fire,0,0,0
+Mandya,2023,Fire,2,1,1
+Dharwad,2023,Other,1,0,1
+Dharwad,2023,Industrial,1,0,1
+Bagalkot,2023,Police Negligence,2,1,1
+Chikkaballapura,2023,Fire,2,1,1
+Davangere,2023,Police Negligence,7,4,3
+Mandya,2023,Fire,0,0,0
+Kalaburagi,2023,Industrial,1,0,1
+Dharwad,2023,Fire,3,1,2
+Ramanagara,2023,Medical,1,0,1
+Belagavi,2023,Police Negligence,1,0,1
+Dharwad,2023,Fire,2,1,1
+Davangere,2023,Fire,0,0,0
+Koppal,2023,Police Negligence,2,1,1
+Vijayanagar,2023,Police Negligence,3,1,2
+Bagalkot,2023,Other,5,3,2
+Vijayanagar,2023,Police Negligence,1,0,1
+Belagavi,2023,Other,0,0,0
+Shimoga,2023,Fire,6,3,3
+Gadag,2023,Police Negligence,1,0,1
+Ballari,2023,Medical,2,1,1
+Bengaluru Urban,2023,Industrial,4,3,1
+Shivamogga,2023,Medical,1,0,1
+Udupi,2023,Fire,1,0,1
+Hubballi,2023,Industrial,3,1,2
+Vijayapura,2023,Fire,4,3,1
+Chikkamagaluru,2023,Fire,1,0,1
+Chitradurga,2023,Fire,3,2,1
+Ramanagara,2023,Industrial,0,0,0
+Dharwad,2023,Fire,0,0,0
+Shivamogga,2023,Medical,1,0,1
+Bidar,2023,Medical,2,1,1
+Chikkamagaluru,2023,Fire,3,1,2
+Kalaburagi,2023,Medical,3,1,2
+Udupi,2023,Fire,3,2,1
+Bagalkot,2023,Fire,4,3,1
+Chikkaballapura,2023,Medical,0,0,0
+Shimoga,2023,Other,1,0,1
+Shivamogga,2023,Fire,3,2,1
+Bengaluru Rural,2023,Fire,3,2,1
+Chikkaballapura,2023,Medical,1,0,1
+Belagavi,2023,Industrial,5,4,1
+Vijayanagar,2023,Fire,3,1,2
+Yadgir,2023,Fire,2,1,1
+Uttara Kannada,2023,Medical,3,2,1
+Mangaluru,2023,Other,2,1,1
+Hassan,2023,Police Negligence,3,1,2
+Udupi,2023,Industrial,2,1,1
+Hubballi,2023,Industrial,1,0,1
+Chitradurga,2023,Fire,4,2,2
+Yadgir,2023,Medical,1,0,1
+Mangaluru,2023,Medical,2,1,1
+Chitradurga,2023,Other,3,2,1
+Shimoga,2023,Industrial,2,1,1
+Tumakuru,2023,Industrial,0,0,0
+Hubballi,2023,Fire,2,1,1
+Davangere,2023,Industrial,1,0,1
+Udupi,2023,Other,2,1,1
+Hubballi,2023,Fire,2,1,1
+Raichur,2023,Fire,2,1,1
+Chikkamagaluru,2023,Police Negligence,3,1,2
+Koppal,2023,Industrial,2,1,1
+Hassan,2023,Police Negligence,6,4,2
+Vijayanagar,2023,Industrial,3,1,2
+Bagalkot,2023,Industrial,1,0,1
+Dharwad,2023,Other,1,0,1
+Haveri,2023,Industrial,5,3,2
+Kolar,2023,Police Negligence,3,2,1
+Tumakuru,2023,Police Negligence,1,0,1
+Kodagu,2023,Fire,4,2,2
+Koppal,2023,Fire,2,1,1
+Chikkaballapura,2023,Fire,1,0,1
+Chikkaballapura,2023,Other,0,0,0
+Vijayanagar,2023,Fire,3,1,2
+Chikkamagaluru,2023,Fire,0,0,0
+Ramanagara,2023,Police Negligence,4,2,2
+Hassan,2023,Police Negligence,3,2,1
+Koppal,2023,Fire,2,1,1
+Chamarajanagar2,2023,Other,1,0,1
+Mysuru,2023,Police Negligence,2,1,1
+RuralAreaX,2023,Medical,4,3,1
+Chitradurga,2023,Fire,1,0,1
+Bengaluru Urban,2023,Fire,2,1,1
+Bidar,2023,Industrial,0,0,0
+Chamarajanagar,2023,Other,2,1,1
+Vijayapura,2023,Fire,1,0,1
+Vijayapura,2023,Medical,2,1,1
+Dharwad,2023,Other,4,3,1
+Bagalkot,2023,Medical,1,0,1
+Gadag,2023,Industrial,1,0,1
+Yadgir,2023,Fire,1,0,1
+Shimoga,2023,Industrial,3,2,1
+Davangere,2023,Fire,3,2,1
+Bidar,2023,Fire,2,1,1
+Bengaluru Urban,2023,Medical,2,1,1
+Haveri,2023,Industrial,3,2,1
+Davangere,2023,Medical,3,1,2
+Belagavi,2023,Other,3,2,1
+Shivamogga,2023,Fire,3,2,1
+Hubballi,2023,Police Negligence,2,1,1
+Vijayanagar,2023,Industrial,1,0,1
+Bidar,2023,Fire,2,1,1
+Belagavi,2023,Other,2,1,1
+Ballari,2023,Fire,5,3,2
+Belagavi,2023,Other,2,1,1
+Dharwad,2023,Fire,2,1,1
+Bengaluru Rural,2023,Police Negligence,2,1,1
+Ballari,2023,Other,0,0,0
+Kodagu,2023,Medical,1,0,1
+Hubballi,2023,Medical,1,0,1
+Chamarajanagar2,2023,Industrial,4,2,2
+Mandya,2023,Industrial,2,1,1
+Vijayapura,2023,Other,1,0,1
+Tumakuru,2023,Police Negligence,1,0,1
+Shimoga,2023,Medical,4,3,1
+Yadgir,2023,Police Negligence,7,4,3
+Bengaluru Rural,2023,Medical,7,5,2
+Raichur,2023,Other,2,1,1
+Uttara Kannada,2023,Other,4,2,2
+Hassan,2023,Medical,2,1,1
+Kalaburagi,2023,Other,2,1,1
+Mandya,2023,Medical,4,3,1
+Chamarajanagar,2023,Police Negligence,2,1,1
+Mangaluru,2023,Medical,1,0,1
+Mandya,2023,Medical,0,0,0
+Yadgir,2023,Fire,2,1,1
+Shimoga,2023,Other,2,1,1
+Bengaluru Rural,2023,Other,3,2,1
+Bengaluru Rural,2023,Police Negligence,1,0,1
+RuralAreaX,2023,Police Negligence,4,2,2
+Davangere,2023,Other,3,2,1
+Hubballi,2023,Fire,4,3,1
+Raichur,2023,Other,0,0,0
+Vijayanagar,2023,Police Negligence,1,0,1
+Shivamogga,2023,Other,2,1,1
+Kodagu,2023,Other,0,0,0
+Udupi,2023,Medical,2,1,1
+Uttara Kannada,2023,Industrial,2,1,1
+Chamarajanagar2,2023,Police Negligence,1,0,1
+Hassan,2023,Fire,5,3,2
+Tumakuru,2023,Fire,1,0,1
+Koppal,2023,Medical,0,0,0
+Chamarajanagar2,2023,Police Negligence,2,1,1
+Uttara Kannada,2023,Fire,2,1,1
+Kalaburagi,2023,Industrial,1,0,1
+Kodagu,2023,Medical,2,1,1
+Koppal,2023,Other,0,0,0
+Chamarajanagar2,2023,Medical,4,3,1
+Bagalkot,2023,Other,2,1,1
+Ballari,2023,Fire,0,0,0
+Koppal,2023,Police Negligence,4,3,1
+Dharwad,2023,Other,0,0,0
+Gadag,2023,Fire,1,0,1
+Chikkamagaluru,2023,Police Negligence,3,2,1
+Koppal,2023,Police Negligence,2,1,1
+Uttara Kannada,2023,Medical,1,0,1
+Chitradurga,2023,Police Negligence,4,2,2
+Chitradurga,2023,Fire,4,3,1
+Bengaluru Rural,2023,Police Negligence,3,2,1
+Davangere,2023,Other,1,0,1
+Chamarajanagar,2023,Police Negligence,1,0,1
+Gadag,2023,Fire,1,0,1
+Vijayanagar,2023,Industrial,2,1,1
+Gadag,2023,Industrial,3,2,1
+Hassan,2023,Police Negligence,2,1,1
+Bidar,2023,Industrial,4,2,2
+Dharwad,2023,Other,2,1,1
+Shimoga,2023,Industrial,2,1,1
+Chikkaballapura,2023,Medical,4,3,1
+Bagalkot,2023,Fire,3,2,1
+Bengaluru Rural,2023,Medical,2,1,1
+Ramanagara,2023,Industrial,0,0,0
+Uttara Kannada,2023,Industrial,1,0,1
+Kodagu,2023,Medical,1,0,1
+Mangaluru,2023,Medical,3,2,1
+Haveri,2023,Other,1,0,1
+Yadgir,2023,Medical,1,0,1
+Shimoga,2023,Fire,3,1,2
+Tumakuru,2023,Police Negligence,1,0,1
+Tumakuru,2023,Fire,3,1,2
+Vijayapura,2023,Other,3,2,1
+Belagavi,2023,Other,0,0,0
+Shimoga,2023,Other,1,0,1
+Bengaluru Rural,2023,Police Negligence,2,1,1
+Dharwad,2023,Fire,1,0,1
+Kodagu,2023,Other,0,0,0
+Raichur,2023,Fire,1,0,1
+Belagavi,2023,Medical,2,1,1
+Udupi,2023,Industrial,2,1,1
+Bagalkot,2023,Police Negligence,2,1,1
+Chitradurga,2023,Police Negligence,1,0,1
+Vijayapura,2023,Other,1,0,1
+Bidar,2023,Other,2,1,1
+Hubballi,2023,Industrial,4,3,1
+Gadag,2023,Police Negligence,2,1,1
+Ramanagara,2023,Police Negligence,3,2,1
+Chikkaballapura,2023,Medical,4,3,1
+Ballari,2023,Police Negligence,3,1,2
+Mangaluru,2023,Medical,0,0,0
+Chamarajanagar2,2023,Police Negligence,0,0,0
+Shimoga,2023,Fire,4,3,1
+Kalaburagi,2023,Police Negligence,1,0,1
+Koppal,2023,Other,1,0,1
+Kodagu,2023,Fire,1,0,1
+Hassan,2023,Fire,3,2,1
+Bidar,2023,Fire,1,0,1
+Shivamogga,2023,Fire,0,0,0
+RuralAreaX,2023,Industrial,5,3,2
+Belagavi,2023,Police Negligence,1,0,1
+Uttara Kannada,2023,Industrial,2,1,1
+Mandya,2023,Fire,1,0,1
+Koppal,2023,Other,4,2,2
+Shivamogga,2023,Police Negligence,3,2,1
+Vijayanagar,2023,Police Negligence,3,2,1
+Bengaluru Rural,2023,Police Negligence,1,0,1
+Koppal,2023,Industrial,2,1,1
+Mangaluru,2023,Fire,2,1,1
+Chamarajanagar2,2023,Industrial,0,0,0
+Vijayapura,2023,Medical,3,2,1
+Gadag,2023,Other,5,4,1
+Shivamogga,2023,Medical,3,2,1
+Ballari,2023,Industrial,3,1,2
+Koppal,2023,Industrial,1,0,1
+Bengaluru Rural,2023,Industrial,1,0,1
+Bengaluru Rural,2023,Fire,3,2,1
+Ballari,2023,Industrial,3,2,1
+Chamarajanagar2,2023,Medical,2,1,1
+Haveri,2023,Police Negligence,1,0,1
+Dharwad,2023,Medical,1,0,1
+Kodagu,2023,Fire,1,0,1
+Gadag,2023,Industrial,2,1,1
+Tumakuru,2023,Other,3,2,1
+Davangere,2023,Industrial,0,0,0
+Chikkaballapura,2023,Industrial,0,0,0
+Chikkaballapura,2023,Industrial,1,0,1
+Dharwad,2023,Industrial,0,0,0
+RuralAreaX,2023,Medical,3,2,1
+Mysuru,2023,Fire,4,2,2
+Ballari,2023,Industrial,3,2,1
+Bengaluru Rural,2023,Medical,1,0,1
+Raichur,2023,Industrial,1,0,1
+Dharwad,2023,Medical,1,0,1
+Bidar,2023,Medical,2,1,1
+Raichur,2023,Industrial,1,0,1
+Mandya,2023,Industrial,3,1,2
+Mysuru,2023,Other,2,1,1
+Mandya,2023,Fire,1,0,1
+Chamarajanagar2,2023,Fire,4,2,2
+Haveri,2023,Medical,1,0,1
+Yadgir,2023,Police Negligence,1,0,1
+Haveri,2023,Other,1,0,1
+Raichur,2023,Police Negligence,2,1,1
+Hassan,2023,Fire,3,2,1
+Chamarajanagar,2023,Medical,1,0,1
+Bidar,2023,Fire,2,1,1
+Haveri,2023,Medical,0,0,0
+Chitradurga,2023,Industrial,2,1,1
+Vijayapura,2023,Medical,2,1,1
+Bidar,2023,Fire,2,1,1
+Belagavi,2023,Police Negligence,6,4,2
+Vijayanagar,2023,Other,2,1,1
+Bengaluru Urban,2023,Police Negligence,4,3,1
+Davangere,2023,Fire,3,1,2
+Hubballi,2023,Medical,5,3,2
+Shimoga,2023,Other,0,0,0
+Udupi,2023,Other,2,1,1
+Ballari,2023,Industrial,3,2,1
+Koppal,2023,Other,1,0,1
+Bagalkot,2023,Police Negligence,3,2,1
+Hubballi,2023,Other,2,1,1
+Shivamogga,2023,Medical,1,0,1
+Raichur,2023,Industrial,2,1,1
+Bagalkot,2023,Industrial,1,0,1
+Yadgir,2023,Medical,2,1,1
+Koppal,2023,Fire,1,0,1
+Chitradurga,2023,Medical,3,2,1
+Chamarajanagar2,2023,Police Negligence,3,2,1
+Ramanagara,2023,Medical,5,4,1
+Dharwad,2023,Fire,1,0,1
+Chitradurga,2023,Industrial,1,0,1
+Mangaluru,2023,Medical,4,2,2
+Mangaluru,2023,Police Negligence,2,1,1
+Davangere,2023,Medical,3,1,2
+Bengaluru Rural,2023,Industrial,2,1,1
+Haveri,2023,Fire,2,1,1
+Vijayanagar,2023,Industrial,3,2,1
+Raichur,2023,Police Negligence,2,1,1
+Shimoga,2023,Police Negligence,2,1,1
+Chikkamagaluru,2023,Fire,3,1,2
+Bidar,2023,Fire,3,2,1
+Shivamogga,2023,Medical,1,0,1
+Yadgir,2023,Other,6,4,2
+Chikkaballapura,2023,Fire,0,0,0
+Chikkaballapura,2023,Other,3,2,1
+Hubballi,2023,Medical,1,0,1
+Chamarajanagar2,2023,Industrial,3,2,1
+Chitradurga,2023,Other,1,0,1
+Davangere,2023,Industrial,0,0,0
+Mysuru,2023,Medical,4,3,1
+Ramanagara,2023,Other,1,0,1
+Kolar,2023,Police Negligence,1,0,1
+Koppal,2023,Fire,5,3,2
+Koppal,2023,Medical,1,0,1
+Udupi,2023,Fire,3,1,2
+Davangere,2023,Fire,0,0,0
+Chikkaballapura,2023,Medical,3,2,1
+Udupi,2023,Industrial,4,2,2
+Raichur,2023,Medical,2,1,1
+Chamarajanagar2,2023,Medical,0,0,0
+Gadag,2023,Industrial,2,1,1
+Shivamogga,2023,Other,0,0,0
+Mangaluru,2023,Fire,1,0,1
+RuralAreaX,2023,Fire,1,0,1
+Chikkaballapura,2023,Fire,1,0,1
+Hassan,2023,Fire,4,3,1
+Kodagu,2023,Fire,1,0,1
+Chikkamagaluru,2023,Fire,3,1,2
+Chikkamagaluru,2023,Other,2,1,1
+Dharwad,2023,Industrial,1,0,1
+Hubballi,2023,Other,2,1,1
+Haveri,2023,Medical,2,1,1
+Tumakuru,2023,Fire,2,1,1
+Udupi,2023,Other,2,1,1
+Mandya,2023,Other,4,2,2
+Mangaluru,2023,Medical,2,1,1
+Chitradurga,2023,Industrial,4,2,2
+Shimoga,2023,Other,3,2,1
+Mysuru,2023,Other,2,1,1
+Hassan,2023,Other,0,0,0
+Chitradurga,2023,Medical,0,0,0
+Shimoga,2023,Other,2,1,1
+Belagavi,2023,Industrial,3,2,1
+Yadgir,2023,Medical,2,1,1
+Vijayapura,2023,Medical,3,1,2
+Kolar,2023,Police Negligence,2,1,1
+Yadgir,2023,Industrial,1,0,1
+Bengaluru Rural,2023,Medical,4,3,1
+Haveri,2023,Industrial,1,0,1
+Shimoga,2023,Other,3,2,1
+Gadag,2023,Industrial,2,1,1
+Shimoga,2023,Police Negligence,2,1,1
+Mysuru,2023,Other,2,1,1
+Bagalkot,2023,Medical,3,2,1
+Belagavi,2023,Police Negligence,1,0,1
+Davangere,2023,Police Negligence,1,0,1
+Belagavi,2023,Fire,1,0,1
+Mandya,2023,Police Negligence,1,0,1
+Gadag,2023,Industrial,4,3,1
+Hubballi,2023,Police Negligence,5,3,2
+Chamarajanagar,2023,Other,3,2,1
+Ramanagara,2023,Other,2,1,1
+Tumakuru,2023,Industrial,2,1,1
+Mandya,2023,Medical,3,2,1
+Bidar,2023,Medical,2,1,1
+Bengaluru Urban,2023,Police Negligence,4,3,1
+Chikkaballapura,2023,Police Negligence,3,1,2
+Bagalkot,2023,Industrial,0,0,0
+Ramanagara,2023,Fire,3,1,2
+Dharwad,2023,Medical,0,0,0
+RuralAreaX,2023,Fire,5,3,2
+Shivamogga,2023,Medical,2,1,1
+Haveri,2023,Police Negligence,3,1,2
+Mandya,2023,Police Negligence,1,0,1
+Chitradurga,2023,Industrial,1,0,1
+RuralAreaX,2023,Other,0,0,0
+Ballari,2023,Industrial,1,0,1
+Vijayapura,2023,Fire,0,0,0
+Haveri,2023,Industrial,4,3,1
+Dharwad,2023,Industrial,0,0,0
+Koppal,2023,Other,2,1,1
+Mysuru,2023,Industrial,2,1,1
+Tumakuru,2023,Medical,1,0,1
+Hubballi,2023,Other,1,0,1
+Mysuru,2023,Other,2,1,1
+Davangere,2023,Fire,1,0,1
+Raichur,2023,Industrial,0,0,0
+Gadag,2023,Police Negligence,3,1,2
+Mysuru,2023,Police Negligence,0,0,0
+Koppal,2023,Medical,3,2,1
+Chikkamagaluru,2023,Medical,0,0,0
+Udupi,2023,Industrial,1,0,1
+Shivamogga,2023,Police Negligence,2,1,1
+Kalaburagi,2023,Medical,2,1,1
+Shivamogga,2023,Other,1,0,1
+Kolar,2023,Police Negligence,0,0,0
+Bagalkot,2023,Medical,1,0,1
+Mandya,2023,Other,2,1,1
+Chitradurga,2023,Police Negligence,2,1,1
+Bidar,2023,Industrial,2,1,1
+Gadag,2023,Other,2,1,1
+Shivamogga,2023,Other,3,2,1
+Shivamogga,2023,Police Negligence,2,1,1
+Hassan,2023,Police Negligence,4,3,1
+Bagalkot,2023,Medical,1,0,1
+Chamarajanagar,2023,Industrial,3,2,1
+Haveri,2023,Fire,2,1,1
+Mangaluru,2023,Other,0,0,0
+Bengaluru Rural,2023,Police Negligence,0,0,0
+Chamarajanagar,2023,Fire,0,0,0
+Hubballi,2023,Police Negligence,4,3,1
+Koppal,2023,Other,0,0,0
+Shimoga,2023,Police Negligence,0,0,0
+Chikkaballapura,2023,Medical,2,1,1
+Haveri,2023,Medical,1,0,1
+Vijayapura,2023,Industrial,1,0,1
+Vijayapura,2023,Fire,2,1,1
+Davangere,2023,Police Negligence,3,2,1
+Hassan,2023,Other,2,1,1
+Davangere,2023,Police Negligence,0,0,0
+Bidar,2023,Industrial,0,0,0
+Bagalkot,2023,Police Negligence,3,2,1
+Udupi,2023,Fire,1,0,1
+Shivamogga,2023,Police Negligence,2,1,1
+Tumakuru,2023,Other,1,0,1
+Belagavi,2023,Police Negligence,3,2,1
+Chamarajanagar,2023,Fire,1,0,1
+Mangaluru,2023,Other,2,1,1
+Koppal,2023,Police Negligence,2,1,1
+Vijayapura,2023,Other,0,0,0
+RuralAreaX,2023,Other,1,0,1
+Vijayapura,2023,Police Negligence,4,3,1
+Gadag,2023,Industrial,1,0,1
+Mangaluru,2023,Fire,2,1,1
+Bengaluru Rural,2023,Fire,3,2,1
+Belagavi,2023,Industrial,1,0,1
+Uttara Kannada,2023,Industrial,0,0,0
+Chikkamagaluru,2023,Industrial,0,0,0
+Ballari,2023,Industrial,1,0,1
+Uttara Kannada,2023,Police Negligence,3,2,1
+Gadag,2023,Industrial,2,1,1
+Chamarajanagar2,2023,Police Negligence,1,0,1
+RuralAreaX,2023,Other,2,1,1
+Koppal,2023,Industrial,4,3,1
+Udupi,2023,Other,3,2,1
+Chamarajanagar2,2023,Other,0,0,0
+Ramanagara,2023,Industrial,2,1,1
+Shivamogga,2023,Industrial,2,1,1
+Yadgir,2023,Medical,4,3,1
+Hassan,2023,Other,2,1,1
+Udupi,2023,Police Negligence,1,0,1
+Bengaluru Rural,2023,Police Negligence,3,2,1
+Mangaluru,2023,Other,1,0,1
+Mandya,2023,Other,4,3,1
+Ramanagara,2023,Other,1,0,1
+Kolar,2023,Medical,5,3,2
+Chamarajanagar,2023,Medical,0,0,0
+Uttara Kannada,2023,Medical,0,0,0
+Vijayapura,2023,Medical,4,2,2
+Tumakuru,2023,Industrial,2,1,1
+Ballari,2023,Fire,3,2,1
+Dharwad,2023,Fire,4,2,2
+Udupi,2023,Industrial,2,1,1
+Mangaluru,2023,Industrial,2,1,1
+Chikkamagaluru,2023,Other,3,2,1
+Kolar,2023,Medical,2,1,1
+RuralAreaX,2023,Medical,2,1,1
+Koppal,2023,Medical,0,0,0
+Belagavi,2023,Other,0,0,0
+Hassan,2023,Medical,3,1,2
+Tumakuru,2023,Industrial,4,2,2
+Kolar,2023,Police Negligence,3,2,1
+Chamarajanagar,2023,Industrial,1,0,1
+Tumakuru,2023,Other,1,0,1
+Kolar,2023,Fire,2,1,1
+Ballari,2023,Police Negligence,4,2,2
+RuralAreaX,2023,Police Negligence,3,2,1
+Ballari,2023,Other,0,0,0
+Koppal,2023,Fire,0,0,0
+Vijayanagar,2023,Police Negligence,1,0,1
+Bengaluru Rural,2023,Fire,2,1,1
+Hassan,2023,Fire,4,2,2
+Koppal,2023,Fire,1,0,1
+Ramanagara,2023,Medical,2,1,1
+Mangaluru,2023,Other,3,2,1
+Ballari,2023,Medical,2,1,1
+Ramanagara,2023,Police Negligence,2,1,1
+Koppal,2023,Other,0,0,0
+Vijayapura,2023,Police Negligence,2,1,1
+RuralAreaX,2023,Fire,1,0,1
+Bengaluru Rural,2023,Industrial,0,0,0
+Bengaluru Urban,2023,Police Negligence,1,0,1
+Vijayapura,2023,Other,2,1,1
+Hassan,2023,Police Negligence,5,3,2
+Shivamogga,2023,Industrial,0,0,0
+Davangere,2023,Industrial,1,0,1
+Belagavi,2023,Other,2,1,1
+Bagalkot,2023,Fire,1,0,1
+Tumakuru,2023,Fire,2,1,1
+Vijayanagar,2023,Medical,1,0,1
+Bidar,2023,Medical,2,1,1
+Kolar,2023,Fire,1,0,1
+Dharwad,2023,Medical,2,1,1
+Gadag,2023,Industrial,3,2,1
+Bidar,2023,Other,3,2,1
+Haveri,2023,Industrial,3,2,1
+Chikkamagaluru,2023,Medical,0,0,0
+Davangere,2023,Other,0,0,0
+Bengaluru Urban,2023,Medical,2,1,1
+Chamarajanagar2,2023,Fire,2,1,1
+Bagalkot,2023,Fire,2,1,1
+Raichur,2023,Other,1,0,1
+Shivamogga,2023,Fire,1,0,1
+Hassan,2023,Medical,1,0,1
+Mandya,2023,Medical,1,0,1
+Shivamogga,2023,Industrial,0,0,0
+Belagavi,2023,Police Negligence,0,0,0
+Gadag,2023,Industrial,3,2,1
+Mandya,2023,Fire,0,0,0
+Shivamogga,2023,Medical,2,1,1
+Mysuru,2023,Fire,3,2,1
+Mangaluru,2023,Medical,2,1,1
+Udupi,2023,Other,3,2,1
+Bidar,2023,Fire,1,0,1
+Koppal,2023,Police Negligence,1,0,1
+Dharwad,2023,Industrial,3,2,1
+Chikkamagaluru,2023,Medical,3,2,1
+Bidar,2023,Industrial,4,3,1
+Hubballi,2023,Medical,1,0,1
+Hassan,2023,Industrial,3,2,1
+Kolar,2023,Other,3,2,1
+Udupi,2023,Medical,2,1,1
+Chikkamagaluru,2023,Fire,2,1,1
+Raichur,2023,Fire,1,0,1
+Ballari,2023,Other,1,0,1
+Vijayanagar,2023,Fire,2,1,1
+Bengaluru Urban,2023,Other,2,1,1
+Uttara Kannada,2023,Medical,0,0,0
+Vijayapura,2023,Medical,2,1,1
+Mandya,2023,Industrial,3,2,1
+Chamarajanagar,2023,Medical,2,1,1
+Chamarajanagar2,2023,Other,0,0,0
+Kodagu,2023,Fire,1,0,1
+Haveri,2023,Medical,2,1,1
+Davangere,2023,Police Negligence,2,1,1
+Ballari,2023,Police Negligence,3,2,1
+Raichur,2023,Other,1,0,1
+Chamarajanagar2,2023,Medical,3,2,1
+Yadgir,2023,Medical,1,0,1
+Belagavi,2023,Medical,3,1,2
+Dharwad,2023,Medical,1,0,1
+Tumakuru,2023,Police Negligence,2,1,1
+Kodagu,2023,Other,4,3,1
+Chikkaballapura,2023,Fire,1,0,1
+Chamarajanagar2,2023,Industrial,0,0,0
+Chikkaballapura,2023,Police Negligence,3,2,1
+RuralAreaX,2023,Fire,3,2,1
+Chikkaballapura,2023,Industrial,4,2,2
+Vijayanagar,2023,Police Negligence,4,2,2
+Ballari,2023,Other,3,2,1
+Kolar,2023,Fire,1,0,1
+Yadgir,2023,Fire,3,2,1
+Ramanagara,2023,Industrial,0,0,0
+Mandya,2023,Police Negligence,2,1,1
+Kolar,2023,Fire,0,0,0
+RuralAreaX,2023,Medical,0,0,0
+Uttara Kannada,2023,Police Negligence,5,4,1
+Chitradurga,2023,Other,2,1,1
+Belagavi,2023,Fire,4,2,2
+Dharwad,2023,Fire,1,0,1
+Raichur,2023,Industrial,2,1,1
+Shimoga,2023,Police Negligence,1,0,1
+Chikkamagaluru,2023,Fire,0,0,0
+Mangaluru,2023,Industrial,0,0,0
+Udupi,2023,Fire,2,1,1
+Vijayanagar,2023,Other,2,1,1
+Mandya,2023,Other,1,0,1
+Bengaluru Urban,2023,Police Negligence,2,1,1
+Chikkaballapura,2023,Industrial,3,2,1
+Dharwad,2023,Fire,3,2,1
+Bengaluru Rural,2023,Fire,2,1,1
+Bengaluru Rural,2023,Fire,2,1,1
+Bidar,2023,Industrial,2,1,1
+Hubballi,2023,Industrial,2,1,1
+Chamarajanagar,2023,Medical,4,2,2
+Raichur,2023,Medical,3,2,1
+Davangere,2023,Industrial,1,0,1
+Ramanagara,2023,Industrial,0,0,0
+RuralAreaX,2023,Police Negligence,2,1,1
+Kolar,2023,Fire,1,0,1
+Uttara Kannada,2023,Medical,2,1,1
+Koppal,2023,Industrial,2,1,1
+Bagalkot,2023,Medical,1,0,1
+Dharwad,2023,Other,0,0,0
+Hubballi,2023,Other,2,1,1
+Davangere,2023,Medical,2,1,1
+Haveri,2023,Medical,2,1,1
+Chikkamagaluru,2023,Fire,4,2,2
+Yadgir,2023,Police Negligence,3,2,1
+RuralAreaX,2023,Other,1,0,1
+Raichur,2023,Medical,0,0,0
+Mandya,2023,Police Negligence,1,0,1
+Ramanagara,2023,Fire,0,0,0
+Hassan,2023,Medical,3,2,1
+Chamarajanagar2,2023,Medical,0,0,0
+Chamarajanagar2,2023,Medical,2,1,1
+Kalaburagi,2023,Fire,0,0,0
+Tumakuru,2023,Fire,3,2,1
+Chamarajanagar2,2023,Industrial,3,2,1
+Raichur,2023,Police Negligence,2,1,1
+Mysuru,2023,Other,0,0,0
+Shivamogga,2023,Medical,2,1,1
+Belagavi,2023,Industrial,2,1,1
+Chikkamagaluru,2023,Fire,2,1,1
+Davangere,2023,Police Negligence,1,0,1
+Ballari,2023,Other,0,0,0
+Yadgir,2023,Police Negligence,1,0,1
+Hassan,2023,Industrial,1,0,1
+Belagavi,2023,Industrial,2,1,1
+Shivamogga,2023,Medical,1,0,1
+Hubballi,2023,Industrial,2,1,1
+Shimoga,2023,Industrial,1,0,1
+Mandya,2023,Industrial,0,0,0
+Mandya,2023,Medical,1,0,1
+Hubballi,2023,Other,3,2,1
+Yadgir,2023,Medical,0,0,0
+Davangere,2023,Other,2,1,1
+Tumakuru,2023,Medical,0,0,0
+Koppal,2023,Industrial,2,1,1
+Vijayapura,2023,Police Negligence,3,1,2
+Mangaluru,2023,Industrial,1,0,1
+Raichur,2023,Medical,2,1,1
+Chikkamagaluru,2023,Other,3,2,1
+Hassan,2023,Police Negligence,1,0,1
+Chamarajanagar2,2023,Fire,0,0,0
+Hubballi,2023,Medical,3,2,1
+Ramanagara,2023,Fire,2,1,1
+Shivamogga,2023,Other,3,1,2
+Chikkamagaluru,2023,Other,5,4,1
+Belagavi,2023,Medical,4,3,1
+Shimoga,2023,Other,0,0,0
+RuralAreaX,2023,Industrial,2,1,1
+Chamarajanagar,2023,Police Negligence,1,0,1
+Koppal,2023,Police Negligence,5,4,1
+Mysuru,2023,Fire,1,0,1
+Vijayanagar,2023,Fire,2,1,1
+Kodagu,2023,Medical,0,0,0
+Hubballi,2023,Medical,3,1,2
+Bengaluru Urban,2023,Industrial,2,1,1
+Dharwad,2023,Fire,1,0,1
+Udupi,2023,Police Negligence,4,3,1
+Hubballi,2023,Fire,0,0,0
+Udupi,2023,Medical,1,0,1
+Udupi,2023,Medical,2,1,1
+Raichur,2023,Police Negligence,2,1,1
+Kolar,2023,Fire,2,1,1
+Chitradurga,2023,Police Negligence,6,3,3
+Shivamogga,2023,Fire,2,1,1
+Shivamogga,2023,Medical,3,1,2
+Vijayanagar,2023,Medical,2,1,1
+Shimoga,2023,Industrial,3,2,1
+Chikkamagaluru,2023,Industrial,2,1,1
+Koppal,2023,Police Negligence,3,2,1
+Tumakuru,2023,Industrial,1,0,1
+Haveri,2023,Fire,2,1,1
+Bagalkot,2023,Industrial,1,0,1
+Koppal,2023,Fire,4,2,2
+Mangaluru,2023,Fire,2,1,1
+Bengaluru Urban,2023,Medical,2,1,1
+Shimoga,2023,Police Negligence,1,0,1
+Uttara Kannada,2023,Medical,4,2,2
+Dharwad,2023,Industrial,5,3,2
+Chikkaballapura,2023,Other,1,0,1
+Yadgir,2023,Fire,5,3,2
+Yadgir,2023,Fire,4,2,2

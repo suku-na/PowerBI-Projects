@@ -1,0 +1,2201 @@
+District,Crime_Type,Year,Total_Cases,Male_Victims,Female_Victims,Victims_Under18,Victims_18to45,Victims_Above45,Arrests_Made,Pending_Cases,Convictions
+Bagalkot,Molestation,2024,25,16,9,4,20,1,15,10,1
+Ramanagara,Kidnapping,2024,3,1,2,0,1,2,1,2,0
+Raichur,Molestation,2024,38,16,22,5,29,4,9,29,0
+Yadgir,Rape,2024,32,10,22,1,26,5,13,19,6
+Vijayanagar,Theft,2024,142,97,45,26,105,11,64,78,10
+Udupi,Robbery,2024,18,8,10,0,13,5,11,7,3
+Haveri,Theft,2024,159,94,65,19,128,12,83,76,13
+Shivamogga,Robbery,2024,13,6,7,0,10,3,7,6,1
+Ballari,Rape,2024,46,20,26,5,38,3,39,7,11
+Shivamogga,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Gadag,Rape,2024,42,22,20,7,26,9,36,6,15
+Mysuru,Theft,2024,119,54,65,8,83,28,81,38,28
+Vijayanagar,Domestic Violence,2024,81,28,53,12,57,12,49,32,9
+Ramanagara,Murder,2024,0,0,0,0,0,0,0,0,0
+Haveri,Robbery,2024,22,12,10,2,15,5,14,8,4
+Uttara Kannada,Kidnapping,2024,5,1,4,0,3,2,2,3,0
+Belagavi,Cyber Crime,2024,70,35,35,12,46,12,45,25,3
+Kalaburagi,Cyber Crime,2024,42,27,15,2,25,15,19,23,8
+Haveri,Domestic Violence,2024,66,43,23,4,44,18,54,12,18
+Bidar,Rape,2024,33,11,22,6,26,1,19,14,2
+Bidar,Robbery,2024,13,4,9,2,10,1,3,10,1
+Ramanagara,Dowry Death,2024,7,3,4,0,5,2,1,6,0
+Kodagu,Dowry Death,2024,8,5,3,1,6,1,5,3,2
+Uttara Kannada,Kidnapping,2024,6,1,5,0,4,2,3,3,0
+Bengaluru Urban,Rape,2024,27,16,11,4,21,2,16,11,4
+Koppal,Theft,2024,131,42,89,23,101,7,45,86,5
+Hubballi,Rape,2024,41,17,24,3,34,4,19,22,3
+Ballari,Murder,2024,10,5,5,0,6,4,4,6,0
+Kodagu,Robbery,2024,17,5,12,1,10,6,9,8,3
+Ballari,Theft,2024,120,50,70,20,86,14,51,69,16
+Bengaluru Rural,Rape,2024,35,17,18,3,21,11,11,24,2
+Kalaburagi,Robbery,2024,16,10,6,0,12,4,8,8,0
+Ballari,Cyber Crime,2024,62,25,37,7,37,18,15,47,1
+Raichur,Cheating,2024,108,42,66,5,89,14,53,55,4
+Hassan,Robbery,2024,17,10,7,0,12,5,4,13,0
+Bengaluru Rural,Domestic Violence,2024,56,18,38,1,42,13,45,11,10
+Chamarajanagar2,Cyber Crime,2024,62,19,43,2,43,17,15,47,2
+Bagalkot,Cyber Crime,2024,51,24,27,8,40,3,20,31,8
+Bengaluru Urban,Theft,2024,112,62,50,19,77,16,73,39,35
+Bengaluru Urban,Rape,2024,29,11,18,4,20,5,16,13,7
+Mandya,Theft,2024,132,52,80,20,96,16,57,75,21
+RuralAreaX,Domestic Violence,2024,78,33,45,6,56,16,44,34,16
+Koppal,Robbery,2024,17,11,6,2,13,2,14,3,3
+Hassan,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Mysuru,Domestic Violence,2024,73,25,48,12,48,13,55,18,18
+Chikkaballapura,Molestation,2024,14,6,8,1,11,2,11,3,4
+RuralAreaX,Domestic Violence,2024,64,21,43,2,42,20,50,14,9
+Kodagu,Murder,2024,3,1,2,0,2,1,2,1,0
+Belagavi,Murder,2024,0,0,0,0,0,0,0,0,0
+Bagalkot,Domestic Violence,2024,52,25,27,5,43,4,29,23,7
+Mandya,Murder,2024,9,2,7,1,6,2,6,3,2
+Chitradurga,Molestation,2024,20,7,13,2,14,4,13,7,0
+Chikkamagaluru,Domestic Violence,2024,77,33,44,13,63,1,53,24,26
+Gadag,Domestic Violence,2024,84,35,49,13,68,3,46,38,17
+Vijayapura,Theft,2024,98,66,32,4,77,17,50,48,15
+Gadag,Cheating,2024,91,57,34,17,72,2,32,59,7
+Bengaluru Urban,Murder,2024,7,3,4,0,5,2,2,5,0
+Mysuru,Theft,2024,94,48,46,15,77,2,69,25,6
+Ballari,Cyber Crime,2024,77,23,54,14,47,16,23,54,9
+Tumakuru,Cheating,2024,77,53,24,3,60,14,41,36,13
+Dharwad,Rape,2024,27,14,13,2,19,6,20,7,3
+Hubballi,Dowry Death,2024,4,1,3,0,3,1,1,3,0
+Chikkamagaluru,Domestic Violence,2024,67,35,32,11,55,1,24,43,11
+Gadag,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Bidar,Cyber Crime,2024,56,25,31,6,41,9,24,32,1
+Belagavi,Murder,2024,3,1,2,0,2,1,2,1,0
+Koppal,Cyber Crime,2024,54,26,28,9,43,2,34,20,3
+Koppal,Dowry Death,2024,8,3,5,0,4,4,4,4,0
+Dharwad,Domestic Violence,2024,58,19,39,10,48,0,51,7,15
+Chikkamagaluru,Rape,2024,25,9,16,2,17,6,11,14,4
+Mandya,Cheating,2024,98,33,65,9,65,24,66,32,11
+Ramanagara,Cyber Crime,2024,71,33,38,5,43,23,50,21,5
+Kalaburagi,Molestation,2024,19,6,13,2,13,4,13,6,4
+Uttara Kannada,Domestic Violence,2024,74,50,24,4,46,24,38,36,15
+Bidar,Robbery,2024,13,6,7,0,8,5,7,6,0
+Davangere,Cyber Crime,2024,54,30,24,2,40,12,14,40,2
+Tumakuru,Cheating,2024,85,58,27,4,63,18,50,35,21
+Raichur,Cheating,2024,93,41,52,8,76,9,67,26,21
+Dharwad,Domestic Violence,2024,62,18,44,2,38,22,31,31,10
+Uttara Kannada,Molestation,2024,24,10,14,2,16,6,17,7,1
+Tumakuru,Domestic Violence,2024,91,59,32,4,60,27,61,30,24
+Davangere,Cyber Crime,2024,49,29,20,7,37,5,27,22,9
+Gadag,Kidnapping,2024,3,1,2,0,2,1,1,2,0
+Shimoga,Dowry Death,2024,7,3,4,1,5,1,4,3,0
+Shivamogga,Molestation,2024,23,13,10,2,18,3,14,9,3
+Tumakuru,Robbery,2024,15,7,8,2,10,3,6,9,2
+Tumakuru,Cyber Crime,2024,62,31,31,11,39,12,27,35,7
+Bagalkot,Theft,2024,89,37,52,3,73,13,66,23,16
+Vijayanagar,Molestation,2024,14,5,9,0,9,5,5,9,1
+Ballari,Theft,2024,133,77,56,7,82,44,66,67,12
+Gadag,Domestic Violence,2024,71,39,32,8,51,12,56,15,8
+Vijayanagar,Dowry Death,2024,9,4,5,0,6,3,6,3,2
+Kalaburagi,Theft,2024,103,67,36,9,76,18,68,35,18
+Haveri,Cyber Crime,2024,80,25,55,15,55,10,49,31,14
+Bidar,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Shimoga,Robbery,2024,16,9,7,2,12,2,10,6,4
+Kolar,Dowry Death,2024,3,1,2,0,2,1,0,3,0
+Koppal,Dowry Death,2024,4,2,2,0,3,1,1,3,0
+Bidar,Murder,2024,8,3,5,1,6,1,5,3,1
+Dharwad,Molestation,2024,20,6,14,0,14,6,7,13,0
+Ballari,Robbery,2024,18,6,12,3,12,3,9,9,3
+Kalaburagi,Dowry Death,2024,10,6,4,1,6,3,5,5,2
+Raichur,Cheating,2024,111,33,78,14,71,26,71,40,28
+Yadgir,Cheating,2024,97,66,31,5,77,15,36,61,4
+RuralAreaX,Cyber Crime,2024,48,22,26,7,32,9,24,24,11
+Koppal,Theft,2024,105,69,36,17,77,11,76,29,7
+Chamarajanagar,Robbery,2024,16,10,6,2,10,4,10,6,4
+Gadag,Murder,2024,4,2,2,0,2,2,2,2,0
+Dharwad,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Chikkaballapura,Theft,2024,103,69,34,5,62,36,26,77,7
+Mandya,Murder,2024,0,0,0,0,0,0,0,0,0
+Vijayapura,Cheating,2024,68,35,33,11,49,8,55,13,9
+Vijayanagar,Rape,2024,23,13,10,1,19,3,16,7,4
+Kolar,Theft,2024,116,45,71,8,96,12,92,24,4
+Raichur,Cyber Crime,2024,77,44,33,13,58,6,44,33,11
+Mangaluru,Dowry Death,2024,5,2,3,0,3,2,2,3,0
+Mandya,Dowry Death,2024,8,3,5,1,5,2,4,4,1
+Uttara Kannada,Rape,2024,40,20,20,5,27,8,35,5,7
+Chikkaballapura,Theft,2024,101,53,48,17,74,10,36,65,6
+Kolar,Murder,2024,6,3,3,0,3,3,4,2,1
+Chamarajanagar,Kidnapping,2024,7,2,5,0,5,2,4,3,1
+Davangere,Dowry Death,2024,13,4,9,1,8,4,5,8,2
+Kodagu,Rape,2024,33,11,22,5,21,7,26,7,3
+Shimoga,Murder,2024,7,3,4,0,5,2,5,2,1
+Chamarajanagar,Dowry Death,2024,8,2,6,1,5,2,5,3,1
+Dharwad,Rape,2024,34,18,16,6,22,6,27,7,11
+Mandya,Murder,2024,6,3,3,0,4,2,3,3,1
+Koppal,Murder,2024,3,1,2,0,2,1,1,2,0
+RuralAreaX,Cheating,2024,96,61,35,15,72,9,83,13,6
+Kodagu,Rape,2024,34,15,19,4,26,4,26,8,2
+Mandya,Theft,2024,130,65,65,19,92,19,67,63,13
+Dharwad,Robbery,2024,16,6,10,2,10,4,9,7,2
+Chikkamagaluru,Molestation,2024,15,7,8,2,12,1,9,6,3
+Ballari,Cyber Crime,2024,71,36,35,14,47,10,52,19,17
+Kolar,Dowry Death,2024,2,0,2,0,1,1,0,2,0
+Davangere,Cheating,2024,90,27,63,12,64,14,51,39,19
+Yadgir,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Bengaluru Rural,Molestation,2024,32,21,11,5,25,2,19,13,3
+Bengaluru Rural,Molestation,2024,26,13,13,3,20,3,8,18,2
+Chamarajanagar2,Kidnapping,2024,2,0,2,0,1,1,0,2,0
+Udupi,Robbery,2024,3,0,3,0,2,1,0,3,0
+Chitradurga,Molestation,2024,26,14,12,2,21,3,21,5,6
+Hubballi,Cyber Crime,2024,80,30,50,6,54,20,34,46,10
+Shimoga,Domestic Violence,2024,50,24,26,3,36,11,21,29,1
+Chamarajanagar,Kidnapping,2024,2,0,2,0,1,1,1,1,0
+Ramanagara,Dowry Death,2024,5,2,3,0,3,2,3,2,0
+Gadag,Murder,2024,6,3,3,1,3,2,5,1,1
+Chamarajanagar2,Murder,2024,3,1,2,0,2,1,2,1,0
+Chamarajanagar2,Domestic Violence,2024,62,43,19,4,37,21,45,17,16
+Vijayanagar,Rape,2024,40,25,15,1,29,10,10,30,4
+Gadag,Cyber Crime,2024,74,42,32,5,54,15,61,13,29
+Bengaluru Rural,Rape,2024,43,22,21,2,26,15,22,21,6
+Bidar,Domestic Violence,2024,71,32,39,14,46,11,24,47,3
+Kodagu,Theft,2024,150,76,74,26,90,34,96,54,13
+Bidar,Rape,2024,37,23,14,2,28,7,32,5,13
+Ramanagara,Dowry Death,2024,12,7,5,0,8,4,5,7,1
+Vijayanagar,Murder,2024,5,2,3,0,3,2,1,4,0
+Chamarajanagar,Murder,2024,9,5,4,1,6,2,5,4,1
+Ballari,Murder,2024,5,2,3,0,3,2,2,3,0
+Yadgir,Theft,2024,125,57,68,18,92,15,65,60,26
+Ramanagara,Murder,2024,2,0,2,0,1,1,1,1,0
+Udupi,Theft,2024,129,83,46,20,97,12,63,66,8
+Vijayanagar,Cyber Crime,2024,82,56,26,12,53,17,52,30,14
+Bengaluru Urban,Murder,2024,1,0,1,0,0,1,0,1,0
+Chitradurga,Theft,2024,119,54,65,10,90,19,57,62,16
+Belagavi,Cheating,2024,89,47,42,12,65,12,40,49,7
+Kalaburagi,Molestation,2024,26,12,14,1,19,6,10,16,3
+Bagalkot,Rape,2024,31,19,12,3,21,7,16,15,4
+Chitradurga,Domestic Violence,2024,59,22,37,6,40,13,33,26,9
+Yadgir,Theft,2024,142,86,56,27,106,9,98,44,23
+Tumakuru,Cheating,2024,92,28,64,15,56,21,52,40,5
+Bagalkot,Domestic Violence,2024,88,31,57,11,72,5,35,53,10
+Vijayanagar,Rape,2024,34,15,19,1,23,10,29,5,1
+RuralAreaX,Murder,2024,7,4,3,0,5,2,2,5,0
+Haveri,Kidnapping,2024,14,4,10,2,9,3,7,7,2
+Chamarajanagar,Theft,2024,143,71,72,6,91,46,47,96,5
+Bidar,Domestic Violence,2024,68,30,38,2,42,24,36,32,13
+Ramanagara,Domestic Violence,2024,78,50,28,6,58,14,28,50,13
+Vijayanagar,Murder,2024,3,1,2,0,2,1,1,2,0
+Dharwad,Domestic Violence,2024,62,27,35,2,49,11,19,43,6
+Dharwad,Domestic Violence,2024,75,43,32,7,63,5,39,36,7
+Mangaluru,Robbery,2024,16,8,8,2,11,3,5,11,0
+Yadgir,Theft,2024,154,78,76,26,112,16,40,114,8
+Raichur,Cyber Crime,2024,75,46,29,8,46,21,34,41,5
+Dharwad,Theft,2024,101,68,33,5,66,30,68,33,19
+Ballari,Kidnapping,2024,4,1,3,0,2,2,1,3,0
+Kolar,Cheating,2024,85,35,50,13,51,21,52,33,12
+Gadag,Murder,2024,4,2,2,0,2,2,1,3,0
+Shimoga,Murder,2024,6,3,3,1,4,1,2,4,0
+Mandya,Kidnapping,2024,3,1,2,0,1,2,1,2,0
+Haveri,Kidnapping,2024,12,4,8,0,8,4,3,9,0
+Haveri,Cyber Crime,2024,63,34,29,3,49,11,27,36,9
+Hassan,Robbery,2024,15,10,5,1,9,5,5,10,2
+Shimoga,Murder,2024,3,0,3,0,2,1,1,2,0
+Kolar,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Yadgir,Murder,2024,14,7,7,2,10,2,9,5,2
+Tumakuru,Domestic Violence,2024,64,31,33,2,53,9,50,14,5
+Bagalkot,Domestic Violence,2024,48,16,32,8,31,9,21,27,2
+Mangaluru,Cyber Crime,2024,66,26,40,8,46,12,21,45,9
+Chikkamagaluru,Robbery,2024,24,9,15,1,18,5,21,3,6
+Vijayanagar,Dowry Death,2024,8,5,3,0,6,2,4,4,1
+Vijayanagar,Molestation,2024,27,8,19,4,16,7,21,6,8
+Belagavi,Kidnapping,2024,2,1,1,0,1,1,1,1,0
+Raichur,Rape,2024,54,36,18,7,44,3,35,19,10
+Chamarajanagar,Murder,2024,3,0,3,0,1,2,2,1,0
+Kolar,Cyber Crime,2024,60,31,29,6,45,9,49,11,4
+Udupi,Murder,2024,5,3,2,0,3,2,2,3,0
+Tumakuru,Molestation,2024,24,9,15,4,18,2,6,18,0
+Tumakuru,Robbery,2024,10,4,6,1,6,3,4,6,1
+Ballari,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Kalaburagi,Murder,2024,8,4,4,0,5,3,4,4,0
+Mangaluru,Theft,2024,127,83,44,19,85,23,66,61,16
+Tumakuru,Rape,2024,35,20,15,3,27,5,22,13,3
+Udupi,Murder,2024,0,0,0,0,0,0,0,0,0
+Mysuru,Dowry Death,2024,5,3,2,0,3,2,3,2,0
+Chikkaballapura,Murder,2024,5,2,3,0,3,2,3,2,0
+Shivamogga,Theft,2024,128,80,48,11,97,20,71,57,10
+Kodagu,Robbery,2024,15,7,8,2,10,3,5,10,1
+Bengaluru Rural,Domestic Violence,2024,43,18,25,6,34,3,25,18,8
+Gadag,Murder,2024,6,2,4,0,4,2,3,3,1
+Bengaluru Rural,Murder,2024,4,1,3,0,3,1,1,3,0
+Bengaluru Urban,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Dharwad,Theft,2024,104,54,50,8,74,22,49,55,20
+Udupi,Kidnapping,2024,2,1,1,0,1,1,0,2,0
+Chikkamagaluru,Murder,2024,0,0,0,0,0,0,0,0,0
+Tumakuru,Dowry Death,2024,7,4,3,1,4,2,4,3,1
+Belagavi,Robbery,2024,14,6,8,1,10,3,7,7,0
+Kodagu,Robbery,2024,23,11,12,1,17,5,6,17,2
+Udupi,Dowry Death,2024,3,0,3,0,1,2,2,1,0
+Yadgir,Murder,2024,3,1,2,0,2,1,2,1,0
+Ramanagara,Kidnapping,2024,5,1,4,0,3,2,2,3,0
+Chamarajanagar,Cheating,2024,93,37,56,8,69,16,54,39,16
+Mysuru,Murder,2024,4,2,2,0,3,1,3,1,1
+RuralAreaX,Domestic Violence,2024,72,30,42,4,59,9,55,17,14
+Belagavi,Murder,2024,11,7,4,0,9,2,6,5,2
+Haveri,Rape,2024,32,10,22,3,21,8,8,24,0
+Vijayanagar,Domestic Violence,2024,98,50,48,18,62,18,55,43,19
+Dharwad,Molestation,2024,14,8,6,1,8,5,7,7,2
+Bidar,Rape,2024,47,25,22,4,36,7,28,19,5
+Ramanagara,Dowry Death,2024,6,2,4,1,4,1,3,3,0
+Shimoga,Cheating,2024,93,38,55,10,66,17,26,67,7
+Udupi,Cyber Crime,2024,69,28,41,6,48,15,59,10,21
+Koppal,Theft,2024,134,42,92,11,93,30,65,69,10
+Haveri,Murder,2024,10,3,7,0,6,4,6,4,2
+Shivamogga,Cyber Crime,2024,55,35,20,9,40,6,24,31,8
+Tumakuru,Murder,2024,9,3,6,1,6,2,4,5,0
+Ballari,Domestic Violence,2024,62,23,39,10,37,15,37,25,4
+Chamarajanagar,Kidnapping,2024,9,4,5,0,6,3,7,2,1
+Gadag,Molestation,2024,19,11,8,0,12,7,4,15,1
+Mangaluru,Cheating,2024,102,45,57,19,77,6,69,33,25
+Ramanagara,Molestation,2024,35,19,16,1,21,13,14,21,2
+Dharwad,Murder,2024,5,3,2,0,3,2,3,2,1
+Kolar,Molestation,2024,20,8,12,3,14,3,12,8,3
+Haveri,Domestic Violence,2024,87,60,27,8,57,22,73,14,17
+Hubballi,Rape,2024,36,13,23,2,30,4,25,11,11
+Koppal,Domestic Violence,2024,69,32,37,12,57,0,31,38,6
+Kodagu,Kidnapping,2024,11,4,7,0,9,2,7,4,2
+Bagalkot,Cheating,2024,91,44,47,12,69,10,39,52,18
+Chamarajanagar,Domestic Violence,2024,87,51,36,16,68,3,52,35,3
+Gadag,Cyber Crime,2024,54,26,28,1,39,14,27,27,9
+Udupi,Cyber Crime,2024,73,42,31,12,48,13,48,25,3
+Bengaluru Rural,Cheating,2024,105,41,64,19,76,10,76,29,31
+Bengaluru Rural,Rape,2024,37,22,15,6,31,0,18,19,1
+Mysuru,Dowry Death,2024,2,1,1,0,1,1,1,1,0
+Mandya,Kidnapping,2024,8,2,6,0,5,3,3,5,0
+Koppal,Domestic Violence,2024,68,30,38,8,52,8,43,25,11
+Hassan,Theft,2024,108,34,74,3,84,21,32,76,6
+Dharwad,Dowry Death,2024,3,1,2,0,1,2,1,2,0
+Haveri,Cheating,2024,103,41,62,19,83,1,56,47,24
+Vijayapura,Dowry Death,2024,2,0,2,0,1,1,0,2,0
+Chikkaballapura,Murder,2024,1,0,1,0,0,1,0,1,0
+Tumakuru,Dowry Death,2024,7,3,4,0,5,2,2,5,0
+Uttara Kannada,Molestation,2024,18,8,10,1,10,7,10,8,4
+Yadgir,Murder,2024,4,2,2,0,2,2,2,2,0
+Uttara Kannada,Molestation,2024,29,17,12,5,21,3,25,4,6
+Shimoga,Cyber Crime,2024,66,25,41,4,41,21,52,14,25
+Vijayanagar,Cheating,2024,92,59,33,3,69,20,34,58,15
+Haveri,Rape,2024,41,18,23,3,27,11,18,23,6
+Mangaluru,Robbery,2024,8,4,4,1,4,3,4,4,1
+Mandya,Cheating,2024,93,34,59,3,72,18,68,25,28
+Mandya,Dowry Death,2024,8,2,6,1,6,1,4,4,0
+Shimoga,Cyber Crime,2024,73,26,47,6,53,14,25,48,9
+Bagalkot,Rape,2024,27,10,17,0,22,5,20,7,4
+Yadgir,Kidnapping,2024,9,3,6,0,5,4,3,6,0
+Kalaburagi,Kidnapping,2024,5,2,3,0,3,2,3,2,1
+Ramanagara,Cyber Crime,2024,46,30,16,5,29,12,16,30,3
+Uttara Kannada,Molestation,2024,30,15,15,0,19,11,15,15,2
+Yadgir,Domestic Violence,2024,89,43,46,14,67,8,45,44,2
+Shimoga,Cheating,2024,79,40,39,5,54,20,30,49,5
+Yadgir,Molestation,2024,23,7,16,3,17,3,14,9,5
+Chitradurga,Molestation,2024,15,5,10,2,9,4,4,11,0
+Kalaburagi,Rape,2024,32,21,11,2,25,5,23,9,3
+Mandya,Theft,2024,143,57,86,16,86,41,84,59,17
+Gadag,Kidnapping,2024,4,1,3,0,2,2,3,1,0
+Belagavi,Domestic Violence,2024,91,38,53,17,75,0,27,64,7
+Kolar,Dowry Death,2024,9,2,7,0,6,3,2,7,0
+Chamarajanagar,Molestation,2024,32,18,14,3,27,2,28,4,3
+Bengaluru Rural,Rape,2024,35,21,14,6,27,2,22,13,2
+Kolar,Domestic Violence,2024,54,27,27,7,38,9,45,9,2
+Raichur,Dowry Death,2024,6,2,4,0,4,2,3,3,1
+Kodagu,Domestic Violence,2024,83,38,45,16,52,15,29,54,4
+Hubballi,Cyber Crime,2024,56,37,19,8,41,7,15,41,3
+Vijayanagar,Molestation,2024,22,14,8,2,16,4,7,15,0
+RuralAreaX,Molestation,2024,31,10,21,5,21,5,17,14,7
+Gadag,Dowry Death,2024,10,6,4,0,6,4,5,5,1
+Chitradurga,Theft,2024,123,64,59,14,75,34,105,18,38
+Koppal,Kidnapping,2024,10,3,7,1,6,3,4,6,1
+Mysuru,Cheating,2024,87,55,32,10,69,8,77,10,9
+Shimoga,Molestation,2024,35,17,18,6,25,4,10,25,2
+Bengaluru Urban,Murder,2024,4,1,3,0,3,1,2,2,0
+Bidar,Domestic Violence,2024,84,38,46,13,51,20,56,28,6
+Chikkaballapura,Cyber Crime,2024,62,28,34,11,40,11,27,35,12
+Mandya,Theft,2024,116,71,45,13,92,11,33,83,14
+Chamarajanagar,Theft,2024,142,57,85,26,118,0,62,80,6
+Yadgir,Murder,2024,0,0,0,0,0,0,0,0,0
+Bengaluru Urban,Robbery,2024,15,9,6,1,10,4,13,2,1
+RuralAreaX,Kidnapping,2024,2,0,2,0,1,1,0,2,0
+Koppal,Cheating,2024,90,34,56,8,58,24,23,67,5
+Bidar,Robbery,2024,15,7,8,0,11,4,8,7,2
+Uttara Kannada,Dowry Death,2024,6,2,4,0,3,3,2,4,0
+Ballari,Molestation,2024,24,8,16,0,18,6,13,11,6
+Kalaburagi,Molestation,2024,27,14,13,0,18,9,8,19,1
+Vijayanagar,Molestation,2024,48,17,31,2,33,13,25,23,8
+Bengaluru Rural,Dowry Death,2024,7,2,5,1,4,2,4,3,1
+Davangere,Cyber Crime,2024,64,34,30,9,40,15,32,32,4
+Bengaluru Urban,Molestation,2024,23,16,7,3,17,3,13,10,0
+Mysuru,Robbery,2024,9,3,6,1,5,3,3,6,0
+Mangaluru,Murder,2024,0,0,0,0,0,0,0,0,0
+Mangaluru,Rape,2024,34,18,16,2,20,12,14,20,3
+Yadgir,Cheating,2024,111,71,40,11,79,21,47,64,16
+Kolar,Theft,2024,106,53,53,16,80,10,69,37,32
+Shimoga,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+Davangere,Rape,2024,43,22,21,2,35,6,10,33,1
+Bidar,Molestation,2024,24,12,12,3,19,2,13,11,1
+Shivamogga,Murder,2024,6,2,4,0,4,2,3,3,1
+Belagavi,Cheating,2024,100,57,43,18,78,4,27,73,10
+Chamarajanagar,Theft,2024,138,44,94,13,85,40,81,57,28
+Mangaluru,Cyber Crime,2024,67,20,47,5,51,11,30,37,9
+Shimoga,Murder,2024,2,0,2,0,1,1,1,1,0
+Hubballi,Molestation,2024,28,10,18,3,23,2,8,20,3
+Chamarajanagar,Molestation,2024,28,10,18,4,17,7,24,4,7
+Bengaluru Urban,Kidnapping,2024,9,3,6,1,6,2,7,2,3
+Vijayapura,Robbery,2024,20,6,14,3,15,2,14,6,2
+Bengaluru Urban,Molestation,2024,18,9,9,3,14,1,6,12,0
+Raichur,Domestic Violence,2024,69,36,33,5,44,20,38,31,12
+Ballari,Murder,2024,2,0,2,0,1,1,1,1,0
+Raichur,Cheating,2024,99,61,38,12,77,10,70,29,27
+Davangere,Rape,2024,33,15,18,3,24,6,25,8,2
+Ballari,Domestic Violence,2024,92,43,49,6,65,21,53,39,21
+Udupi,Domestic Violence,2024,79,49,30,5,50,24,64,15,26
+RuralAreaX,Cyber Crime,2024,65,33,32,10,41,14,44,21,15
+Bengaluru Rural,Kidnapping,2024,3,1,2,0,2,1,0,3,0
+Shivamogga,Kidnapping,2024,2,0,2,0,1,1,1,1,0
+Chitradurga,Rape,2024,40,27,13,2,32,6,34,6,2
+Udupi,Rape,2024,26,17,9,3,19,4,7,19,1
+Hubballi,Kidnapping,2024,9,5,4,1,7,1,7,2,2
+Kodagu,Murder,2024,8,3,5,0,5,3,6,2,0
+Shivamogga,Murder,2024,7,4,3,1,5,1,5,2,0
+Uttara Kannada,Rape,2024,31,21,10,3,19,9,14,17,3
+Mandya,Molestation,2024,32,10,22,5,20,7,19,13,3
+Raichur,Molestation,2024,23,15,8,2,15,6,9,14,2
+Bengaluru Rural,Molestation,2024,28,8,20,2,22,4,10,18,0
+Chikkaballapura,Murder,2024,7,3,4,0,5,2,3,4,0
+Kodagu,Molestation,2024,30,18,12,4,19,7,14,16,5
+Chamarajanagar,Theft,2024,136,57,79,21,83,32,90,46,8
+Bengaluru Urban,Dowry Death,2024,4,2,2,0,3,1,2,2,0
+Mandya,Dowry Death,2024,2,1,1,0,1,1,0,2,0
+Chikkaballapura,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Shimoga,Domestic Violence,2024,68,42,26,5,53,10,34,34,15
+Hassan,Cyber Crime,2024,50,24,26,7,30,13,40,10,17
+Chamarajanagar,Molestation,2024,7,4,3,0,4,3,2,5,0
+Chamarajanagar,Cyber Crime,2024,75,28,47,4,52,19,57,18,28
+Tumakuru,Murder,2024,4,1,3,0,3,1,2,2,0
+Mangaluru,Kidnapping,2024,2,1,1,0,1,1,1,1,0
+Chitradurga,Cheating,2024,84,57,27,6,54,24,47,37,9
+Tumakuru,Theft,2024,116,80,36,11,91,14,90,26,44
+Bengaluru Rural,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Koppal,Rape,2024,43,18,25,5,32,6,21,22,3
+RuralAreaX,Theft,2024,155,70,85,26,129,0,117,38,28
+RuralAreaX,Cyber Crime,2024,68,29,39,3,46,19,27,41,4
+Vijayanagar,Robbery,2024,18,11,7,0,11,7,8,10,0
+Kodagu,Rape,2024,39,11,28,5,24,10,17,22,5
+Udupi,Theft,2024,130,47,83,15,100,15,85,45,21
+Chitradurga,Molestation,2024,19,8,11,1,15,3,9,10,2
+Bengaluru Rural,Dowry Death,2024,4,2,2,0,3,1,2,2,0
+Chikkaballapura,Molestation,2024,26,9,17,3,17,6,20,6,4
+Vijayapura,Rape,2024,29,9,20,1,19,9,10,19,2
+Koppal,Theft,2024,126,78,48,13,92,21,91,35,38
+Bengaluru Urban,Murder,2024,0,0,0,0,0,0,0,0,0
+RuralAreaX,Dowry Death,2024,10,5,5,1,7,2,8,2,2
+Mandya,Kidnapping,2024,8,3,5,0,6,2,2,6,0
+Kodagu,Cheating,2024,103,55,48,9,67,27,41,62,9
+Kolar,Cyber Crime,2024,65,32,33,6,46,13,49,16,17
+Koppal,Theft,2024,117,55,62,12,93,12,104,13,21
+Udupi,Murder,2024,11,6,5,1,8,2,5,6,0
+Belagavi,Kidnapping,2024,8,3,5,1,6,1,5,3,1
+Raichur,Cheating,2024,109,72,37,12,69,28,33,76,7
+Kodagu,Cyber Crime,2024,60,31,29,4,37,19,44,16,7
+Udupi,Cyber Crime,2024,55,17,38,1,36,18,41,14,19
+Bagalkot,Robbery,2024,13,6,7,0,9,4,8,5,3
+RuralAreaX,Rape,2024,43,29,14,2,26,15,10,33,4
+Vijayanagar,Cheating,2024,108,58,50,18,65,25,71,37,23
+Ballari,Rape,2024,40,21,19,6,30,4,13,27,1
+Uttara Kannada,Cyber Crime,2024,34,17,17,1,22,11,25,9,4
+Mandya,Molestation,2024,27,12,15,2,18,7,21,6,8
+Raichur,Rape,2024,51,20,31,1,41,9,13,38,1
+Bengaluru Rural,Rape,2024,33,22,11,3,27,3,20,13,1
+Koppal,Rape,2024,50,29,21,3,41,6,31,19,7
+Tumakuru,Dowry Death,2024,7,4,3,1,5,1,5,2,1
+RuralAreaX,Robbery,2024,20,12,8,2,12,6,12,8,3
+Chikkaballapura,Domestic Violence,2024,71,35,36,9,45,17,21,50,8
+Hubballi,Cyber Crime,2024,59,30,29,4,38,17,44,15,18
+Shimoga,Molestation,2024,30,16,14,4,18,8,9,21,0
+Kodagu,Cheating,2024,94,65,29,5,76,13,38,56,13
+Dharwad,Dowry Death,2024,7,4,3,1,4,2,4,3,1
+Kalaburagi,Cyber Crime,2024,61,31,30,3,37,21,21,40,7
+Kalaburagi,Robbery,2024,14,8,6,1,10,3,9,5,2
+Ramanagara,Domestic Violence,2024,65,21,44,6,51,8,53,12,18
+Ballari,Domestic Violence,2024,78,34,44,5,47,26,34,44,16
+Haveri,Domestic Violence,2024,82,43,39,9,68,5,45,37,11
+Chamarajanagar,Kidnapping,2024,8,2,6,1,5,2,4,4,1
+RuralAreaX,Kidnapping,2024,5,1,4,0,3,2,4,1,0
+Uttara Kannada,Kidnapping,2024,5,2,3,0,3,2,3,2,0
+Bidar,Murder,2024,0,0,0,0,0,0,0,0,0
+Chikkamagaluru,Cheating,2024,92,50,42,4,76,12,69,23,4
+Chikkamagaluru,Cheating,2024,79,48,31,10,51,18,21,58,1
+Mangaluru,Domestic Violence,2024,66,35,31,4,50,12,24,42,11
+Mysuru,Theft,2024,105,42,63,12,75,18,90,15,33
+Udupi,Cyber Crime,2024,40,15,25,6,28,6,17,23,7
+Mangaluru,Cheating,2024,81,46,35,4,67,10,34,47,8
+Vijayapura,Molestation,2024,18,6,12,1,11,6,7,11,1
+Hubballi,Kidnapping,2024,8,3,5,1,5,2,6,2,0
+Mysuru,Murder,2024,10,6,4,1,6,3,5,5,1
+Mandya,Robbery,2024,17,11,6,2,13,2,8,9,3
+Vijayanagar,Cheating,2024,107,55,52,5,73,29,68,39,8
+Bagalkot,Cheating,2024,79,54,25,10,56,13,68,11,33
+Belagavi,Robbery,2024,24,15,9,3,19,2,7,17,2
+Davangere,Rape,2024,40,22,18,1,32,7,27,13,7
+Dharwad,Robbery,2024,13,6,7,2,9,2,10,3,0
+Tumakuru,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Chikkamagaluru,Rape,2024,30,19,11,2,18,10,16,14,6
+Mangaluru,Robbery,2024,22,7,15,2,15,5,17,5,5
+Kodagu,Murder,2024,8,4,4,0,6,2,4,4,1
+Chitradurga,Kidnapping,2024,7,3,4,0,5,2,3,4,0
+Mangaluru,Cyber Crime,2024,66,40,26,2,54,10,19,47,6
+Bengaluru Urban,Rape,2024,32,12,20,3,25,4,20,12,8
+Bagalkot,Murder,2024,7,4,3,0,5,2,3,4,0
+Kodagu,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Kalaburagi,Cheating,2024,93,40,53,17,57,19,39,54,5
+Bengaluru Urban,Rape,2024,31,21,10,1,25,5,26,5,11
+Kolar,Molestation,2024,30,11,19,3,22,5,11,19,3
+Udupi,Cyber Crime,2024,76,35,41,13,46,17,53,23,24
+Chitradurga,Cheating,2024,72,38,34,12,53,7,20,52,2
+Mangaluru,Murder,2024,10,6,4,1,8,1,2,8,0
+Chitradurga,Domestic Violence,2024,73,37,36,6,60,7,20,53,5
+Ramanagara,Kidnapping,2024,9,3,6,1,5,3,6,3,2
+Dharwad,Kidnapping,2024,3,2,1,0,2,1,2,1,0
+Chikkamagaluru,Murder,2024,1,0,1,0,0,1,0,1,0
+Mandya,Domestic Violence,2024,85,49,36,8,57,20,47,38,13
+Vijayanagar,Robbery,2024,22,8,14,1,14,7,9,13,3
+Koppal,Robbery,2024,6,3,3,0,4,2,2,4,0
+Vijayapura,Cheating,2024,74,49,25,7,53,14,28,46,13
+Vijayapura,Kidnapping,2024,5,2,3,0,4,1,4,1,0
+Dharwad,Rape,2024,32,14,18,1,23,8,13,19,5
+Shimoga,Murder,2024,7,2,5,0,5,2,3,4,0
+Shimoga,Cheating,2024,104,50,54,9,63,32,49,55,23
+Vijayanagar,Molestation,2024,25,13,12,1,17,7,17,8,7
+Bidar,Murder,2024,2,1,1,0,1,1,1,1,0
+Bidar,Molestation,2024,20,8,12,3,16,1,10,10,2
+Tumakuru,Kidnapping,2024,12,7,5,0,7,5,7,5,3
+Uttara Kannada,Robbery,2024,16,10,6,2,11,3,11,5,1
+Chitradurga,Molestation,2024,23,10,13,3,18,2,15,8,5
+Belagavi,Cheating,2024,113,61,52,6,75,32,40,73,14
+Vijayanagar,Rape,2024,38,13,25,4,29,5,14,24,2
+Tumakuru,Domestic Violence,2024,74,24,50,13,55,6,29,45,1
+Bidar,Domestic Violence,2024,49,28,21,6,34,9,29,20,6
+Chamarajanagar2,Domestic Violence,2024,74,48,26,12,54,8,50,24,9
+Hassan,Molestation,2024,21,9,12,1,14,6,13,8,1
+Bengaluru Urban,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Mangaluru,Rape,2024,43,22,21,1,33,9,36,7,5
+Vijayanagar,Domestic Violence,2024,73,40,33,5,58,10,47,26,15
+Chamarajanagar,Murder,2024,5,1,4,0,3,2,2,3,0
+Bengaluru Rural,Molestation,2024,15,9,6,0,12,3,10,5,4
+Gadag,Molestation,2024,25,14,11,1,20,4,12,13,2
+Mandya,Cyber Crime,2024,64,32,32,12,52,0,36,28,2
+Chamarajanagar,Kidnapping,2024,7,4,3,0,5,2,5,2,2
+Ballari,Theft,2024,134,54,80,21,107,6,117,17,24
+RuralAreaX,Molestation,2024,35,23,12,3,26,6,21,14,6
+Hubballi,Murder,2024,0,0,0,0,0,0,0,0,0
+Chikkamagaluru,Cyber Crime,2024,45,17,28,2,30,13,14,31,5
+Mysuru,Cheating,2024,86,45,41,6,71,9,24,62,1
+Bengaluru Rural,Domestic Violence,2024,45,29,16,4,28,13,15,30,3
+Kalaburagi,Cyber Crime,2024,49,17,32,4,36,9,17,32,4
+Bidar,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Hubballi,Murder,2024,2,1,1,0,1,1,0,2,0
+Shimoga,Murder,2024,7,3,4,1,5,1,5,2,2
+RuralAreaX,Cheating,2024,104,55,49,8,63,33,76,28,17
+Ballari,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Tumakuru,Murder,2024,5,1,4,0,3,2,2,3,0
+Bengaluru Urban,Cheating,2024,80,47,33,12,58,10,34,46,13
+Chitradurga,Theft,2024,118,54,64,6,100,12,44,74,10
+Chamarajanagar,Cyber Crime,2024,65,35,30,5,48,12,45,20,4
+Kolar,Molestation,2024,28,14,14,4,23,1,21,7,8
+Vijayanagar,Theft,2024,167,113,54,20,114,33,102,65,35
+Bengaluru Rural,Cheating,2024,100,61,39,9,68,23,46,54,17
+Vijayanagar,Murder,2024,2,0,2,0,1,1,1,1,0
+Kalaburagi,Cheating,2024,73,26,47,9,51,13,36,37,15
+Raichur,Rape,2024,40,20,20,1,24,15,20,20,3
+Haveri,Theft,2024,123,51,72,7,85,31,102,21,31
+Mangaluru,Rape,2024,34,10,24,4,22,8,20,14,7
+Bengaluru Urban,Rape,2024,35,18,17,1,21,13,27,8,5
+Hubballi,Molestation,2024,24,11,13,4,18,2,11,13,0
+Bengaluru Urban,Cyber Crime,2024,62,29,33,2,44,16,49,13,12
+Hassan,Cheating,2024,72,45,27,13,54,5,18,54,0
+Chamarajanagar,Theft,2024,130,55,75,15,91,24,88,42,8
+Bagalkot,Robbery,2024,13,7,6,2,9,2,7,6,1
+Vijayanagar,Cheating,2024,100,40,60,8,68,24,59,41,3
+Mangaluru,Murder,2024,4,2,2,0,2,2,1,3,0
+Udupi,Robbery,2024,19,11,8,3,13,3,12,7,4
+Uttara Kannada,Theft,2024,92,50,42,15,65,12,28,64,10
+Yadgir,Cheating,2024,97,53,44,11,76,10,80,17,13
+Mangaluru,Theft,2024,129,71,58,5,95,29,40,89,5
+Uttara Kannada,Cheating,2024,66,36,30,8,41,17,53,13,9
+Ballari,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Kalaburagi,Robbery,2024,19,12,7,3,12,4,9,10,1
+Bengaluru Urban,Theft,2024,107,39,68,13,67,27,71,36,25
+Shimoga,Cheating,2024,92,56,36,5,68,19,53,39,11
+Chikkamagaluru,Theft,2024,106,40,66,6,72,28,56,50,18
+Kodagu,Molestation,2024,24,12,12,1,16,7,10,14,1
+Ramanagara,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Bagalkot,Kidnapping,2024,11,3,8,1,8,2,4,7,1
+Chamarajanagar,Kidnapping,2024,8,4,4,0,6,2,7,1,3
+Bagalkot,Dowry Death,2024,11,4,7,1,7,3,3,8,0
+Koppal,Domestic Violence,2024,78,26,52,6,64,8,23,55,9
+Davangere,Murder,2024,3,1,2,0,2,1,2,1,0
+Bengaluru Urban,Robbery,2024,13,8,5,0,7,6,9,4,0
+Kalaburagi,Domestic Violence,2024,62,38,24,5,52,5,30,32,9
+Vijayanagar,Cheating,2024,92,50,42,14,64,14,50,42,8
+Chikkaballapura,Murder,2024,6,3,3,0,4,2,2,4,0
+Bengaluru Rural,Murder,2024,7,3,4,0,5,2,5,2,1
+Bengaluru Urban,Cyber Crime,2024,48,31,17,4,33,11,25,23,2
+Shimoga,Theft,2024,134,50,84,16,96,22,41,93,3
+Chamarajanagar,Cheating,2024,103,65,38,3,68,32,60,43,6
+Vijayapura,Dowry Death,2024,6,3,3,0,4,2,1,5,0
+Vijayanagar,Cyber Crime,2024,78,40,38,8,47,23,59,19,21
+Mandya,Dowry Death,2024,2,1,1,0,1,1,1,1,0
+Raichur,Murder,2024,1,0,1,0,0,1,0,1,0
+Raichur,Murder,2024,7,2,5,1,5,1,4,3,1
+Kodagu,Theft,2024,150,86,64,23,119,8,52,98,8
+Vijayapura,Dowry Death,2024,9,5,4,1,7,1,4,5,1
+Ballari,Cyber Crime,2024,79,35,44,10,60,9,47,32,2
+Ramanagara,Rape,2024,45,14,31,5,33,7,30,15,9
+Shimoga,Cyber Crime,2024,49,20,29,9,38,2,30,19,3
+Dharwad,Cyber Crime,2024,60,35,25,9,50,1,22,38,3
+Mysuru,Cheating,2024,92,48,44,9,65,18,34,58,5
+Uttara Kannada,Theft,2024,107,38,69,17,84,6,88,19,40
+Yadgir,Robbery,2024,13,4,9,1,10,2,11,2,4
+Tumakuru,Molestation,2024,35,22,13,4,24,7,17,18,3
+Kalaburagi,Molestation,2024,15,7,8,1,10,4,7,8,1
+Haveri,Murder,2024,10,6,4,1,7,2,7,3,1
+Shimoga,Cyber Crime,2024,50,23,27,9,36,5,23,27,2
+Uttara Kannada,Rape,2024,34,13,21,4,26,4,12,22,2
+Chamarajanagar2,Molestation,2024,17,10,7,2,12,3,14,3,5
+Bidar,Kidnapping,2024,9,3,6,1,6,2,7,2,3
+Vijayapura,Cheating,2024,76,50,26,4,50,22,64,12,22
+Vijayapura,Rape,2024,28,17,11,1,19,8,19,9,7
+Vijayapura,Kidnapping,2024,9,3,6,1,6,2,3,6,0
+Shimoga,Rape,2024,35,12,23,5,25,5,27,8,4
+Hassan,Theft,2024,110,71,39,4,71,35,92,18,32
+Belagavi,Murder,2024,9,5,4,1,5,3,7,2,0
+Mandya,Robbery,2024,21,12,9,1,16,4,13,8,3
+Shivamogga,Kidnapping,2024,6,3,3,0,4,2,3,3,0
+Chikkaballapura,Domestic Violence,2024,59,31,28,6,44,9,43,16,5
+Shimoga,Kidnapping,2024,3,1,2,0,1,2,2,1,0
+Kodagu,Robbery,2024,23,7,16,1,15,7,17,6,3
+Bengaluru Urban,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Chamarajanagar2,Theft,2024,135,51,84,6,102,27,51,84,7
+Chitradurga,Domestic Violence,2024,72,38,34,4,58,10,19,53,2
+Bengaluru Urban,Theft,2024,104,69,35,11,82,11,87,17,9
+Tumakuru,Theft,2024,143,69,74,27,96,20,77,66,10
+Kodagu,Domestic Violence,2024,69,30,39,3,44,22,52,17,16
+RuralAreaX,Kidnapping,2024,4,2,2,0,2,2,2,2,0
+Kolar,Theft,2024,117,55,62,15,73,29,73,44,6
+Mangaluru,Cheating,2024,93,33,60,9,62,22,35,58,14
+Vijayapura,Theft,2024,112,68,44,21,74,17,86,26,12
+RuralAreaX,Rape,2024,40,16,24,7,24,9,20,20,4
+Hubballi,Molestation,2024,18,8,10,2,10,6,5,13,1
+Mangaluru,Rape,2024,27,8,19,4,22,1,15,12,2
+Vijayapura,Robbery,2024,13,7,6,1,9,3,6,7,1
+Hassan,Cheating,2024,82,43,39,8,62,12,29,53,13
+Bengaluru Urban,Molestation,2024,29,18,11,3,22,4,23,6,1
+Yadgir,Molestation,2024,27,13,14,3,20,4,20,7,5
+Koppal,Molestation,2024,27,13,14,2,21,4,13,14,5
+Yadgir,Robbery,2024,18,6,12,2,12,4,14,4,3
+Chikkamagaluru,Molestation,2024,12,7,5,1,8,3,9,3,0
+Dharwad,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Kodagu,Dowry Death,2024,9,4,5,0,7,2,4,5,1
+Hubballi,Kidnapping,2024,8,5,3,1,5,2,3,5,1
+Belagavi,Molestation,2024,31,17,14,6,19,6,14,17,4
+Bagalkot,Dowry Death,2024,2,1,1,0,1,1,0,2,0
+Chitradurga,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Belagavi,Murder,2024,8,2,6,1,5,2,5,3,1
+Chamarajanagar,Cheating,2024,89,34,55,7,67,15,24,65,11
+Uttara Kannada,Murder,2024,3,2,1,0,2,1,2,1,0
+Raichur,Domestic Violence,2024,84,43,41,14,50,20,53,31,21
+Haveri,Molestation,2024,18,11,7,2,14,2,13,5,6
+Bengaluru Rural,Robbery,2024,13,8,5,2,9,2,5,8,0
+Uttara Kannada,Rape,2024,27,14,13,3,18,6,14,13,6
+Dharwad,Domestic Violence,2024,74,43,31,10,55,9,66,8,28
+Haveri,Cheating,2024,120,40,80,8,73,39,96,24,21
+Mandya,Molestation,2024,15,10,5,2,12,1,9,6,2
+Mandya,Murder,2024,4,1,3,0,2,2,3,1,0
+Davangere,Robbery,2024,17,5,12,2,13,2,15,2,5
+Chamarajanagar2,Cyber Crime,2024,69,48,21,7,42,20,56,13,25
+Haveri,Kidnapping,2024,6,2,4,0,4,2,1,5,0
+Tumakuru,Cyber Crime,2024,53,23,30,2,32,19,24,29,6
+Dharwad,Rape,2024,38,23,15,4,24,10,13,25,2
+Hassan,Rape,2024,32,19,13,4,22,6,22,10,3
+Chitradurga,Rape,2024,30,17,13,4,24,2,15,15,1
+Koppal,Molestation,2024,25,17,8,4,20,1,18,7,1
+Koppal,Cyber Crime,2024,50,27,23,6,42,2,14,36,4
+Ballari,Cyber Crime,2024,78,31,47,12,48,18,69,9,34
+Vijayapura,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+Hubballi,Cheating,2024,104,35,69,19,62,23,73,31,6
+Chikkaballapura,Molestation,2024,17,9,8,2,13,2,5,12,1
+Kalaburagi,Murder,2024,2,0,2,0,1,1,0,2,0
+Yadgir,Kidnapping,2024,6,3,3,0,3,3,4,2,1
+Shimoga,Rape,2024,36,11,25,4,22,10,21,15,4
+RuralAreaX,Molestation,2024,34,15,19,2,28,4,19,15,9
+RuralAreaX,Molestation,2024,20,11,9,2,12,6,10,10,1
+Hubballi,Domestic Violence,2024,66,39,27,8,49,9,16,50,5
+Chamarajanagar,Cyber Crime,2024,69,48,21,4,45,20,26,43,9
+Udupi,Molestation,2024,25,10,15,4,16,5,20,5,5
+Kalaburagi,Cyber Crime,2024,43,21,22,5,35,3,37,6,9
+Vijayapura,Robbery,2024,18,9,9,1,12,5,4,14,0
+Chamarajanagar,Murder,2024,5,3,2,0,4,1,3,2,0
+Chikkaballapura,Domestic Violence,2024,63,23,40,6,51,6,54,9,15
+Bidar,Theft,2024,132,72,60,25,97,10,117,15,32
+Vijayanagar,Robbery,2024,20,13,7,3,14,3,13,7,3
+Chamarajanagar,Dowry Death,2024,9,3,6,1,5,3,5,4,1
+Udupi,Robbery,2024,16,7,9,1,12,3,12,4,3
+Hassan,Kidnapping,2024,9,4,5,0,7,2,6,3,2
+Chikkamagaluru,Theft,2024,130,68,62,9,94,27,60,70,15
+Davangere,Cheating,2024,107,50,57,14,68,25,84,23,27
+Gadag,Cheating,2024,108,75,33,7,75,26,89,19,8
+RuralAreaX,Dowry Death,2024,4,1,3,0,2,2,1,3,0
+Bagalkot,Murder,2024,2,0,2,0,1,1,1,1,0
+Tumakuru,Theft,2024,119,48,71,11,77,31,82,37,6
+Bengaluru Urban,Molestation,2024,17,6,11,3,14,0,12,5,1
+Kodagu,Robbery,2024,11,7,4,0,7,4,9,2,2
+Haveri,Molestation,2024,35,23,12,5,25,5,17,18,4
+Mangaluru,Rape,2024,29,16,13,3,24,2,23,6,1
+Bengaluru Rural,Rape,2024,36,20,16,5,23,8,10,26,3
+Chamarajanagar,Kidnapping,2024,2,1,1,0,1,1,0,2,0
+Bidar,Robbery,2024,11,4,7,1,6,4,4,7,1
+Kolar,Robbery,2024,15,5,10,0,10,5,8,7,1
+Kalaburagi,Rape,2024,37,18,19,3,31,3,12,25,5
+Kolar,Molestation,2024,25,8,17,3,21,1,21,4,1
+Koppal,Murder,2024,2,0,2,0,1,1,0,2,0
+Raichur,Cheating,2024,102,68,34,5,72,25,42,60,18
+Mangaluru,Cyber Crime,2024,68,30,38,8,43,17,46,22,13
+Bidar,Rape,2024,28,16,12,4,21,3,9,19,0
+Uttara Kannada,Molestation,2024,22,14,8,1,17,4,5,17,0
+Kalaburagi,Cheating,2024,55,36,19,8,44,3,46,9,6
+Kalaburagi,Molestation,2024,19,12,7,3,15,1,12,7,1
+Bengaluru Rural,Robbery,2024,16,5,11,2,11,3,9,7,1
+Bengaluru Urban,Rape,2024,23,8,15,4,17,2,11,12,0
+Koppal,Robbery,2024,24,15,9,2,17,5,19,5,9
+Tumakuru,Domestic Violence,2024,72,35,37,10,46,16,40,32,17
+Hubballi,Robbery,2024,15,8,7,1,12,2,12,3,4
+Uttara Kannada,Dowry Death,2024,7,2,5,0,4,3,6,1,2
+RuralAreaX,Dowry Death,2024,10,6,4,0,7,3,6,4,1
+Shivamogga,Robbery,2024,3,1,2,0,2,1,2,1,0
+Dharwad,Cyber Crime,2024,40,13,27,4,30,6,32,8,6
+Bengaluru Rural,Robbery,2024,12,6,6,1,8,3,6,6,2
+Tumakuru,Cheating,2024,87,36,51,10,66,11,67,20,7
+Ballari,Robbery,2024,14,5,9,1,8,5,4,10,0
+Udupi,Cheating,2024,122,55,67,17,85,20,61,61,26
+Udupi,Domestic Violence,2024,81,33,48,4,60,17,39,42,3
+Chikkamagaluru,Theft,2024,104,42,62,12,78,14,41,63,3
+Ballari,Molestation,2024,28,13,15,5,20,3,24,4,11
+Tumakuru,Kidnapping,2024,4,2,2,0,3,1,1,3,0
+Bagalkot,Cyber Crime,2024,45,23,22,2,37,6,17,28,3
+Yadgir,Molestation,2024,43,17,26,4,29,10,30,13,4
+RuralAreaX,Cheating,2024,100,33,67,8,63,29,78,22,13
+Chamarajanagar2,Domestic Violence,2024,76,29,47,7,52,17,44,32,2
+Bagalkot,Robbery,2024,16,7,9,1,12,3,13,3,2
+Yadgir,Cyber Crime,2024,65,34,31,5,48,12,24,41,4
+Koppal,Rape,2024,32,14,18,1,23,8,24,8,7
+Bengaluru Urban,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Shimoga,Theft,2024,109,46,63,6,66,37,41,68,8
+Chamarajanagar2,Cheating,2024,96,47,49,11,64,21,78,18,29
+Bidar,Cheating,2024,98,34,64,11,70,17,50,48,5
+Bagalkot,Kidnapping,2024,2,1,1,0,1,1,1,1,0
+Bidar,Dowry Death,2024,5,1,4,0,3,2,2,3,0
+Udupi,Domestic Violence,2024,43,21,22,2,35,6,32,11,12
+Vijayapura,Cyber Crime,2024,51,34,17,7,32,12,40,11,16
+Belagavi,Rape,2024,52,16,36,4,38,10,20,32,5
+Gadag,Dowry Death,2024,7,2,5,0,5,2,6,1,0
+Koppal,Molestation,2024,25,12,13,4,20,1,16,9,2
+Koppal,Kidnapping,2024,7,3,4,1,4,2,2,5,0
+Udupi,Molestation,2024,24,16,8,1,14,9,8,16,2
+Chitradurga,Domestic Violence,2024,61,37,24,3,43,15,37,24,6
+Ramanagara,Domestic Violence,2024,75,44,31,13,46,16,43,32,3
+Ramanagara,Molestation,2024,29,18,11,4,18,7,21,8,7
+Kodagu,Cyber Crime,2024,74,28,46,12,53,9,39,35,9
+Chamarajanagar2,Robbery,2024,13,4,9,2,10,1,6,7,0
+Mangaluru,Cyber Crime,2024,71,48,23,7,57,7,61,10,6
+Bagalkot,Robbery,2024,18,8,10,0,11,7,10,8,3
+Kodagu,Kidnapping,2024,9,4,5,0,7,2,7,2,1
+Uttara Kannada,Cheating,2024,80,31,49,8,48,24,24,56,4
+Ramanagara,Cheating,2024,108,38,70,18,75,15,36,72,14
+Tumakuru,Molestation,2024,23,14,9,2,17,4,18,5,7
+Mysuru,Kidnapping,2024,6,3,3,0,4,2,2,4,0
+Kolar,Theft,2024,126,58,68,9,77,40,79,47,24
+Vijayanagar,Dowry Death,2024,5,3,2,0,4,1,2,3,0
+Kodagu,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+RuralAreaX,Dowry Death,2024,7,3,4,0,5,2,4,3,0
+Ballari,Molestation,2024,26,14,12,4,15,7,8,18,0
+Mangaluru,Theft,2024,118,58,60,9,80,29,79,39,15
+Hassan,Theft,2024,103,54,49,16,76,11,66,37,14
+Yadgir,Cyber Crime,2024,82,43,39,7,57,18,38,44,18
+Hassan,Robbery,2024,11,4,7,1,7,3,4,7,1
+Haveri,Molestation,2024,19,12,7,2,12,5,14,5,5
+Yadgir,Cheating,2024,135,73,62,8,87,40,107,28,34
+Udupi,Kidnapping,2024,2,0,2,0,1,1,1,1,0
+RuralAreaX,Molestation,2024,25,14,11,2,15,8,13,12,6
+Belagavi,Rape,2024,47,19,28,5,35,7,31,16,13
+Mangaluru,Kidnapping,2024,7,2,5,0,5,2,1,6,0
+Chikkaballapura,Robbery,2024,10,4,6,1,6,3,7,3,2
+Kolar,Dowry Death,2024,7,3,4,0,4,3,3,4,1
+Mysuru,Murder,2024,3,1,2,0,2,1,1,2,0
+Shivamogga,Molestation,2024,24,13,11,2,18,4,16,8,3
+Chikkamagaluru,Dowry Death,2024,10,6,4,0,7,3,4,6,1
+Koppal,Dowry Death,2024,14,6,8,1,8,5,10,4,2
+Yadgir,Rape,2024,48,19,29,7,31,10,32,16,5
+Shimoga,Dowry Death,2024,4,1,3,0,3,1,2,2,0
+Bengaluru Rural,Domestic Violence,2024,61,27,34,5,49,7,52,9,20
+Bidar,Murder,2024,7,4,3,0,5,2,5,2,0
+Gadag,Theft,2024,140,87,53,25,110,5,43,97,8
+Chikkaballapura,Rape,2024,40,17,23,1,28,11,31,9,9
+Hubballi,Rape,2024,37,19,18,1,31,5,21,16,3
+Yadgir,Cyber Crime,2024,62,23,39,11,52,0,43,19,7
+Shivamogga,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Shimoga,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Bidar,Cheating,2024,78,28,50,10,47,21,62,16,12
+Gadag,Theft,2024,110,54,56,8,73,29,38,72,18
+Gadag,Dowry Death,2024,11,5,6,0,7,4,9,2,1
+Belagavi,Robbery,2024,1,0,1,0,0,1,0,1,0
+Haveri,Dowry Death,2024,7,3,4,0,4,3,2,5,0
+Gadag,Domestic Violence,2024,75,39,36,4,51,20,44,31,20
+Davangere,Kidnapping,2024,7,3,4,0,5,2,1,6,0
+Ramanagara,Robbery,2024,14,8,6,1,11,2,5,9,1
+Chikkaballapura,Rape,2024,37,18,19,6,29,2,11,26,1
+Bidar,Robbery,2024,11,5,6,1,7,3,7,4,3
+Ballari,Cyber Crime,2024,69,32,37,5,53,11,40,29,10
+Chikkaballapura,Murder,2024,2,0,2,0,1,1,1,1,0
+Vijayanagar,Dowry Death,2024,12,4,8,1,7,4,10,2,3
+Yadgir,Dowry Death,2024,7,4,3,0,5,2,1,6,0
+Mangaluru,Rape,2024,32,13,19,5,22,5,14,18,3
+Kolar,Molestation,2024,24,8,16,2,19,3,12,12,5
+Shivamogga,Cheating,2024,64,43,21,3,47,14,36,28,6
+Yadgir,Theft,2024,140,88,52,23,102,15,38,102,14
+Bengaluru Rural,Kidnapping,2024,3,1,2,0,2,1,1,2,0
+Tumakuru,Cheating,2024,110,35,75,15,73,22,53,57,15
+Shivamogga,Molestation,2024,14,5,9,2,10,2,5,9,1
+Bengaluru Rural,Cheating,2024,88,56,32,6,61,21,75,13,36
+Chikkaballapura,Rape,2024,30,12,18,3,20,7,23,7,11
+Yadgir,Kidnapping,2024,4,2,2,0,3,1,3,1,0
+Shimoga,Kidnapping,2024,5,1,4,0,3,2,3,2,0
+RuralAreaX,Domestic Violence,2024,79,29,50,5,58,16,50,29,9
+Ballari,Molestation,2024,31,20,11,3,24,4,19,12,8
+Hubballi,Domestic Violence,2024,74,31,43,3,52,19,47,27,14
+Mangaluru,Theft,2024,124,64,60,23,76,25,84,40,5
+Tumakuru,Robbery,2024,16,6,10,2,13,1,13,3,3
+Ramanagara,Rape,2024,29,19,10,1,20,8,22,7,8
+Bagalkot,Kidnapping,2024,6,3,3,0,4,2,2,4,0
+Chikkamagaluru,Cheating,2024,108,53,55,7,67,34,66,42,24
+Shimoga,Cyber Crime,2024,52,30,22,9,41,2,37,15,7
+Raichur,Dowry Death,2024,6,2,4,0,4,2,3,3,1
+Tumakuru,Murder,2024,4,2,2,0,3,1,2,2,0
+Hubballi,Murder,2024,0,0,0,0,0,0,0,0,0
+Kolar,Cyber Crime,2024,56,17,39,9,36,11,15,41,7
+Mysuru,Rape,2024,31,12,19,1,24,6,11,20,5
+Mandya,Kidnapping,2024,7,3,4,1,4,2,3,4,0
+Kalaburagi,Molestation,2024,24,9,15,3,15,6,14,10,2
+Koppal,Dowry Death,2024,7,3,4,1,4,2,2,5,0
+Koppal,Rape,2024,38,19,19,7,30,1,25,13,9
+Bidar,Cyber Crime,2024,51,26,25,8,33,10,33,18,12
+Mandya,Kidnapping,2024,7,4,3,0,4,3,4,3,0
+Uttara Kannada,Dowry Death,2024,10,6,4,1,7,2,7,3,1
+Udupi,Cyber Crime,2024,66,27,39,2,46,18,35,31,7
+Bengaluru Rural,Dowry Death,2024,9,3,6,1,6,2,7,2,2
+Ramanagara,Molestation,2024,13,7,6,0,10,3,4,9,1
+Udupi,Cheating,2024,96,44,52,13,80,3,37,59,8
+Bidar,Domestic Violence,2024,79,40,39,15,57,7,35,44,2
+Mysuru,Cheating,2024,78,37,41,8,57,13,56,22,13
+Vijayanagar,Cyber Crime,2024,71,42,29,2,56,13,22,49,4
+Dharwad,Kidnapping,2024,3,2,1,0,1,2,2,1,0
+Bidar,Murder,2024,5,1,4,0,3,2,4,1,0
+Chikkaballapura,Molestation,2024,23,11,12,2,18,3,9,14,4
+Belagavi,Dowry Death,2024,6,3,3,0,4,2,4,2,1
+Belagavi,Molestation,2024,31,20,11,1,21,9,11,20,4
+Kolar,Theft,2024,112,54,58,15,68,29,67,45,10
+Ramanagara,Robbery,2024,13,6,7,2,8,3,6,7,0
+Davangere,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Dharwad,Murder,2024,1,0,1,0,0,1,0,1,0
+Chamarajanagar2,Rape,2024,41,15,26,7,33,1,16,25,7
+Yadgir,Dowry Death,2024,10,6,4,1,6,3,4,6,0
+Bengaluru Urban,Robbery,2024,10,3,7,1,8,1,3,7,0
+Hassan,Dowry Death,2024,10,3,7,0,7,3,4,6,1
+Ballari,Cheating,2024,113,67,46,8,78,27,97,16,14
+Kodagu,Rape,2024,47,25,22,1,38,8,22,25,6
+Chamarajanagar2,Rape,2024,43,29,14,4,36,3,22,21,5
+Shimoga,Theft,2024,118,80,38,4,80,34,101,17,44
+Udupi,Kidnapping,2024,10,5,5,1,6,3,3,7,1
+Chamarajanagar,Rape,2024,32,16,16,6,23,3,11,21,1
+Hassan,Cyber Crime,2024,49,27,22,9,39,1,31,18,5
+Tumakuru,Dowry Death,2024,3,1,2,0,2,1,2,1,0
+Yadgir,Cheating,2024,87,37,50,11,70,6,56,31,12
+Hubballi,Murder,2024,4,1,3,0,3,1,1,3,0
+Chamarajanagar,Dowry Death,2024,2,0,2,0,1,1,0,2,0
+Shimoga,Robbery,2024,13,6,7,0,9,4,4,9,1
+Chamarajanagar,Theft,2024,157,68,89,19,122,16,101,56,32
+Tumakuru,Cyber Crime,2024,59,25,34,5,41,13,19,40,1
+Davangere,Cyber Crime,2024,49,24,25,7,38,4,44,5,11
+Shimoga,Molestation,2024,33,12,21,5,24,4,23,10,11
+Chikkamagaluru,Molestation,2024,30,14,16,1,19,10,14,16,3
+Chitradurga,Theft,2024,98,55,43,7,74,17,83,15,21
+Kolar,Murder,2024,6,2,4,0,4,2,2,4,0
+Davangere,Molestation,2024,27,18,9,1,18,8,23,4,2
+Gadag,Cyber Crime,2024,75,24,51,3,61,11,23,52,3
+Davangere,Domestic Violence,2024,89,49,40,5,67,17,57,32,8
+Shimoga,Kidnapping,2024,4,1,3,0,3,1,2,2,0
+Udupi,Domestic Violence,2024,87,26,61,2,63,22,21,66,2
+Kodagu,Theft,2024,151,84,67,15,91,45,39,112,10
+Shimoga,Cyber Crime,2024,51,20,31,2,32,17,35,16,14
+Bengaluru Urban,Molestation,2024,25,16,9,2,20,3,12,13,2
+Chamarajanagar,Domestic Violence,2024,107,64,43,20,68,19,62,45,17
+Mandya,Theft,2024,119,48,71,12,90,17,65,54,26
+Chitradurga,Kidnapping,2024,5,3,2,0,3,2,2,3,0
+Hubballi,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+Bengaluru Rural,Molestation,2024,22,14,8,2,14,6,15,7,1
+RuralAreaX,Robbery,2024,23,9,14,2,15,6,17,6,6
+Kalaburagi,Murder,2024,0,0,0,0,0,0,0,0,0
+Mangaluru,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Shivamogga,Kidnapping,2024,5,2,3,0,3,2,4,1,1
+Chamarajanagar2,Cheating,2024,114,65,49,19,94,1,80,34,6
+Mysuru,Domestic Violence,2024,75,30,45,7,55,13,66,9,20
+Vijayanagar,Theft,2024,155,52,103,22,107,26,139,16,10
+Shimoga,Rape,2024,29,15,14,1,18,10,12,17,3
+Vijayapura,Murder,2024,5,3,2,0,3,2,1,4,0
+Uttara Kannada,Cheating,2024,72,30,42,10,45,17,39,33,13
+Kodagu,Molestation,2024,41,22,19,6,31,4,27,14,4
+Mandya,Dowry Death,2024,8,3,5,0,5,3,3,5,0
+Ballari,Rape,2024,45,25,20,4,31,10,20,25,2
+Mangaluru,Kidnapping,2024,7,3,4,0,4,3,3,4,1
+Koppal,Molestation,2024,19,5,14,3,14,2,14,5,4
+Koppal,Cyber Crime,2024,56,32,24,11,37,8,44,12,18
+Bagalkot,Molestation,2024,26,14,12,5,22,0,10,16,1
+Vijayapura,Kidnapping,2024,7,2,5,0,5,2,3,4,0
+Kodagu,Dowry Death,2024,14,6,8,1,9,4,8,6,2
+Raichur,Rape,2024,24,15,9,3,17,4,20,4,6
+Yadgir,Dowry Death,2024,4,2,2,0,3,1,1,3,0
+Vijayapura,Theft,2024,95,46,49,5,68,22,60,35,13
+Vijayapura,Murder,2024,5,2,3,0,3,2,1,4,0
+Mandya,Rape,2024,41,15,26,2,26,13,16,25,6
+Vijayanagar,Cyber Crime,2024,76,27,49,14,57,5,44,32,18
+Mangaluru,Cyber Crime,2024,72,32,40,10,49,13,33,39,6
+Udupi,Cyber Crime,2024,61,19,42,10,40,11,34,27,14
+Uttara Kannada,Rape,2024,13,7,6,1,10,2,8,5,0
+Udupi,Rape,2024,34,12,22,1,25,8,22,12,1
+Mysuru,Kidnapping,2024,7,4,3,0,4,3,3,4,0
+Tumakuru,Dowry Death,2024,3,1,2,0,2,1,0,3,0
+Davangere,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Uttara Kannada,Rape,2024,32,18,14,2,22,8,11,21,1
+Kolar,Theft,2024,150,95,55,13,110,27,74,76,36
+Mangaluru,Cheating,2024,79,44,35,12,49,18,48,31,16
+Yadgir,Kidnapping,2024,5,1,4,0,3,2,2,3,0
+Bengaluru Urban,Domestic Violence,2024,40,21,19,2,24,14,11,29,4
+Dharwad,Molestation,2024,23,10,13,2,16,5,7,16,3
+Shivamogga,Theft,2024,121,43,78,11,82,28,96,25,28
+Haveri,Molestation,2024,21,11,10,0,15,6,11,10,2
+Vijayanagar,Molestation,2024,21,12,9,1,16,4,11,10,4
+Uttara Kannada,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+Uttara Kannada,Cheating,2024,72,30,42,13,44,15,51,21,25
+Bengaluru Urban,Dowry Death,2024,2,1,1,0,1,1,1,1,0
+Kodagu,Cheating,2024,107,68,39,4,71,32,57,50,23
+Bidar,Molestation,2024,25,8,17,1,16,8,15,10,5
+Raichur,Murder,2024,13,7,6,0,9,4,3,10,1
+Tumakuru,Domestic Violence,2024,85,57,28,4,53,28,72,13,10
+Shimoga,Theft,2024,117,49,68,12,77,28,80,37,23
+Davangere,Rape,2024,47,18,29,2,39,6,14,33,6
+Chamarajanagar,Domestic Violence,2024,91,46,45,9,71,11,68,23,6
+Shimoga,Molestation,2024,22,9,13,2,17,3,14,8,6
+Bidar,Cheating,2024,85,48,37,11,62,12,58,27,19
+Chamarajanagar,Dowry Death,2024,4,2,2,0,3,1,2,2,0
+Chitradurga,Molestation,2024,30,10,20,2,20,8,24,6,2
+Belagavi,Kidnapping,2024,2,0,2,0,1,1,1,1,0
+Vijayanagar,Kidnapping,2024,7,4,3,0,4,3,4,3,1
+Mangaluru,Domestic Violence,2024,86,34,52,4,72,10,50,36,6
+Bengaluru Urban,Rape,2024,39,18,21,5,27,7,12,27,4
+Chamarajanagar2,Dowry Death,2024,8,5,3,0,5,3,4,4,1
+Mangaluru,Robbery,2024,16,5,11,0,12,4,13,3,3
+Kalaburagi,Kidnapping,2024,7,4,3,0,4,3,5,2,0
+Shimoga,Domestic Violence,2024,74,44,30,6,59,9,21,53,5
+RuralAreaX,Dowry Death,2024,7,2,5,0,5,2,5,2,1
+Chikkaballapura,Theft,2024,117,62,55,7,76,34,35,82,2
+Haveri,Murder,2024,2,1,1,0,1,1,0,2,0
+Chitradurga,Domestic Violence,2024,53,24,29,4,43,6,47,6,12
+Mysuru,Molestation,2024,29,14,15,4,18,7,7,22,2
+Kodagu,Theft,2024,128,88,40,6,89,33,68,60,28
+Chamarajanagar,Kidnapping,2024,11,6,5,1,7,3,3,8,1
+Vijayanagar,Theft,2024,128,48,80,7,78,43,93,35,24
+Dharwad,Dowry Death,2024,7,4,3,1,5,1,4,3,1
+Raichur,Molestation,2024,22,13,9,1,16,5,9,13,0
+Tumakuru,Robbery,2024,23,10,13,1,19,3,6,17,1
+Dharwad,Rape,2024,38,17,21,7,27,4,11,27,5
+Bengaluru Urban,Theft,2024,104,67,37,16,66,22,73,31,13
+Koppal,Rape,2024,32,21,11,5,25,2,20,12,3
+Raichur,Robbery,2024,13,6,7,2,10,1,11,2,1
+Yadgir,Domestic Violence,2024,86,38,48,2,67,17,41,45,18
+Kalaburagi,Molestation,2024,19,10,9,2,12,5,9,10,1
+Yadgir,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Chikkaballapura,Domestic Violence,2024,82,26,56,3,67,12,26,56,2
+Mandya,Murder,2024,0,0,0,0,0,0,0,0,0
+Mangaluru,Cyber Crime,2024,60,36,24,9,49,2,39,21,14
+Vijayanagar,Molestation,2024,19,12,7,2,11,6,5,14,0
+Shimoga,Cyber Crime,2024,63,28,35,7,48,8,28,35,3
+Chikkamagaluru,Domestic Violence,2024,70,44,26,13,49,8,55,15,9
+Tumakuru,Robbery,2024,10,3,7,0,6,4,7,3,1
+Chikkaballapura,Cyber Crime,2024,70,41,29,8,45,17,58,12,21
+Yadgir,Cyber Crime,2024,82,55,27,15,60,7,35,47,12
+Udupi,Dowry Death,2024,6,3,3,0,4,2,1,5,0
+Chitradurga,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Koppal,Theft,2024,133,74,59,20,112,1,114,19,52
+Mandya,Robbery,2024,17,8,9,1,11,5,5,12,1
+Hubballi,Molestation,2024,21,8,13,4,13,4,18,3,5
+RuralAreaX,Rape,2024,42,26,16,3,31,8,29,13,11
+Mysuru,Rape,2024,21,7,14,2,17,2,9,12,1
+Belagavi,Murder,2024,1,0,1,0,0,1,0,1,0
+Tumakuru,Rape,2024,38,16,22,4,24,10,18,20,3
+Hassan,Molestation,2024,26,15,11,4,16,6,21,5,9
+Kolar,Cyber Crime,2024,44,26,18,5,34,5,20,24,1
+Bengaluru Urban,Robbery,2024,10,6,4,0,6,4,5,5,0
+Chitradurga,Domestic Violence,2024,61,33,28,8,48,5,40,21,18
+Belagavi,Molestation,2024,26,11,15,2,17,7,17,9,7
+Vijayapura,Cyber Crime,2024,50,32,18,8,31,11,38,12,2
+Bengaluru Rural,Robbery,2024,21,11,10,2,17,2,15,6,2
+Hubballi,Molestation,2024,25,14,11,4,21,0,12,13,0
+Gadag,Robbery,2024,18,7,11,1,11,6,10,8,3
+Vijayapura,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Tumakuru,Kidnapping,2024,7,2,5,0,4,3,4,3,1
+Vijayapura,Rape,2024,40,18,22,5,30,5,25,15,7
+Bengaluru Rural,Theft,2024,124,75,49,14,92,18,41,83,11
+Ramanagara,Theft,2024,103,69,34,15,66,22,61,42,15
+Gadag,Theft,2024,140,53,87,20,90,30,84,56,19
+Belagavi,Robbery,2024,20,8,12,3,14,3,10,10,2
+Chamarajanagar,Dowry Death,2024,7,3,4,0,4,3,2,5,0
+Mangaluru,Robbery,2024,12,5,7,1,7,4,5,7,2
+Vijayapura,Dowry Death,2024,5,2,3,0,3,2,3,2,0
+Bengaluru Rural,Cyber Crime,2024,60,36,24,3,48,9,20,40,4
+Uttara Kannada,Dowry Death,2024,6,3,3,0,4,2,4,2,0
+Shivamogga,Cheating,2024,79,26,53,7,51,21,50,29,5
+Mysuru,Molestation,2024,23,14,9,3,15,5,14,9,3
+RuralAreaX,Murder,2024,3,1,2,0,2,1,0,3,0
+Uttara Kannada,Molestation,2024,14,5,9,0,10,4,5,9,0
+Kolar,Dowry Death,2024,10,3,7,1,7,2,8,2,2
+Chikkaballapura,Robbery,2024,15,7,8,2,11,2,5,10,2
+Bidar,Rape,2024,25,10,15,0,15,10,19,6,8
+Yadgir,Kidnapping,2024,8,3,5,1,5,2,3,5,0
+Chamarajanagar,Dowry Death,2024,7,2,5,0,5,2,2,5,0
+Ramanagara,Cyber Crime,2024,77,45,32,12,52,13,53,24,15
+Haveri,Robbery,2024,21,11,10,0,17,4,14,7,3
+Gadag,Cyber Crime,2024,68,21,47,11,51,6,23,45,5
+Shimoga,Cyber Crime,2024,59,39,20,10,43,6,20,39,9
+Chitradurga,Theft,2024,122,47,75,13,88,21,106,16,21
+Bidar,Theft,2024,121,68,53,10,99,12,46,75,6
+Hassan,Kidnapping,2024,3,1,2,0,2,1,2,1,0
+Udupi,Dowry Death,2024,5,3,2,0,3,2,4,1,1
+Chikkaballapura,Domestic Violence,2024,72,27,45,3,47,22,40,32,6
+Hubballi,Robbery,2024,17,10,7,2,14,1,12,5,4
+Raichur,Cyber Crime,2024,59,30,29,2,46,11,16,43,1
+Bidar,Cyber Crime,2024,59,17,42,7,49,3,18,41,5
+Uttara Kannada,Robbery,2024,9,5,4,1,6,2,6,3,2
+Chikkaballapura,Robbery,2024,10,4,6,1,6,3,6,4,0
+Shivamogga,Murder,2024,1,0,1,0,0,1,0,1,0
+Bengaluru Rural,Kidnapping,2024,10,4,6,1,6,3,8,2,1
+RuralAreaX,Dowry Death,2024,5,2,3,0,3,2,1,4,0
+Uttara Kannada,Rape,2024,27,18,9,2,17,8,8,19,3
+Ballari,Murder,2024,8,4,4,0,4,4,6,2,1
+Hubballi,Cheating,2024,88,55,33,11,66,11,46,42,3
+Raichur,Molestation,2024,30,20,10,3,19,8,15,15,6
+Hassan,Theft,2024,114,50,64,7,76,31,32,82,4
+Kolar,Cheating,2024,87,49,38,7,73,7,60,27,9
+Hassan,Robbery,2024,16,10,6,1,11,4,9,7,1
+RuralAreaX,Domestic Violence,2024,74,42,32,11,57,6,21,53,5
+Chitradurga,Dowry Death,2024,5,3,2,0,4,1,1,4,0
+Chamarajanagar2,Cyber Crime,2024,63,38,25,3,52,8,35,28,6
+Dharwad,Molestation,2024,15,7,8,1,11,3,5,10,2
+Bengaluru Rural,Domestic Violence,2024,56,30,26,3,47,6,33,23,3
+Vijayapura,Kidnapping,2024,5,1,4,0,3,2,3,2,0
+Ballari,Murder,2024,6,3,3,0,5,1,1,5,0
+Davangere,Robbery,2024,11,4,7,0,7,4,3,8,0
+Vijayapura,Domestic Violence,2024,58,38,20,7,42,9,44,14,3
+Raichur,Theft,2024,131,44,87,11,94,26,67,64,17
+Ramanagara,Rape,2024,41,20,21,7,30,4,19,22,3
+Bidar,Robbery,2024,21,11,10,3,14,4,17,4,1
+Koppal,Cyber Crime,2024,58,22,36,9,42,7,33,25,14
+Bagalkot,Domestic Violence,2024,58,27,31,2,38,18,23,35,9
+Belagavi,Molestation,2024,29,10,19,4,24,1,24,5,9
+Vijayanagar,Theft,2024,119,59,60,8,90,21,81,38,27
+Ballari,Domestic Violence,2024,102,67,35,3,65,34,78,24,27
+Gadag,Cheating,2024,115,73,42,15,90,10,38,77,14
+Vijayapura,Domestic Violence,2024,58,18,40,3,46,9,26,32,7
+Davangere,Rape,2024,32,14,18,5,19,8,24,8,4
+Bagalkot,Cyber Crime,2024,47,28,19,5,37,5,31,16,3
+Chitradurga,Theft,2024,86,43,43,4,64,18,55,31,15
+RuralAreaX,Rape,2024,35,15,20,1,21,13,17,18,7
+Chamarajanagar2,Cyber Crime,2024,68,29,39,12,47,9,39,29,5
+Raichur,Cheating,2024,91,52,39,11,72,8,51,40,22
+Ramanagara,Kidnapping,2024,5,1,4,0,3,2,3,2,0
+Shimoga,Murder,2024,4,1,3,0,2,2,1,3,0
+Mangaluru,Robbery,2024,25,13,12,2,18,5,18,7,2
+Kodagu,Cheating,2024,110,47,63,6,85,19,71,39,29
+Chamarajanagar2,Murder,2024,4,1,3,0,3,1,1,3,0
+Hassan,Rape,2024,42,26,16,3,27,12,29,13,10
+Kalaburagi,Cheating,2024,77,26,51,6,65,6,26,51,3
+Vijayanagar,Robbery,2024,12,8,4,0,7,5,9,3,3
+Dharwad,Cyber Crime,2024,54,27,27,7,32,15,44,10,15
+Vijayapura,Robbery,2024,21,13,8,3,13,5,16,5,1
+Kalaburagi,Theft,2024,104,52,52,13,86,5,68,36,20
+Udupi,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Chitradurga,Kidnapping,2024,2,1,1,0,1,1,1,1,0
+Belagavi,Robbery,2024,16,7,9,2,11,3,4,12,1
+Davangere,Robbery,2024,10,4,6,1,6,3,6,4,1
+Gadag,Rape,2024,38,21,17,4,27,7,28,10,11
+Chikkamagaluru,Dowry Death,2024,10,6,4,0,6,4,8,2,1
+Ramanagara,Kidnapping,2024,5,3,2,0,4,1,1,4,0
+Haveri,Murder,2024,8,4,4,1,5,2,6,2,2
+Koppal,Theft,2024,97,66,31,8,80,9,69,28,16
+Vijayapura,Cyber Crime,2024,52,24,28,10,31,11,46,6,20
+Chitradurga,Theft,2024,112,33,79,14,79,19,57,55,24
+Chamarajanagar,Rape,2024,33,13,20,4,20,9,27,6,3
+Raichur,Robbery,2024,13,8,5,0,8,5,7,6,0
+Davangere,Murder,2024,6,2,4,1,4,1,4,2,0
+Gadag,Molestation,2024,31,20,11,2,18,11,13,18,2
+Chikkamagaluru,Molestation,2024,21,14,7,0,13,8,13,8,1
+Vijayanagar,Molestation,2024,22,14,8,3,18,1,13,9,4
+Chamarajanagar,Domestic Violence,2024,85,56,29,9,64,12,22,63,7
+Chikkaballapura,Robbery,2024,22,10,12,1,18,3,14,8,6
+Vijayanagar,Rape,2024,45,13,32,1,28,16,36,9,9
+Haveri,Cyber Crime,2024,52,25,27,1,39,12,36,16,13
+Shivamogga,Cheating,2024,78,37,41,9,63,6,23,55,6
+Mandya,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Udupi,Cyber Crime,2024,59,34,25,9,46,4,40,19,9
+Chikkamagaluru,Kidnapping,2024,12,6,6,2,8,2,5,7,0
+Mangaluru,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Chikkamagaluru,Rape,2024,25,15,10,2,19,4,12,13,1
+Gadag,Molestation,2024,20,13,7,3,12,5,17,3,5
+Mandya,Rape,2024,42,20,22,3,31,8,37,5,16
+Haveri,Cheating,2024,91,30,61,14,68,9,40,51,9
+Bengaluru Urban,Dowry Death,2024,3,1,2,0,2,1,2,1,0
+Dharwad,Molestation,2024,19,9,10,1,14,4,9,10,2
+Shimoga,Rape,2024,25,15,10,2,19,4,19,6,6
+Kodagu,Molestation,2024,35,11,24,2,24,9,11,24,4
+Haveri,Murder,2024,6,2,4,0,4,2,2,4,0
+Bengaluru Urban,Cheating,2024,70,25,45,6,52,12,42,28,12
+Chamarajanagar,Domestic Violence,2024,96,29,67,3,59,34,34,62,11
+Mangaluru,Kidnapping,2024,9,5,4,1,7,1,7,2,0
+Ramanagara,Murder,2024,8,4,4,1,6,1,4,4,0
+Bagalkot,Molestation,2024,15,4,11,1,11,3,4,11,0
+Kodagu,Cheating,2024,111,77,34,5,68,38,32,79,3
+Udupi,Rape,2024,36,19,17,6,27,3,23,13,4
+Shimoga,Theft,2024,133,68,65,22,110,1,68,65,28
+Mysuru,Rape,2024,49,29,20,1,33,15,35,14,7
+RuralAreaX,Cyber Crime,2024,61,31,30,2,45,14,26,35,11
+Tumakuru,Cyber Crime,2024,62,33,29,10,51,1,51,11,7
+Ramanagara,Domestic Violence,2024,85,48,37,9,63,13,62,23,6
+Haveri,Kidnapping,2024,2,0,2,0,1,1,1,1,0
+Shivamogga,Kidnapping,2024,5,2,3,0,3,2,4,1,0
+Vijayapura,Murder,2024,4,2,2,0,2,2,2,2,0
+Kodagu,Molestation,2024,28,9,19,3,16,9,17,11,8
+Mandya,Domestic Violence,2024,86,39,47,15,61,10,51,35,15
+Chikkaballapura,Theft,2024,115,69,46,10,81,24,29,86,4
+Kalaburagi,Cyber Crime,2024,59,32,27,10,37,12,48,11,4
+Chikkamagaluru,Robbery,2024,16,8,8,3,10,3,6,10,1
+Bagalkot,Molestation,2024,24,10,14,3,17,4,16,8,7
+Belagavi,Kidnapping,2024,2,1,1,0,1,1,0,2,0
+Chamarajanagar2,Murder,2024,8,5,3,1,5,2,4,4,0
+Hassan,Rape,2024,22,10,12,2,14,6,17,5,4
+Bengaluru Rural,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Kalaburagi,Molestation,2024,14,9,5,1,8,5,11,3,2
+Hubballi,Murder,2024,0,0,0,0,0,0,0,0,0
+Bidar,Molestation,2024,17,11,6,2,10,5,7,10,2
+Tumakuru,Theft,2024,118,41,77,7,72,39,71,47,25
+Shivamogga,Dowry Death,2024,5,3,2,0,3,2,2,3,0
+Udupi,Molestation,2024,21,14,7,3,16,2,9,12,3
+Mandya,Murder,2024,8,4,4,0,5,3,5,3,0
+Mysuru,Robbery,2024,14,6,8,2,10,2,7,7,0
+Mandya,Cyber Crime,2024,57,19,38,7,37,13,46,11,22
+Chikkaballapura,Cyber Crime,2024,58,32,26,2,36,20,14,44,5
+Bagalkot,Cyber Crime,2024,62,39,23,6,42,14,32,30,4
+Mysuru,Theft,2024,129,60,69,7,90,32,98,31,22
+Kodagu,Molestation,2024,32,20,12,6,22,4,22,10,10
+Shivamogga,Murder,2024,2,1,1,0,1,1,1,1,0
+Mysuru,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Bidar,Cheating,2024,82,41,41,10,61,11,67,15,6
+Chamarajanagar,Robbery,2024,17,10,7,1,11,5,9,8,1
+Bagalkot,Domestic Violence,2024,71,35,36,11,55,5,32,39,11
+Chikkaballapura,Murder,2024,0,0,0,0,0,0,0,0,0
+Chikkamagaluru,Dowry Death,2024,12,3,9,0,9,3,3,9,0
+Mandya,Cyber Crime,2024,42,13,29,6,27,9,20,22,1
+Hubballi,Murder,2024,4,1,3,0,2,2,2,2,0
+Bidar,Rape,2024,33,12,21,5,20,8,23,10,8
+Haveri,Cheating,2024,93,45,48,10,78,5,41,52,13
+Kalaburagi,Cyber Crime,2024,76,51,25,13,64,0,21,55,3
+Udupi,Cyber Crime,2024,77,25,52,9,60,8,42,35,6
+Bidar,Cyber Crime,2024,73,27,46,14,53,6,51,22,14
+Chamarajanagar,Cyber Crime,2024,56,17,39,3,45,8,33,23,6
+Chikkamagaluru,Theft,2024,119,68,51,16,95,8,100,19,42
+Mandya,Murder,2024,3,1,2,0,2,1,1,2,0
+Dharwad,Theft,2024,105,68,37,11,78,16,63,42,8
+Mangaluru,Molestation,2024,31,9,22,5,25,1,9,22,3
+Shivamogga,Robbery,2024,11,5,6,1,7,3,8,3,2
+Vijayapura,Cheating,2024,95,39,56,8,62,25,45,50,16
+Vijayapura,Domestic Violence,2024,62,18,44,10,51,1,47,15,14
+Mandya,Cyber Crime,2024,53,32,21,4,32,17,46,7,4
+Bengaluru Rural,Rape,2024,36,22,14,3,23,10,12,24,1
+Dharwad,Domestic Violence,2024,75,30,45,6,50,19,57,18,17
+Hubballi,Cheating,2024,89,55,34,9,56,24,77,12,19
+Koppal,Rape,2024,26,8,18,2,16,8,16,10,7
+Haveri,Molestation,2024,35,23,12,6,26,3,27,8,3
+Haveri,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Bidar,Robbery,2024,20,8,12,3,16,1,17,3,7
+Mangaluru,Molestation,2024,27,10,17,3,19,5,15,12,5
+Koppal,Theft,2024,109,70,39,18,72,19,95,14,9
+Chitradurga,Dowry Death,2024,8,3,5,1,6,1,3,5,1
+Bengaluru Urban,Kidnapping,2024,3,1,2,0,2,1,1,2,0
+Bagalkot,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Chikkamagaluru,Dowry Death,2024,7,4,3,0,4,3,4,3,0
+Chikkaballapura,Cheating,2024,77,52,25,8,61,8,67,10,23
+Bengaluru Urban,Rape,2024,42,26,16,2,29,11,33,9,3
+Chitradurga,Theft,2024,103,67,36,7,70,26,89,14,34
+Chitradurga,Kidnapping,2024,9,5,4,1,6,2,7,2,2
+Chamarajanagar2,Rape,2024,31,13,18,3,23,5,23,8,2
+Vijayanagar,Dowry Death,2024,13,4,9,1,9,3,5,8,1
+Chamarajanagar,Robbery,2024,16,5,11,1,13,2,7,9,1
+Chamarajanagar2,Dowry Death,2024,3,1,2,0,2,1,2,1,0
+Shivamogga,Kidnapping,2024,2,1,1,0,1,1,0,2,0
+Bengaluru Urban,Molestation,2024,29,9,20,2,23,4,18,11,8
+Vijayanagar,Kidnapping,2024,14,7,7,0,10,4,7,7,1
+Chikkaballapura,Theft,2024,103,43,60,7,80,16,70,33,4
+RuralAreaX,Cheating,2024,97,44,53,6,75,16,29,68,8
+Uttara Kannada,Domestic Violence,2024,53,17,36,2,44,7,31,22,6
+Udupi,Cheating,2024,87,46,41,10,55,22,73,14,15
+Tumakuru,Murder,2024,4,1,3,0,3,1,2,2,0
+Uttara Kannada,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Yadgir,Dowry Death,2024,8,4,4,1,6,1,6,2,0
+Chikkamagaluru,Dowry Death,2024,11,6,5,1,9,1,6,5,2
+Tumakuru,Molestation,2024,20,13,7,1,12,7,6,14,0
+Udupi,Molestation,2024,18,10,8,2,11,5,6,12,2
+Hassan,Dowry Death,2024,4,1,3,0,3,1,1,3,0
+Chitradurga,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Bengaluru Urban,Rape,2024,34,21,13,5,26,3,11,23,3
+Gadag,Dowry Death,2024,3,1,2,0,2,1,1,2,0
+Yadgir,Cyber Crime,2024,85,49,36,12,64,9,60,25,21
+Tumakuru,Cyber Crime,2024,75,51,24,3,53,19,60,15,23
+Chitradurga,Domestic Violence,2024,69,28,41,9,43,17,55,14,18
+Hubballi,Cyber Crime,2024,75,34,41,8,60,7,55,20,3
+Bengaluru Rural,Theft,2024,91,36,55,8,59,24,31,60,11
+Chikkamagaluru,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Belagavi,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Vijayapura,Molestation,2024,16,5,11,1,12,3,9,7,1
+Chikkamagaluru,Dowry Death,2024,6,2,4,0,4,2,3,3,0
+Shimoga,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+Shivamogga,Robbery,2024,20,8,12,1,13,6,15,5,2
+Bengaluru Rural,Rape,2024,40,27,13,1,24,15,19,21,3
+Shimoga,Domestic Violence,2024,76,35,41,6,57,13,26,50,8
+Chamarajanagar,Molestation,2024,22,8,14,4,14,4,10,12,1
+Bagalkot,Domestic Violence,2024,83,41,42,5,65,13,69,14,17
+Davangere,Theft,2024,115,66,49,6,82,27,36,79,11
+Mysuru,Robbery,2024,14,5,9,2,10,2,8,6,2
+RuralAreaX,Dowry Death,2024,9,3,6,0,7,2,6,3,1
+Chamarajanagar2,Rape,2024,50,29,21,8,40,2,31,19,4
+Mangaluru,Robbery,2024,11,6,5,1,7,3,5,6,0
+Yadgir,Domestic Violence,2024,99,30,69,8,69,22,70,29,26
+Vijayanagar,Rape,2024,49,14,35,2,41,6,29,20,10
+Chikkamagaluru,Robbery,2024,11,5,6,1,8,2,6,5,2
+Ballari,Cheating,2024,104,33,71,3,86,15,47,57,18
+Kodagu,Dowry Death,2024,4,2,2,0,3,1,1,3,0
+Vijayanagar,Theft,2024,138,50,88,11,101,26,40,98,8
+Uttara Kannada,Kidnapping,2024,5,2,3,0,4,1,1,4,0
+Mysuru,Rape,2024,32,16,16,5,20,7,28,4,11
+RuralAreaX,Domestic Violence,2024,61,27,34,10,42,9,37,24,14
+Mangaluru,Murder,2024,8,3,5,0,4,4,2,6,0
+Haveri,Cyber Crime,2024,52,33,19,2,34,16,32,20,14
+Chikkaballapura,Molestation,2024,33,13,20,5,20,8,17,16,2
+Bengaluru Urban,Molestation,2024,21,13,8,0,15,6,10,11,1
+Hassan,Murder,2024,0,0,0,0,0,0,0,0,0
+Dharwad,Robbery,2024,18,7,11,3,13,2,8,10,0
+Mysuru,Molestation,2024,31,17,14,5,23,3,8,23,3
+Bengaluru Rural,Molestation,2024,27,16,11,1,19,7,20,7,7
+Bidar,Rape,2024,23,14,9,2,18,3,10,13,3
+Mangaluru,Cheating,2024,100,46,54,4,77,19,42,58,6
+Chitradurga,Dowry Death,2024,10,6,4,1,8,1,5,5,1
+Chikkamagaluru,Molestation,2024,22,11,11,1,17,4,10,12,0
+Koppal,Rape,2024,35,17,18,1,29,5,29,6,5
+Shimoga,Murder,2024,6,3,3,1,3,2,2,4,0
+Chamarajanagar2,Cyber Crime,2024,66,27,39,12,51,3,21,45,9
+Raichur,Molestation,2024,19,10,9,2,12,5,13,6,4
+Mandya,Molestation,2024,26,16,10,3,15,8,14,12,4
+Shivamogga,Theft,2024,112,46,66,15,90,7,37,75,7
+Yadgir,Molestation,2024,26,11,15,3,19,4,7,19,2
+Koppal,Domestic Violence,2024,61,33,28,5,48,8,27,34,2
+Ballari,Robbery,2024,10,4,6,0,6,4,5,5,1
+Hassan,Domestic Violence,2024,55,30,25,10,33,12,19,36,9
+Shivamogga,Robbery,2024,12,6,6,2,10,0,4,8,0
+Kalaburagi,Kidnapping,2024,8,5,3,1,5,2,2,6,0
+Tumakuru,Domestic Violence,2024,78,25,53,13,56,9,57,21,10
+Bengaluru Rural,Theft,2024,106,52,54,20,79,7,35,71,5
+Haveri,Cyber Crime,2024,61,27,34,3,39,19,17,44,2
+Bidar,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Bidar,Cyber Crime,2024,53,32,21,1,40,12,44,9,16
+Ballari,Murder,2024,6,3,3,1,4,1,2,4,0
+Gadag,Kidnapping,2024,6,3,3,0,4,2,1,5,0
+Vijayapura,Molestation,2024,31,20,11,5,26,0,18,13,1
+Tumakuru,Theft,2024,129,63,66,25,79,25,76,53,11
+Mandya,Murder,2024,5,1,4,0,3,2,3,2,1
+Bengaluru Rural,Kidnapping,2024,2,0,2,0,1,1,1,1,0
+Chikkamagaluru,Rape,2024,43,14,29,7,25,11,25,18,5
+Kodagu,Cyber Crime,2024,77,51,26,11,60,6,51,26,17
+Kalaburagi,Theft,2024,116,35,81,12,87,17,97,19,29
+Mandya,Domestic Violence,2024,85,43,42,11,54,20,32,53,4
+Vijayapura,Molestation,2024,24,15,9,1,15,8,18,6,1
+Mangaluru,Dowry Death,2024,4,1,3,0,2,2,3,1,0
+Bengaluru Rural,Murder,2024,7,2,5,0,4,3,1,6,0
+Kalaburagi,Rape,2024,34,19,15,2,25,7,22,12,1
+Mangaluru,Dowry Death,2024,5,1,4,0,4,1,4,1,1
+Chitradurga,Robbery,2024,18,10,8,1,11,6,4,14,0
+Kodagu,Dowry Death,2024,3,1,2,0,2,1,2,1,0
+RuralAreaX,Theft,2024,114,48,66,14,73,27,70,44,26
+Hassan,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+RuralAreaX,Kidnapping,2024,3,1,2,0,2,1,1,2,0
+Shivamogga,Domestic Violence,2024,91,32,59,3,72,16,51,40,10
+Shivamogga,Theft,2024,121,46,75,17,100,4,40,81,6
+Udupi,Cheating,2024,99,61,38,8,60,31,66,33,10
+Chamarajanagar,Robbery,2024,30,18,12,3,21,6,13,17,4
+Tumakuru,Rape,2024,31,21,10,3,19,9,18,13,3
+Davangere,Domestic Violence,2024,84,57,27,7,64,13,50,34,3
+Davangere,Murder,2024,7,2,5,1,5,1,2,5,0
+Ramanagara,Molestation,2024,21,13,8,1,13,7,17,4,4
+Tumakuru,Molestation,2024,30,19,11,3,20,7,25,5,7
+Ramanagara,Theft,2024,105,56,49,14,65,26,32,73,3
+Mysuru,Cheating,2024,59,26,33,6,43,10,16,43,2
+Shivamogga,Theft,2024,102,60,42,4,74,24,83,19,18
+Shimoga,Domestic Violence,2024,80,41,39,8,62,10,66,14,14
+Bengaluru Urban,Molestation,2024,13,4,9,1,10,2,8,5,3
+Chikkamagaluru,Cyber Crime,2024,53,36,17,4,38,11,25,28,4
+Shimoga,Murder,2024,9,2,7,1,5,3,5,4,0
+Tumakuru,Cyber Crime,2024,52,16,36,2,34,16,36,16,2
+RuralAreaX,Cheating,2024,107,74,33,18,76,13,49,58,14
+Bengaluru Urban,Murder,2024,5,2,3,0,3,2,4,1,0
+Vijayanagar,Murder,2024,5,3,2,0,3,2,1,4,0
+Chikkamagaluru,Murder,2024,5,3,2,0,3,2,3,2,0
+Hubballi,Theft,2024,132,68,64,20,106,6,40,92,8
+Mandya,Molestation,2024,27,17,10,1,18,8,15,12,4
+Bengaluru Urban,Molestation,2024,20,8,12,0,12,8,6,14,2
+Shimoga,Robbery,2024,15,9,6,0,9,6,5,10,1
+Vijayanagar,Murder,2024,2,0,2,0,1,1,0,2,0
+Uttara Kannada,Cyber Crime,2024,48,16,32,9,29,10,32,16,14
+Chikkamagaluru,Molestation,2024,22,11,11,2,14,6,6,16,2
+Gadag,Cyber Crime,2024,59,18,41,8,41,10,19,40,6
+Uttara Kannada,Cheating,2024,66,40,26,9,46,11,31,35,13
+Bagalkot,Kidnapping,2024,7,2,5,0,5,2,5,2,1
+Dharwad,Murder,2024,1,0,1,0,0,1,0,1,0
+Uttara Kannada,Molestation,2024,17,7,10,1,11,5,12,5,3
+Davangere,Cyber Crime,2024,66,33,33,7,44,15,23,43,5
+Belagavi,Theft,2024,124,82,42,18,84,22,69,55,11
+Vijayapura,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Mysuru,Kidnapping,2024,4,1,3,0,2,2,2,2,0
+Mangaluru,Domestic Violence,2024,77,46,31,5,64,8,28,49,2
+RuralAreaX,Theft,2024,118,45,73,22,76,20,77,41,21
+Hubballi,Kidnapping,2024,6,2,4,0,4,2,3,3,0
+Mysuru,Theft,2024,118,57,61,13,86,19,32,86,2
+Bagalkot,Kidnapping,2024,6,2,4,0,4,2,4,2,0
+Hassan,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Shimoga,Murder,2024,9,4,5,1,7,1,7,2,1
+Uttara Kannada,Robbery,2024,9,4,5,1,7,1,7,2,3
+Belagavi,Murder,2024,5,2,3,0,4,1,2,3,0
+Haveri,Cheating,2024,121,55,66,12,81,28,69,52,14
+RuralAreaX,Cyber Crime,2024,49,29,20,7,35,7,28,21,9
+Bengaluru Urban,Robbery,2024,21,6,15,3,12,6,17,4,2
+Ballari,Molestation,2024,21,13,8,3,14,4,6,15,2
+Belagavi,Cyber Crime,2024,77,36,41,4,49,24,41,36,12
+Kodagu,Rape,2024,53,29,24,5,43,5,43,10,19
+Bengaluru Urban,Dowry Death,2024,6,2,4,0,4,2,3,3,0
+Hubballi,Rape,2024,32,12,20,3,23,6,22,10,6
+Belagavi,Kidnapping,2024,5,2,3,0,3,2,1,4,0
+Chamarajanagar2,Murder,2024,3,2,1,0,1,2,1,2,0
+Chikkamagaluru,Domestic Violence,2024,82,29,53,13,64,5,43,39,21
+Ballari,Murder,2024,7,3,4,0,5,2,4,3,0
+Haveri,Domestic Violence,2024,74,29,45,5,55,14,49,25,11
+Uttara Kannada,Domestic Violence,2024,74,37,37,6,52,16,18,56,0
+Chikkaballapura,Cheating,2024,103,50,53,8,74,21,88,15,33
+Chikkaballapura,Domestic Violence,2024,64,38,26,6,39,19,37,27,11
+Vijayapura,Rape,2024,25,8,17,3,19,3,21,4,1
+Vijayapura,Theft,2024,87,32,55,10,61,16,49,38,4
+Chitradurga,Dowry Death,2024,4,1,3,0,2,2,2,2,0
+Mandya,Cyber Crime,2024,53,34,19,7,33,13,18,35,6
+Ballari,Cyber Crime,2024,54,34,20,7,38,9,41,13,6
+Bengaluru Urban,Cheating,2024,86,52,34,4,71,11,30,56,2
+Hassan,Kidnapping,2024,4,1,3,0,2,2,1,3,0
+Mysuru,Robbery,2024,10,4,6,1,6,3,6,4,1
+Dharwad,Molestation,2024,19,8,11,2,12,5,8,11,1
+Shimoga,Robbery,2024,18,7,11,2,14,2,11,7,3
+Kalaburagi,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Bidar,Domestic Violence,2024,69,40,29,8,56,5,51,18,6
+Vijayapura,Cheating,2024,75,31,44,13,49,13,39,36,9
+RuralAreaX,Cyber Crime,2024,62,34,28,7,42,13,20,42,8
+Mysuru,Rape,2024,27,14,13,2,16,9,21,6,8
+Ballari,Dowry Death,2024,8,4,4,0,6,2,4,4,1
+Yadgir,Rape,2024,29,16,13,4,22,3,20,9,5
+Tumakuru,Dowry Death,2024,10,5,5,1,6,3,5,5,0
+RuralAreaX,Theft,2024,166,98,68,19,131,16,43,123,9
+Raichur,Theft,2024,147,68,79,12,93,42,54,93,16
+Mangaluru,Murder,2024,9,4,5,1,6,2,3,6,0
+Gadag,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Bengaluru Urban,Domestic Violence,2024,68,26,42,6,46,16,41,27,3
+Ballari,Kidnapping,2024,7,2,5,1,4,2,6,1,0
+RuralAreaX,Rape,2024,38,13,25,1,29,8,27,11,6
+Kalaburagi,Molestation,2024,22,13,9,4,14,4,11,11,4
+Tumakuru,Domestic Violence,2024,75,26,49,13,59,3,64,11,17
+Bengaluru Urban,Dowry Death,2024,3,1,2,0,2,1,1,2,0
+Vijayanagar,Domestic Violence,2024,79,38,41,7,59,13,65,14,9
+Hubballi,Cyber Crime,2024,78,37,41,14,64,0,63,15,30
+Chamarajanagar2,Murder,2024,4,2,2,0,2,2,3,1,0
+Tumakuru,Domestic Violence,2024,82,38,44,11,52,19,51,31,14
+Mangaluru,Theft,2024,161,53,108,7,135,19,131,30,24
+Chitradurga,Kidnapping,2024,6,3,3,0,3,3,4,2,0
+Chikkamagaluru,Domestic Violence,2024,71,31,40,4,44,23,60,11,12
+Udupi,Domestic Violence,2024,100,36,64,5,61,34,77,23,12
+Mangaluru,Cheating,2024,93,62,31,13,65,15,78,15,26
+Mangaluru,Domestic Violence,2024,65,25,40,6,49,10,58,7,13
+Bagalkot,Murder,2024,6,2,4,0,3,3,3,3,0
+Kodagu,Dowry Death,2024,11,7,4,1,6,4,3,8,0
+Haveri,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Koppal,Molestation,2024,19,10,9,3,15,1,9,10,2
+Vijayanagar,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Uttara Kannada,Rape,2024,37,24,13,3,28,6,30,7,12
+Chikkamagaluru,Theft,2024,104,38,66,6,86,12,58,46,7
+Davangere,Robbery,2024,11,4,7,1,7,3,5,6,2
+Belagavi,Molestation,2024,32,12,20,5,19,8,28,4,12
+Shivamogga,Dowry Death,2024,7,2,5,0,5,2,2,5,0
+Kodagu,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Vijayanagar,Domestic Violence,2024,80,48,32,2,62,16,30,50,8
+Udupi,Murder,2024,6,2,4,0,4,2,1,5,0
+Mangaluru,Robbery,2024,13,8,5,2,9,2,9,4,0
+Chikkamagaluru,Domestic Violence,2024,69,29,40,2,56,11,36,33,8
+RuralAreaX,Cheating,2024,101,33,68,4,84,13,50,51,15
+Dharwad,Cyber Crime,2024,60,22,38,3,36,21,37,23,12
+Kodagu,Dowry Death,2024,4,2,2,0,3,1,1,3,0
+Bidar,Theft,2024,108,61,47,18,65,25,81,27,32
+Kalaburagi,Robbery,2024,14,6,8,2,11,1,7,7,0
+Bidar,Molestation,2024,18,12,6,1,13,4,11,7,4
+Uttara Kannada,Domestic Violence,2024,57,36,21,2,34,21,28,29,2
+Ballari,Domestic Violence,2024,84,26,58,15,63,6,45,39,14
+Ramanagara,Murder,2024,4,2,2,0,3,1,3,1,0
+Chamarajanagar,Domestic Violence,2024,72,46,26,3,43,26,50,22,7
+Hassan,Cyber Crime,2024,67,22,45,3,46,18,19,48,3
+Chikkaballapura,Cyber Crime,2024,54,27,27,9,33,12,15,39,1
+Chikkaballapura,Molestation,2024,21,8,13,2,15,4,13,8,5
+Kodagu,Robbery,2024,13,4,9,1,7,5,4,9,0
+Mangaluru,Cyber Crime,2024,87,52,35,3,53,31,34,53,15
+Vijayapura,Cheating,2024,75,23,52,9,45,21,24,51,3
+Bengaluru Urban,Robbery,2024,20,7,13,1,12,7,17,3,7
+Bengaluru Rural,Molestation,2024,7,2,5,0,5,2,4,3,1
+Kalaburagi,Dowry Death,2024,10,5,5,1,6,3,8,2,2
+Shimoga,Rape,2024,31,18,13,1,22,8,11,20,5
+Davangere,Theft,2024,121,64,57,13,84,24,77,44,12
+Bengaluru Urban,Domestic Violence,2024,62,18,44,3,42,17,41,21,2
+Kolar,Cyber Crime,2024,59,31,28,1,38,20,51,8,24
+Bengaluru Urban,Domestic Violence,2024,79,25,54,6,53,20,59,20,21
+Belagavi,Molestation,2024,28,18,10,2,18,8,13,15,4
+Chikkaballapura,Domestic Violence,2024,74,34,40,9,47,18,64,10,30
+Mangaluru,Domestic Violence,2024,53,30,23,3,33,17,47,6,14
+Uttara Kannada,Domestic Violence,2024,46,27,19,7,35,4,39,7,5
+Bengaluru Urban,Robbery,2024,8,2,6,1,6,1,2,6,0
+Chamarajanagar,Robbery,2024,23,11,12,3,17,3,17,6,2
+Ballari,Molestation,2024,26,13,13,1,21,4,15,11,5
+Kodagu,Rape,2024,39,26,13,5,27,7,24,15,9
+Uttara Kannada,Domestic Violence,2024,49,33,16,8,37,4,27,22,4
+Vijayapura,Theft,2024,121,75,46,7,99,15,57,64,23
+Hubballi,Cyber Crime,2024,80,53,27,11,60,9,49,31,10
+Chikkamagaluru,Molestation,2024,20,8,12,2,14,4,14,6,3
+Kodagu,Robbery,2024,18,5,13,1,11,6,8,10,2
+Chikkaballapura,Domestic Violence,2024,61,21,40,7,44,10,39,22,10
+Chikkamagaluru,Murder,2024,6,3,3,0,5,1,2,4,0
+Bagalkot,Cyber Crime,2024,56,26,30,4,36,16,32,24,8
+Bidar,Cyber Crime,2024,63,22,41,8,47,8,48,15,3
+RuralAreaX,Cyber Crime,2024,72,21,51,2,53,17,49,23,12
+Vijayanagar,Kidnapping,2024,6,2,4,1,3,2,1,5,0
+Yadgir,Domestic Violence,2024,102,53,49,3,75,24,26,76,10
+Chikkaballapura,Robbery,2024,24,7,17,1,20,3,20,4,8
+Chikkaballapura,Dowry Death,2024,5,2,3,0,3,2,3,2,1
+Raichur,Rape,2024,45,22,23,3,36,6,28,17,1
+Vijayapura,Rape,2024,24,7,17,1,18,5,17,7,6
+Ramanagara,Cyber Crime,2024,81,49,32,5,51,25,53,28,3
+Vijayanagar,Molestation,2024,36,14,22,6,22,8,20,16,3
+Davangere,Dowry Death,2024,12,6,6,1,9,2,9,3,1
+Koppal,Dowry Death,2024,14,7,7,1,11,2,4,10,1
+Mysuru,Cyber Crime,2024,60,25,35,4,37,19,29,31,3
+Mysuru,Cyber Crime,2024,49,18,31,3,32,14,29,20,10
+Uttara Kannada,Rape,2024,30,12,18,2,23,5,11,19,4
+Chamarajanagar2,Dowry Death,2024,9,3,6,1,5,3,2,7,0
+Chikkaballapura,Robbery,2024,11,5,6,1,6,4,4,7,0
+Koppal,Cheating,2024,82,36,46,10,57,15,45,37,3
+Raichur,Murder,2024,3,1,2,0,1,2,1,2,0
+Shimoga,Robbery,2024,11,6,5,0,7,4,7,4,3
+Kolar,Robbery,2024,11,3,8,1,8,2,7,4,1
+RuralAreaX,Dowry Death,2024,3,1,2,0,2,1,1,2,0
+Mandya,Cheating,2024,94,40,54,18,70,6,41,53,3
+Chamarajanagar,Domestic Violence,2024,85,48,37,2,65,18,22,63,7
+Chamarajanagar,Murder,2024,3,1,2,0,1,2,2,1,0
+Belagavi,Theft,2024,154,64,90,21,104,29,132,22,32
+Hubballi,Rape,2024,40,20,20,3,30,7,23,17,2
+Kolar,Robbery,2024,14,9,5,0,8,6,9,5,2
+Chamarajanagar,Robbery,2024,14,7,7,2,8,4,10,4,3
+Bengaluru Rural,Theft,2024,113,50,63,11,80,22,66,47,29
+Mysuru,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Vijayapura,Theft,2024,104,61,43,17,71,16,80,24,4
+Chikkamagaluru,Cheating,2024,80,34,46,9,62,9,52,28,7
+Chikkamagaluru,Dowry Death,2024,7,2,5,0,5,2,3,4,0
+Vijayanagar,Theft,2024,152,81,71,13,128,11,90,62,25
+Yadgir,Robbery,2024,13,7,6,1,9,3,8,5,2
+Belagavi,Domestic Violence,2024,93,46,47,5,77,11,68,25,17
+Chamarajanagar,Murder,2024,6,2,4,0,3,3,4,2,0
+Shimoga,Theft,2024,112,39,73,13,85,14,84,28,24
+Uttara Kannada,Molestation,2024,19,10,9,1,11,7,15,4,1
+Chikkaballapura,Rape,2024,31,9,22,1,21,9,21,10,8
+Bengaluru Urban,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Bidar,Murder,2024,8,5,3,1,5,2,3,5,1
+Dharwad,Domestic Violence,2024,67,38,29,8,44,15,30,37,7
+Hubballi,Cheating,2024,84,39,45,4,66,14,40,44,5
+Kodagu,Dowry Death,2024,9,4,5,0,6,3,2,7,0
+Vijayapura,Molestation,2024,27,18,9,5,17,5,16,11,2
+Koppal,Kidnapping,2024,8,3,5,1,5,2,2,6,0
+Mandya,Cheating,2024,87,34,53,6,52,29,40,47,14
+Haveri,Cheating,2024,99,51,48,6,82,11,60,39,28
+Kodagu,Rape,2024,47,17,30,5,34,8,24,23,8
+Udupi,Kidnapping,2024,3,0,3,0,2,1,1,2,0
+Chitradurga,Rape,2024,40,21,19,3,26,11,33,7,7
+Ballari,Molestation,2024,28,10,18,4,19,5,23,5,2
+Bagalkot,Cyber Crime,2024,52,35,17,10,37,5,43,9,12
+Kodagu,Kidnapping,2024,5,1,4,0,3,2,1,4,0
+RuralAreaX,Kidnapping,2024,4,1,3,0,3,1,3,1,0
+Tumakuru,Cheating,2024,78,36,42,11,56,11,46,32,8
+Ballari,Kidnapping,2024,3,1,2,0,2,1,2,1,0
+Koppal,Molestation,2024,21,7,14,2,15,4,15,6,1
+Mysuru,Rape,2024,46,22,24,2,31,13,31,15,7
+Kalaburagi,Murder,2024,2,1,1,0,1,1,1,1,0
+Uttara Kannada,Cyber Crime,2024,38,13,25,5,24,9,25,13,11
+Hubballi,Theft,2024,132,54,78,20,100,12,71,61,27
+Ramanagara,Molestation,2024,27,12,15,2,19,6,18,9,4
+Chikkamagaluru,Cheating,2024,82,34,48,11,67,4,32,50,12
+Shimoga,Robbery,2024,12,8,4,2,7,3,3,9,0
+Shivamogga,Rape,2024,30,16,14,5,23,2,23,7,5
+Udupi,Kidnapping,2024,5,3,2,0,3,2,3,2,1
+Chitradurga,Rape,2024,34,14,20,4,28,2,21,13,9
+Raichur,Molestation,2024,27,15,12,4,19,4,8,19,1
+Kodagu,Dowry Death,2024,7,3,4,1,5,1,2,5,0
+Bagalkot,Rape,2024,19,8,11,1,15,3,12,7,2
+Mangaluru,Rape,2024,37,21,16,3,28,6,12,25,5
+Vijayanagar,Domestic Violence,2024,89,38,51,4,73,12,36,53,2
+Chitradurga,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+Kodagu,Robbery,2024,17,10,7,1,10,6,14,3,4
+Mysuru,Cheating,2024,113,52,61,6,85,22,41,72,9
+Raichur,Kidnapping,2024,3,1,2,0,2,1,2,1,0
+Chikkaballapura,Dowry Death,2024,4,2,2,0,2,2,2,2,0
+Tumakuru,Domestic Violence,2024,64,27,37,6,52,6,18,46,6
+Kolar,Domestic Violence,2024,77,40,37,12,51,14,26,51,12
+Chitradurga,Theft,2024,94,52,42,15,65,14,46,48,6
+Uttara Kannada,Murder,2024,3,1,2,0,1,2,2,1,0
+Vijayapura,Theft,2024,90,53,37,11,70,9,50,40,15
+Chitradurga,Domestic Violence,2024,56,34,22,3,36,17,43,13,6
+Hubballi,Rape,2024,43,19,24,8,33,2,31,12,3
+Tumakuru,Dowry Death,2024,4,2,2,0,2,2,2,2,0
+Yadgir,Robbery,2024,16,5,11,1,10,5,6,10,0
+Ballari,Kidnapping,2024,8,3,5,0,5,3,5,3,1
+Gadag,Rape,2024,45,20,25,2,29,14,27,18,6
+Bidar,Theft,2024,131,71,60,23,93,15,79,52,28
+Belagavi,Dowry Death,2024,9,5,4,1,7,1,7,2,0
+Kolar,Robbery,2024,20,6,14,3,15,2,11,9,3
+Haveri,Rape,2024,45,20,25,8,33,4,16,29,5
+Chamarajanagar,Domestic Violence,2024,100,52,48,9,72,19,47,53,21
+Mysuru,Dowry Death,2024,7,4,3,0,4,3,6,1,1
+Bengaluru Rural,Kidnapping,2024,6,3,3,0,4,2,2,4,0
+Ramanagara,Kidnapping,2024,2,1,1,0,1,1,1,1,0
+Mysuru,Dowry Death,2024,4,1,3,0,2,2,1,3,0
+Bengaluru Urban,Kidnapping,2024,4,2,2,0,2,2,2,2,0
+Kolar,Murder,2024,1,0,1,0,0,1,0,1,0
+Kodagu,Cyber Crime,2024,63,24,39,8,41,14,17,46,4
+Mysuru,Robbery,2024,7,2,5,1,4,2,4,3,0
+Mandya,Theft,2024,111,67,44,12,83,16,72,39,18
+Vijayanagar,Murder,2024,5,3,2,0,3,2,2,3,0
+Mangaluru,Theft,2024,139,77,62,18,97,24,66,73,5
+Uttara Kannada,Kidnapping,2024,10,5,5,1,6,3,4,6,1
+Vijayapura,Kidnapping,2024,6,2,4,0,4,2,1,5,0
+Mangaluru,Murder,2024,0,0,0,0,0,0,0,0,0
+Kolar,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Mandya,Theft,2024,106,43,63,13,73,20,81,25,9
+Yadgir,Dowry Death,2024,10,6,4,1,6,3,5,5,2
+Vijayanagar,Molestation,2024,22,13,9,3,15,4,12,10,4
+Dharwad,Domestic Violence,2024,83,26,57,4,61,18,41,42,11
+Dharwad,Domestic Violence,2024,51,24,27,7,34,10,30,21,6
+Belagavi,Molestation,2024,17,11,6,0,13,4,13,4,4
+Yadgir,Theft,2024,135,87,48,24,114,0,85,50,24
+Bengaluru Rural,Theft,2024,103,33,70,7,80,16,59,44,13
+Gadag,Rape,2024,46,22,24,5,30,11,39,7,4
+Bidar,Rape,2024,25,8,17,3,19,3,6,19,2
+Gadag,Cheating,2024,90,30,60,15,63,12,35,55,11
+Belagavi,Dowry Death,2024,3,1,2,0,2,1,2,1,0
+Kalaburagi,Molestation,2024,26,17,9,1,18,7,10,16,0
+Mandya,Murder,2024,9,4,5,0,6,3,2,7,0
+Ramanagara,Dowry Death,2024,7,4,3,0,5,2,3,4,0
+Kodagu,Cyber Crime,2024,74,35,39,13,47,14,20,54,2
+Yadgir,Dowry Death,2024,11,7,4,1,8,2,6,5,1
+Raichur,Cyber Crime,2024,90,33,57,4,75,11,44,46,18
+Udupi,Cheating,2024,96,62,34,11,64,21,57,39,6
+Dharwad,Cyber Crime,2024,55,23,32,8,45,2,49,6,23
+Hassan,Molestation,2024,15,5,10,0,12,3,6,9,0
+Chamarajanagar2,Molestation,2024,31,17,14,5,23,3,22,9,2
+Ballari,Robbery,2024,16,7,9,2,10,4,4,12,1
+Hubballi,Kidnapping,2024,12,6,6,0,9,3,7,5,3
+Udupi,Robbery,2024,14,9,5,2,10,2,8,6,1
+Kalaburagi,Domestic Violence,2024,66,33,33,12,49,5,30,36,10
+Chitradurga,Robbery,2024,13,6,7,1,8,4,7,6,0
+Kodagu,Dowry Death,2024,3,1,2,0,2,1,1,2,0
+Shimoga,Cyber Crime,2024,59,35,24,11,44,4,38,21,16
+Belagavi,Rape,2024,42,15,27,4,29,9,35,7,14
+Vijayanagar,Domestic Violence,2024,99,58,41,9,68,22,26,73,3
+Shimoga,Cheating,2024,86,40,46,7,71,8,42,44,7
+Kalaburagi,Robbery,2024,3,1,2,0,2,1,1,2,0
+Ballari,Cyber Crime,2024,83,45,38,10,50,23,63,20,24
+Mandya,Theft,2024,133,41,92,9,85,39,75,58,10
+Kolar,Molestation,2024,27,13,14,4,22,1,20,7,2
+Ramanagara,Cyber Crime,2024,58,32,26,4,40,14,32,26,2
+Bidar,Murder,2024,2,0,2,0,1,1,1,1,0
+Mysuru,Rape,2024,37,22,15,1,24,12,27,10,3
+Kolar,Molestation,2024,25,14,11,4,20,1,13,12,0
+Shivamogga,Domestic Violence,2024,66,32,34,12,40,14,35,31,9
+Shivamogga,Dowry Death,2024,5,3,2,0,3,2,2,3,0
+Davangere,Murder,2024,5,2,3,0,4,1,4,1,0
+Belagavi,Cyber Crime,2024,95,64,31,18,67,10,74,21,30
+Kodagu,Cheating,2024,101,35,66,15,76,10,83,18,34
+RuralAreaX,Theft,2024,165,92,73,31,121,13,41,124,3
+Dharwad,Dowry Death,2024,9,2,7,1,5,3,2,7,0
+Mysuru,Cheating,2024,85,55,30,7,67,11,47,38,19
+Bagalkot,Murder,2024,1,0,1,0,0,1,0,1,0
+Belagavi,Kidnapping,2024,14,8,6,1,11,2,4,10,0
+RuralAreaX,Kidnapping,2024,16,9,7,3,10,3,9,7,1
+Vijayanagar,Robbery,2024,21,9,12,3,16,2,15,6,3
+Kodagu,Kidnapping,2024,9,5,4,0,7,2,2,7,0
+Haveri,Kidnapping,2024,4,2,2,0,3,1,3,1,1
+Koppal,Cheating,2024,78,43,35,7,59,12,56,22,11
+Chikkamagaluru,Rape,2024,47,26,21,8,32,7,33,14,6
+Bengaluru Rural,Robbery,2024,8,4,4,1,5,2,3,5,0
+Uttara Kannada,Theft,2024,95,29,66,4,60,31,55,40,21
+Bengaluru Urban,Robbery,2024,11,7,4,2,7,2,4,7,1
+Hubballi,Cheating,2024,113,60,53,8,84,21,49,64,21
+Ballari,Murder,2024,0,0,0,0,0,0,0,0,0
+Haveri,Rape,2024,40,18,22,2,25,13,35,5,17
+Kodagu,Robbery,2024,13,7,6,1,10,2,6,7,2
+Bidar,Rape,2024,35,14,21,3,23,9,26,9,7
+Kolar,Murder,2024,6,2,4,0,4,2,3,3,1
+Kolar,Murder,2024,0,0,0,0,0,0,0,0,0
+Mysuru,Robbery,2024,18,7,11,0,11,7,15,3,5
+Kolar,Theft,2024,146,71,75,8,112,26,102,44,13
+Hubballi,Cyber Crime,2024,65,31,34,9,45,11,43,22,12
+Koppal,Cheating,2024,74,46,28,3,51,20,24,50,4
+Koppal,Robbery,2024,17,7,10,1,13,3,15,2,6
+Vijayapura,Rape,2024,37,20,17,1,23,13,31,6,8
+Haveri,Murder,2024,3,1,2,0,2,1,1,2,0
+Davangere,Murder,2024,10,4,6,0,8,2,5,5,1
+Davangere,Cheating,2024,112,40,72,8,85,19,58,54,19
+Mysuru,Cheating,2024,90,46,44,11,57,22,65,25,21
+Gadag,Cyber Crime,2024,63,29,34,10,48,5,30,33,14
+Bengaluru Urban,Cheating,2024,75,24,51,10,58,7,48,27,13
+Koppal,Rape,2024,42,15,27,5,25,12,19,23,4
+Hubballi,Cheating,2024,102,52,50,17,61,24,45,57,18
+Vijayanagar,Cyber Crime,2024,61,36,25,2,40,19,53,8,13
+Koppal,Theft,2024,113,52,61,8,95,10,43,70,5
+Mangaluru,Cheating,2024,88,33,55,15,65,8,40,48,19
+Chitradurga,Theft,2024,95,45,50,16,68,11,49,46,7
+Hubballi,Theft,2024,129,52,77,16,85,28,72,57,28
+Shivamogga,Theft,2024,108,61,47,16,74,18,62,46,6
+Kalaburagi,Rape,2024,28,9,19,5,20,3,16,12,2
+Chamarajanagar2,Murder,2024,0,0,0,0,0,0,0,0,0
+Gadag,Rape,2024,52,27,25,9,42,1,17,35,1
+Chikkaballapura,Domestic Violence,2024,78,39,39,14,55,9,35,43,14
+Mysuru,Murder,2024,2,1,1,0,1,1,0,2,0
+Bagalkot,Kidnapping,2024,3,1,2,0,2,1,2,1,0
+Udupi,Domestic Violence,2024,86,49,37,3,61,22,44,42,20
+Vijayanagar,Robbery,2024,20,8,12,2,12,6,11,9,1
+Vijayanagar,Theft,2024,132,65,67,19,98,15,94,38,26
+Kolar,Theft,2024,119,53,66,21,77,21,75,44,21
+Dharwad,Theft,2024,108,33,75,6,80,22,72,36,33
+Bidar,Rape,2024,33,12,21,3,22,8,29,4,6
+Chamarajanagar,Domestic Violence,2024,82,34,48,6,68,8,52,30,2
+RuralAreaX,Murder,2024,4,2,2,0,2,2,1,3,0
+Raichur,Theft,2024,146,78,68,14,110,22,76,70,21
+Vijayapura,Theft,2024,107,69,38,20,87,0,44,63,6
+Mandya,Rape,2024,47,20,27,9,30,8,20,27,1
+Tumakuru,Dowry Death,2024,4,1,3,0,3,1,3,1,0
+Haveri,Cyber Crime,2024,69,33,36,6,46,17,59,10,10
+Bidar,Robbery,2024,19,9,10,2,11,6,5,14,1
+Udupi,Robbery,2024,15,5,10,2,12,1,5,10,0
+Mandya,Murder,2024,11,5,6,1,8,2,6,5,0
+Davangere,Dowry Death,2024,7,2,5,0,5,2,3,4,0
+Udupi,Robbery,2024,12,7,5,1,9,2,3,9,0
+Kalaburagi,Molestation,2024,23,15,8,3,14,6,15,8,2
+Chamarajanagar2,Cyber Crime,2024,75,46,29,12,48,15,51,24,10
+Hubballi,Cyber Crime,2024,66,30,36,11,53,2,18,48,3
+Chikkaballapura,Cheating,2024,88,42,46,9,73,6,77,11,35
+Bengaluru Urban,Murder,2024,0,0,0,0,0,0,0,0,0
+Bidar,Dowry Death,2024,7,4,3,0,4,3,4,3,0
+Kodagu,Domestic Violence,2024,79,37,42,7,50,22,70,9,32
+Mangaluru,Dowry Death,2024,11,7,4,0,7,4,6,5,1
+Kodagu,Cheating,2024,123,44,79,4,75,44,80,43,19
+Kodagu,Robbery,2024,22,10,12,3,14,5,14,8,6
+Mangaluru,Dowry Death,2024,3,1,2,0,2,1,2,1,0
+Hassan,Cyber Crime,2024,57,32,25,4,43,10,40,17,14
+Yadgir,Dowry Death,2024,9,3,6,1,6,2,5,4,2
+Davangere,Cheating,2024,84,35,49,11,61,12,68,16,33
+Kodagu,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Shivamogga,Molestation,2024,20,10,10,2,15,3,12,8,3
+Hubballi,Dowry Death,2024,9,5,4,1,6,2,4,5,0
+Raichur,Cyber Crime,2024,92,38,54,6,58,28,76,16,11
+Hubballi,Kidnapping,2024,12,7,5,0,7,5,5,7,1
+Raichur,Kidnapping,2024,4,2,2,0,2,2,1,3,0
+Koppal,Robbery,2024,20,9,11,3,13,4,13,7,1
+Chikkamagaluru,Cyber Crime,2024,69,29,40,8,46,15,47,22,6
+RuralAreaX,Molestation,2024,25,7,18,0,17,8,12,13,3
+Belagavi,Robbery,2024,25,14,11,3,19,3,9,16,2
+Kolar,Dowry Death,2024,5,2,3,0,3,2,3,2,0
+Dharwad,Theft,2024,112,46,66,11,87,14,57,55,16
+Bidar,Theft,2024,136,61,75,18,105,13,48,88,20
+Udupi,Domestic Violence,2024,67,43,24,4,44,19,30,37,4
+Kolar,Dowry Death,2024,2,1,1,0,1,1,1,1,0
+Chitradurga,Rape,2024,35,17,18,4,22,9,9,26,0
+Haveri,Molestation,2024,16,9,7,1,13,2,7,9,2
+Raichur,Molestation,2024,39,20,19,7,31,1,21,18,6
+Dharwad,Cheating,2024,85,35,50,12,55,18,43,42,18
+Ballari,Cyber Crime,2024,78,32,46,8,47,23,48,30,8
+Ramanagara,Theft,2024,113,77,36,21,85,7,74,39,5
+Davangere,Cheating,2024,96,49,47,17,74,5,44,52,12
+Bengaluru Urban,Domestic Violence,2024,61,21,40,3,38,20,41,20,12
+Hubballi,Rape,2024,41,15,26,7,30,4,36,5,16
+Bidar,Robbery,2024,20,12,8,2,16,2,17,3,6
+Chitradurga,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Yadgir,Robbery,2024,18,8,10,0,13,5,13,5,3
+Davangere,Cheating,2024,99,56,43,17,63,19,66,33,4
+Ramanagara,Cheating,2024,101,42,59,10,66,25,38,63,18
+Yadgir,Rape,2024,46,20,26,9,31,6,17,29,5
+Chitradurga,Cheating,2024,71,37,34,2,46,23,43,28,4
+Chamarajanagar,Rape,2024,43,20,23,7,35,1,31,12,9
+Chikkamagaluru,Molestation,2024,31,9,22,6,25,0,9,22,1
+Vijayanagar,Cyber Crime,2024,64,26,38,3,49,12,30,34,1
+Kodagu,Cheating,2024,91,50,41,17,61,13,68,23,22
+Mandya,Molestation,2024,8,3,5,0,6,2,3,5,0
+Kolar,Cyber Crime,2024,54,23,31,2,43,9,30,24,11
+Bengaluru Rural,Rape,2024,29,11,18,2,18,9,22,7,4
+Gadag,Murder,2024,5,1,4,0,4,1,2,3,0
+Belagavi,Domestic Violence,2024,88,39,49,9,61,18,60,28,14
+Dharwad,Murder,2024,3,2,1,0,2,1,1,2,0
+Raichur,Molestation,2024,25,9,16,2,19,4,19,6,6
+Kodagu,Robbery,2024,24,12,12,2,19,3,16,8,6
+Tumakuru,Murder,2024,6,1,5,0,4,2,4,2,1
+Bidar,Cyber Crime,2024,51,21,30,10,33,8,23,28,10
+Yadgir,Cheating,2024,103,66,37,13,84,6,48,55,21
+Hubballi,Dowry Death,2024,6,2,4,0,4,2,3,3,0
+Davangere,Cyber Crime,2024,68,31,37,9,47,12,24,44,2
+Udupi,Domestic Violence,2024,75,43,32,13,58,4,28,47,11
+Bagalkot,Rape,2024,34,18,16,6,22,6,8,26,2
+Belagavi,Cyber Crime,2024,80,45,35,2,48,30,39,41,11
+Bagalkot,Kidnapping,2024,6,3,3,1,3,2,3,3,0
+Vijayanagar,Dowry Death,2024,14,6,8,0,10,4,5,9,0
+RuralAreaX,Cyber Crime,2024,73,30,43,3,44,26,37,36,5
+Mysuru,Theft,2024,145,67,78,11,91,43,127,18,45
+Vijayanagar,Theft,2024,122,78,44,16,95,11,101,21,40
+Kodagu,Domestic Violence,2024,76,28,48,9,53,14,24,52,6
+Kalaburagi,Cyber Crime,2024,48,29,19,4,30,14,28,20,4
+Vijayanagar,Dowry Death,2024,8,3,5,1,5,2,2,6,0
+Bengaluru Urban,Domestic Violence,2024,54,22,32,9,33,12,35,19,16
+Hassan,Molestation,2024,18,10,8,3,10,5,9,9,1
+Mysuru,Cyber Crime,2024,56,29,27,3,46,7,41,15,2
+Kolar,Cheating,2024,87,34,53,12,60,15,38,49,15
+Bagalkot,Cyber Crime,2024,63,18,45,5,51,7,16,47,7
+Udupi,Dowry Death,2024,8,3,5,0,5,3,5,3,1
+Chamarajanagar,Kidnapping,2024,7,3,4,0,5,2,5,2,0
+Udupi,Cyber Crime,2024,64,36,28,3,40,21,52,12,21
+Mysuru,Cheating,2024,90,41,49,12,65,13,35,55,13
+Kalaburagi,Rape,2024,40,22,18,1,27,12,23,17,7
+Gadag,Cyber Crime,2024,67,36,31,9,52,6,21,46,7
+RuralAreaX,Kidnapping,2024,12,5,7,2,7,3,7,5,1
+Ramanagara,Rape,2024,33,14,19,1,23,9,13,20,5
+Bengaluru Urban,Theft,2024,100,37,63,9,81,10,58,42,28
+Vijayanagar,Theft,2024,136,89,47,11,105,20,55,81,21
+Hubballi,Dowry Death,2024,5,2,3,0,3,2,1,4,0
+Uttara Kannada,Theft,2024,103,62,41,7,68,28,58,45,7
+Mangaluru,Molestation,2024,31,17,14,3,21,7,13,18,3
+Uttara Kannada,Robbery,2024,8,2,6,0,6,2,5,3,2
+Yadgir,Domestic Violence,2024,99,65,34,14,78,7,44,55,21
+Yadgir,Cheating,2024,93,52,41,9,78,6,24,69,8
+Shimoga,Rape,2024,43,20,23,4,35,4,17,26,1
+Bengaluru Rural,Robbery,2024,21,14,7,2,16,3,17,4,3
+Belagavi,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Bengaluru Urban,Murder,2024,9,2,7,1,6,2,6,3,2
+Mangaluru,Kidnapping,2024,5,3,2,0,4,1,4,1,1
+Raichur,Robbery,2024,26,16,10,3,18,5,12,14,5
+Vijayanagar,Kidnapping,2024,3,1,2,0,2,1,1,2,0
+Belagavi,Rape,2024,42,22,20,5,32,5,18,24,3
+Bengaluru Rural,Kidnapping,2024,3,1,2,0,2,1,1,2,0
+Bengaluru Rural,Murder,2024,9,5,4,1,6,2,5,4,1
+Vijayanagar,Cheating,2024,115,55,60,17,69,29,98,17,24
+Udupi,Cyber Crime,2024,69,33,36,5,55,9,37,32,5
+Ramanagara,Domestic Violence,2024,61,23,38,7,37,17,41,20,16
+Dharwad,Kidnapping,2024,5,2,3,0,3,2,1,4,0
+Ballari,Domestic Violence,2024,86,28,58,10,56,20,34,52,4
+Yadgir,Rape,2024,39,12,27,1,31,7,21,18,2
+Hassan,Murder,2024,3,2,1,0,2,1,1,2,0
+Bidar,Cheating,2024,79,27,52,9,59,11,46,33,4
+Chamarajanagar,Cyber Crime,2024,68,31,37,10,45,13,43,25,18
+Kodagu,Theft,2024,142,72,70,14,97,31,68,74,28
+Vijayanagar,Murder,2024,5,3,2,0,3,2,3,2,1
+Bengaluru Rural,Rape,2024,52,29,23,5,36,11,21,31,4
+Kolar,Domestic Violence,2024,85,39,46,10,53,22,33,52,15
+Ramanagara,Dowry Death,2024,10,6,4,0,7,3,3,7,0
+Haveri,Theft,2024,135,86,49,24,83,28,48,87,20
+Haveri,Theft,2024,129,49,80,11,103,15,32,97,8
+Ballari,Cheating,2024,77,24,53,4,58,15,45,32,16
+Mangaluru,Domestic Violence,2024,67,34,33,4,51,12,42,25,5
+Kalaburagi,Cyber Crime,2024,51,23,28,7,34,10,30,21,10
+Ballari,Murder,2024,11,4,7,1,7,3,3,8,1
+Raichur,Theft,2024,119,46,73,13,100,6,81,38,16
+Chikkamagaluru,Cheating,2024,94,28,66,15,72,7,30,64,4
+Koppal,Molestation,2024,31,13,18,1,24,6,14,17,1
+Mangaluru,Domestic Violence,2024,74,31,43,8,53,13,59,15,11
+Shimoga,Robbery,2024,19,7,12,2,14,3,11,8,1
+Raichur,Kidnapping,2024,4,1,3,0,3,1,2,2,0
+Kalaburagi,Molestation,2024,25,16,9,2,18,5,10,15,3
+Dharwad,Rape,2024,36,17,19,3,29,4,17,19,6
+Shivamogga,Robbery,2024,10,6,4,1,6,3,5,5,0
+Belagavi,Cyber Crime,2024,76,34,42,4,57,15,28,48,8
+Kolar,Cheating,2024,87,51,36,4,58,25,64,23,12
+Bengaluru Urban,Molestation,2024,20,12,8,1,12,7,9,11,0
+Ramanagara,Domestic Violence,2024,82,39,43,11,60,11,21,61,2
+RuralAreaX,Rape,2024,35,22,13,3,23,9,24,11,5
+Tumakuru,Domestic Violence,2024,63,39,24,9,48,6,48,15,11
+Hubballi,Cyber Crime,2024,53,30,23,8,33,12,37,16,8
+Ramanagara,Rape,2024,45,21,24,2,36,7,24,21,11
+Bengaluru Urban,Rape,2024,32,10,22,1,23,8,18,14,5
+Gadag,Cyber Crime,2024,75,23,52,13,51,11,28,47,11
+Shivamogga,Domestic Violence,2024,61,21,40,4,50,7,38,23,3
+Dharwad,Molestation,2024,20,13,7,3,12,5,17,3,4
+Bagalkot,Murder,2024,1,0,1,0,0,1,0,1,0
+Gadag,Cheating,2024,92,47,45,10,76,6,79,13,10
+Mangaluru,Domestic Violence,2024,86,34,52,11,70,5,66,20,23
+Raichur,Theft,2024,143,55,88,17,105,21,102,41,28
+Hubballi,Cyber Crime,2024,55,19,36,7,43,5,42,13,14
+Kalaburagi,Robbery,2024,12,7,5,1,8,3,4,8,0
+Bengaluru Rural,Kidnapping,2024,2,1,1,0,1,1,1,1,0
+Uttara Kannada,Theft,2024,99,34,65,15,76,8,87,12,36
+Bengaluru Rural,Murder,2024,4,2,2,0,2,2,2,2,0
+Bidar,Robbery,2024,14,9,5,1,11,2,11,3,3
+Hassan,Cyber Crime,2024,49,16,33,7,32,10,14,35,5
+Mysuru,Murder,2024,5,2,3,0,3,2,3,2,1
+Mangaluru,Domestic Violence,2024,75,46,29,6,59,10,64,11,5
+Mandya,Cheating,2024,80,32,48,4,66,10,22,58,6
+Belagavi,Cyber Crime,2024,62,20,42,6,46,10,50,12,22
+RuralAreaX,Theft,2024,134,79,55,14,82,38,37,97,7
+Shivamogga,Cyber Crime,2024,63,36,27,6,40,17,40,23,8
+Chamarajanagar,Theft,2024,156,85,71,14,103,39,73,83,15
+Gadag,Cyber Crime,2024,73,47,26,12,49,12,39,34,9
+Vijayapura,Murder,2024,7,3,4,1,4,2,6,1,2
+Hassan,Cyber Crime,2024,51,26,25,5,36,10,27,24,11
+Mangaluru,Dowry Death,2024,6,3,3,0,4,2,4,2,1
+Belagavi,Murder,2024,1,0,1,0,0,1,0,1,0
+Haveri,Cheating,2024,91,37,54,7,70,14,81,10,18
+Vijayanagar,Cyber Crime,2024,84,31,53,12,62,10,46,38,19
+Chikkamagaluru,Cyber Crime,2024,53,22,31,4,40,9,29,24,9
+Chikkamagaluru,Theft,2024,107,41,66,13,70,24,65,42,19
+Chikkamagaluru,Robbery,2024,18,5,13,1,12,5,6,12,1
+Ramanagara,Cyber Crime,2024,59,22,37,7,39,13,30,29,13
+Chitradurga,Dowry Death,2024,5,3,2,0,3,2,3,2,0
+Davangere,Cyber Crime,2024,73,30,43,2,49,22,54,19,13
+Ramanagara,Rape,2024,34,23,11,5,20,9,24,10,1
+Bengaluru Urban,Domestic Violence,2024,62,20,42,9,40,13,39,23,14
+Hassan,Murder,2024,7,4,3,0,4,3,2,5,0
+Shimoga,Kidnapping,2024,6,3,3,0,3,3,4,2,1
+Mangaluru,Robbery,2024,19,10,9,2,12,5,10,9,1
+Ramanagara,Domestic Violence,2024,78,44,34,15,62,1,56,22,10
+Mysuru,Robbery,2024,20,9,11,2,13,5,14,6,4
+Ballari,Rape,2024,27,17,10,3,19,5,14,13,4
+Raichur,Molestation,2024,25,8,17,4,16,5,16,9,2
+Dharwad,Theft,2024,109,51,58,16,91,2,82,27,30
+Bengaluru Rural,Rape,2024,36,11,25,3,29,4,17,19,1
+Kolar,Cyber Crime,2024,63,33,30,9,52,2,39,24,7
+Kolar,Theft,2024,107,70,37,16,65,26,88,19,32
+Koppal,Dowry Death,2024,3,2,1,0,2,1,2,1,0
+Mangaluru,Cheating,2024,93,48,45,11,67,15,55,38,21
+Shimoga,Dowry Death,2024,10,4,6,1,7,2,4,6,1
+Ramanagara,Kidnapping,2024,8,5,3,0,5,3,4,4,0
+Mandya,Robbery,2024,19,13,6,3,13,3,12,7,2
+Ramanagara,Theft,2024,125,58,67,7,81,37,73,52,17
+Dharwad,Kidnapping,2024,7,2,5,1,4,2,2,5,0
+Bengaluru Urban,Molestation,2024,21,7,14,3,13,5,18,3,7
+Raichur,Domestic Violence,2024,72,23,49,11,60,1,63,9,22
+Raichur,Kidnapping,2024,5,2,3,0,4,1,4,1,1
+Haveri,Kidnapping,2024,8,4,4,1,5,2,6,2,0
+RuralAreaX,Rape,2024,27,14,13,1,18,8,23,4,2
+Yadgir,Dowry Death,2024,4,2,2,0,2,2,1,3,0
+Chamarajanagar2,Cheating,2024,112,49,63,21,72,19,90,22,40
+Shivamogga,Molestation,2024,17,7,10,0,11,6,4,13,0
+Bagalkot,Robbery,2024,22,13,9,3,15,4,8,14,0
+Bagalkot,Cheating,2024,74,38,36,11,53,10,35,39,10
+Dharwad,Kidnapping,2024,11,4,7,0,8,3,8,3,3
+Udupi,Robbery,2024,14,4,10,2,10,2,4,10,1
+RuralAreaX,Rape,2024,38,15,23,4,26,8,24,14,9
+Kalaburagi,Rape,2024,24,16,8,3,15,6,14,10,4
+Mangaluru,Kidnapping,2024,8,5,3,0,5,3,2,6,0
+Yadgir,Domestic Violence,2024,85,49,36,14,67,4,32,53,9
+Chikkaballapura,Murder,2024,3,1,2,0,2,1,1,2,0
+Mangaluru,Kidnapping,2024,3,1,2,0,2,1,1,2,0
+Vijayapura,Molestation,2024,23,7,16,3,19,1,15,8,3
+Hassan,Dowry Death,2024,12,7,5,1,7,4,4,8,1
+Davangere,Molestation,2024,25,15,10,4,16,5,11,14,1
+Ballari,Domestic Violence,2024,79,38,41,6,65,8,45,34,9
+Kolar,Rape,2024,34,21,13,4,23,7,17,17,3
+Gadag,Dowry Death,2024,7,4,3,0,5,2,3,4,1
+Hubballi,Murder,2024,0,0,0,0,0,0,0,0,0
+Kolar,Robbery,2024,13,8,5,2,11,0,10,3,3
+Chikkamagaluru,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Bengaluru Rural,Rape,2024,23,9,14,1,14,8,14,9,5
+Hassan,Cheating,2024,86,47,39,13,56,17,41,45,11
+Kalaburagi,Kidnapping,2024,0,0,0,0,0,0,0,0,0
+Belagavi,Kidnapping,2024,8,3,5,0,4,4,5,3,1
+Hubballi,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Koppal,Cyber Crime,2024,46,17,29,7,34,5,25,21,6
+Chamarajanagar2,Domestic Violence,2024,83,33,50,5,61,17,70,13,21
+Haveri,Domestic Violence,2024,90,41,49,10,63,17,66,24,11
+Mandya,Domestic Violence,2024,77,43,34,13,59,5,63,14,9
+Chitradurga,Domestic Violence,2024,72,31,41,13,44,15,58,14,17
+Dharwad,Kidnapping,2024,6,2,4,0,4,2,2,4,0
+Tumakuru,Dowry Death,2024,6,1,5,0,3,3,2,4,0
+Hubballi,Molestation,2024,20,6,14,2,14,4,5,15,0
+Koppal,Domestic Violence,2024,74,47,27,12,62,0,47,27,22
+Kolar,Cheating,2024,90,38,52,2,76,12,32,58,6
+Ramanagara,Theft,2024,150,104,46,10,127,13,129,21,6
+Dharwad,Robbery,2024,10,5,5,1,7,2,3,7,0
+Haveri,Theft,2024,131,67,64,14,86,31,105,26,28
+Vijayapura,Theft,2024,86,36,50,12,72,2,37,49,11
+Ballari,Cyber Crime,2024,66,24,42,3,40,23,18,48,4
+Uttara Kannada,Murder,2024,7,4,3,0,5,2,4,3,1
+Kodagu,Domestic Violence,2024,104,67,37,13,64,27,66,38,22
+Tumakuru,Kidnapping,2024,6,3,3,0,3,3,2,4,0
+Vijayanagar,Rape,2024,58,26,32,2,41,15,51,7,25
+Raichur,Theft,2024,126,68,58,9,97,20,47,79,23
+Shimoga,Theft,2024,135,51,84,16,83,36,92,43,12
+Uttara Kannada,Dowry Death,2024,8,4,4,0,5,3,2,6,0
+Raichur,Cyber Crime,2024,59,25,34,6,37,16,23,36,10
+Chitradurga,Molestation,2024,15,5,10,1,9,5,12,3,4
+Ballari,Theft,2024,113,58,55,21,75,17,83,30,36
+Tumakuru,Cheating,2024,90,61,29,5,67,18,54,36,8
+Bagalkot,Rape,2024,31,9,22,2,25,4,27,4,3
+Chitradurga,Molestation,2024,16,5,11,0,9,7,8,8,1
+Chikkamagaluru,Cyber Crime,2024,50,19,31,2,42,6,34,16,5
+Dharwad,Molestation,2024,18,9,9,1,10,7,13,5,1
+Koppal,Robbery,2024,14,7,7,0,10,4,4,10,0
+Uttara Kannada,Dowry Death,2024,1,0,1,0,0,1,0,1,0
+Belagavi,Domestic Violence,2024,76,47,29,2,49,25,58,18,26
+Chikkamagaluru,Domestic Violence,2024,69,44,25,2,58,9,27,42,5
+Chamarajanagar,Domestic Violence,2024,87,45,42,4,73,10,23,64,9
+Ballari,Kidnapping,2024,7,2,5,1,5,1,2,5,0
+Kolar,Theft,2024,128,74,54,20,88,20,100,28,5
+Udupi,Domestic Violence,2024,80,34,46,15,60,5,38,42,11
+Chikkamagaluru,Rape,2024,40,25,15,5,25,10,18,22,6
+Chitradurga,Dowry Death,2024,8,3,5,0,6,2,6,2,1
+Chikkaballapura,Robbery,2024,12,4,8,1,8,3,8,4,3
+Chikkamagaluru,Cyber Crime,2024,52,32,20,5,33,14,30,22,2
+Chikkamagaluru,Molestation,2024,20,11,9,1,16,3,16,4,5
+Chitradurga,Molestation,2024,35,15,20,6,21,8,21,14,4
+Tumakuru,Robbery,2024,13,6,7,1,9,3,7,6,2
+Chikkaballapura,Theft,2024,132,73,59,12,95,25,107,25,33
+Dharwad,Domestic Violence,2024,69,24,45,4,45,20,59,10,28
+Chikkaballapura,Domestic Violence,2024,80,29,51,14,54,12,33,47,13
+Chamarajanagar,Dowry Death,2024,3,1,2,0,1,2,2,1,0
+Bagalkot,Murder,2024,2,1,1,0,1,1,1,1,0
+Tumakuru,Cyber Crime,2024,59,24,35,6,48,5,44,15,9
+Mangaluru,Rape,2024,29,18,11,3,19,7,8,21,2
+Raichur,Cheating,2024,112,50,62,12,79,21,35,77,16
+Shivamogga,Murder,2024,5,2,3,0,3,2,2,3,0
+Chikkaballapura,Kidnapping,2024,5,2,3,0,3,2,2,3,0
+Koppal,Theft,2024,119,61,58,23,100,0,79,40,24
+Mysuru,Cheating,2024,96,32,64,8,67,21,29,67,13
+Yadgir,Robbery,2024,16,10,6,2,11,3,13,3,3
+Chitradurga,Rape,2024,37,24,13,4,29,4,33,4,11
+Mandya,Kidnapping,2024,5,1,4,0,3,2,1,4,0
+Kolar,Cheating,2024,92,49,43,3,64,25,43,49,9
+Yadgir,Theft,2024,138,50,88,14,112,12,74,64,25
+Kalaburagi,Cheating,2024,85,58,27,7,58,20,33,52,8
+Bagalkot,Murder,2024,9,3,6,0,6,3,6,3,2
+Chamarajanagar2,Cheating,2024,91,46,45,12,61,18,78,13,34
+Hubballi,Robbery,2024,15,8,7,1,11,3,8,7,3
+Shivamogga,Rape,2024,36,23,13,1,22,13,15,21,6
+Vijayanagar,Kidnapping,2024,6,4,2,1,4,1,3,3,0
+Yadgir,Cyber Crime,2024,58,36,22,8,36,14,36,22,2
+Vijayanagar,Molestation,2024,32,11,21,0,25,7,8,24,1
+Shimoga,Theft,2024,105,45,60,11,80,14,80,25,37
+Davangere,Cyber Crime,2024,58,27,31,2,38,18,33,25,16
+RuralAreaX,Dowry Death,2024,16,6,10,0,12,4,6,10,2
+Hassan,Kidnapping,2024,8,4,4,0,5,3,2,6,0
+Shivamogga,Molestation,2024,22,11,11,0,14,8,13,9,2
+Bidar,Domestic Violence,2024,64,30,34,11,44,9,56,8,10
+Bengaluru Urban,Robbery,2024,11,4,7,0,9,2,9,2,1
+Shivamogga,Cheating,2024,74,49,25,5,56,13,20,54,2
+Haveri,Cheating,2024,119,46,73,8,78,33,36,83,17
+Chamarajanagar2,Kidnapping,2024,5,1,4,0,3,2,3,2,0
+Kodagu,Theft,2024,132,61,71,5,89,38,116,16,32
+Bengaluru Rural,Robbery,2024,20,11,9,2,14,4,7,13,1
+Bengaluru Urban,Domestic Violence,2024,72,39,33,11,57,4,62,10,20
+Tumakuru,Theft,2024,135,68,67,11,102,22,94,41,18
+Mysuru,Cyber Crime,2024,56,35,21,4,34,18,23,33,8
+Chitradurga,Murder,2024,8,4,4,0,5,3,3,5,0
+Kalaburagi,Dowry Death,2024,3,1,2,0,2,1,1,2,0
+Ballari,Cheating,2024,80,24,56,4,61,15,29,51,5
+Shimoga,Theft,2024,112,62,50,9,83,20,73,39,30
+Hubballi,Cheating,2024,105,33,72,17,87,1,72,33,5
+Hubballi,Cheating,2024,101,53,48,4,79,18,34,67,9
+Haveri,Cheating,2024,124,44,80,19,82,23,110,14,33
+Kodagu,Domestic Violence,2024,81,41,40,13,60,8,70,11,8
+Hubballi,Molestation,2024,25,9,16,3,19,3,20,5,3
+Mangaluru,Dowry Death,2024,6,2,4,0,4,2,3,3,1
+Tumakuru,Dowry Death,2024,7,2,5,0,4,3,4,3,0
+Haveri,Kidnapping,2024,7,3,4,1,4,2,2,5,0
+Hubballi,Molestation,2024,28,10,18,1,19,8,8,20,2
+Davangere,Murder,2024,3,1,2,0,2,1,0,3,0
+Bengaluru Urban,Cyber Crime,2024,47,15,32,2,28,17,35,12,17
+Shimoga,Rape,2024,42,22,20,5,33,4,19,23,8
+Chikkamagaluru,Cheating,2024,96,42,54,12,68,16,27,69,7
+Tumakuru,Cyber Crime,2024,56,23,33,10,37,9,49,7,11
+Davangere,Murder,2024,12,7,5,2,8,2,5,7,2
+Kolar,Rape,2024,37,25,12,7,27,3,10,27,3
+Chikkamagaluru,Rape,2024,37,12,25,5,30,2,17,20,7
+Chitradurga,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Yadgir,Dowry Death,2024,2,1,1,0,1,1,0,2,0
+Ramanagara,Cyber Crime,2024,73,23,50,12,52,9,33,40,4
+Koppal,Molestation,2024,22,10,12,2,15,5,15,7,1
+Davangere,Dowry Death,2024,7,3,4,1,4,2,4,3,0
+Bengaluru Rural,Cyber Crime,2024,67,31,36,2,46,19,39,28,13
+Ramanagara,Cheating,2024,92,50,42,3,71,18,24,68,2
+Chitradurga,Theft,2024,92,51,41,6,73,13,43,49,19
+Hassan,Murder,2024,0,0,0,0,0,0,0,0,0
+Haveri,Domestic Violence,2024,78,36,42,7,52,19,37,41,6
+Koppal,Theft,2024,116,57,59,20,95,1,68,48,26
+Belagavi,Theft,2024,124,69,55,4,93,27,40,84,13
+Uttara Kannada,Rape,2024,37,19,18,2,30,5,19,18,3
+Chamarajanagar2,Murder,2024,5,2,3,0,3,2,1,4,0
+Mangaluru,Kidnapping,2024,3,1,2,0,1,2,1,2,0
+Bagalkot,Theft,2024,111,49,62,5,69,37,63,48,17
+Ramanagara,Rape,2024,34,23,11,2,27,5,17,17,5
+Uttara Kannada,Robbery,2024,20,12,8,1,16,3,17,3,2
+Tumakuru,Kidnapping,2024,7,2,5,0,5,2,2,5,0
+Hubballi,Molestation,2024,25,16,9,3,15,7,18,7,5
+Koppal,Cyber Crime,2024,59,19,40,6,38,15,40,19,7
+Bengaluru Urban,Rape,2024,25,15,10,4,21,0,14,11,1
+Uttara Kannada,Dowry Death,2024,8,3,5,0,5,3,5,3,1
+Hubballi,Molestation,2024,16,7,9,2,12,2,13,3,1
+Kolar,Dowry Death,2024,6,2,4,0,3,3,4,2,1
+Bagalkot,Theft,2024,121,37,84,11,79,31,57,64,6
+Yadgir,Domestic Violence,2024,90,38,52,11,73,6,50,40,3
+Chamarajanagar2,Cyber Crime,2024,63,43,20,2,52,9,42,21,7
+Vijayapura,Theft,2024,91,35,56,16,68,7,31,60,13
+Ramanagara,Rape,2024,35,20,15,1,27,7,15,20,2
+Gadag,Domestic Violence,2024,68,22,46,4,54,10,30,38,8
+Tumakuru,Domestic Violence,2024,75,42,33,8,54,13,23,52,9
+Dharwad,Molestation,2024,23,14,9,3,19,1,9,14,1
+Chikkamagaluru,Robbery,2024,17,11,6,2,14,1,9,8,1
+Vijayanagar,Molestation,2024,28,11,17,4,19,5,9,19,3
+Vijayanagar,Rape,2024,44,22,22,3,30,11,33,11,11
+Haveri,Cheating,2024,98,47,51,13,83,2,40,58,19
+Kolar,Robbery,2024,7,2,5,0,5,2,4,3,1
+Ballari,Dowry Death,2024,4,2,2,0,2,2,2,2,0
+Mangaluru,Cheating,2024,88,39,49,16,67,5,57,31,3
+Davangere,Cheating,2024,109,51,58,6,85,18,32,77,12
+Mysuru,Cheating,2024,74,30,44,11,61,2,45,29,18
+Chamarajanagar,Robbery,2024,19,6,13,1,15,3,9,10,2
+Mysuru,Murder,2024,9,2,7,0,5,4,5,4,1
+Ballari,Rape,2024,36,18,18,1,23,12,12,24,2
+Chikkaballapura,Cyber Crime,2024,54,36,18,5,32,17,30,24,8
+Chikkaballapura,Domestic Violence,2024,77,26,51,4,61,12,58,19,14
+Uttara Kannada,Molestation,2024,26,15,11,4,16,6,20,6,6
+Udupi,Murder,2024,1,0,1,0,0,1,0,1,0
+Hassan,Murder,2024,7,3,4,0,5,2,4,3,1
+Yadgir,Dowry Death,2024,3,1,2,0,2,1,2,1,0
+Hassan,Dowry Death,2024,0,0,0,0,0,0,0,0,0
+Bengaluru Rural,Murder,2024,1,0,1,0,0,1,0,1,0
+Ramanagara,Kidnapping,2024,4,1,3,0,3,1,1,3,0
+Ballari,Rape,2024,49,26,23,7,34,8,19,30,2
+Bengaluru Rural,Dowry Death,2024,3,0,3,0,2,1,1,2,0
+Koppal,Cheating,2024,77,31,46,3,52,22,20,57,5
+Bengaluru Rural,Rape,2024,31,15,16,3,22,6,9,22,1
+Shivamogga,Domestic Violence,2024,70,26,44,5,43,22,59,11,15
+Chikkamagaluru,Dowry Death,2024,7,4,3,0,5,2,6,1,2
+Hubballi,Murder,2024,10,3,7,1,6,3,6,4,1
+Davangere,Molestation,2024,27,9,18,3,20,4,19,8,6
+Chitradurga,Rape,2024,44,15,29,2,27,15,37,7,17
+Hubballi,Theft,2024,148,78,70,21,123,4,125,23,44
+Shivamogga,Domestic Violence,2024,69,25,44,8,52,9,42,27,17
+Mandya,Cyber Crime,2024,60,21,39,10,45,5,38,22,5
+Kodagu,Domestic Violence,2024,92,50,42,2,65,25,65,27,23
+Mandya,Rape,2024,29,14,15,5,17,7,20,9,5
+Ballari,Cheating,2024,102,31,71,11,71,20,47,55,8
+Koppal,Kidnapping,2024,5,2,3,0,4,1,2,3,0
+Davangere,Cyber Crime,2024,65,36,29,12,43,10,40,25,19
+Belagavi,Theft,2024,154,59,95,30,126,0,135,19,54
+Yadgir,Domestic Violence,2024,85,28,57,5,69,11,31,54,12
+Vijayapura,Domestic Violence,2024,73,33,40,2,50,21,30,43,9
+Mandya,Theft,2024,117,46,71,12,87,18,69,48,3
+Udupi,Cheating,2024,117,39,78,19,96,2,55,62,17
+Chamarajanagar,Molestation,2024,29,19,10,2,19,8,19,10,5
+Yadgir,Dowry Death,2024,11,5,6,1,7,3,8,3,1
+Uttara Kannada,Kidnapping,2024,4,1,3,0,2,2,2,2,0
+Bagalkot,Robbery,2024,2,0,2,0,1,1,1,1,0
+Yadgir,Dowry Death,2024,8,4,4,0,5,3,2,6,0
+Chikkamagaluru,Cheating,2024,75,23,52,14,59,2,56,19,26
+Tumakuru,Domestic Violence,2024,64,26,38,12,51,1,49,15,15
+Bagalkot,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Bengaluru Urban,Domestic Violence,2024,58,29,29,9,43,6,36,22,17
+Hassan,Theft,2024,113,48,65,8,86,19,37,76,16
+Tumakuru,Cheating,2024,87,28,59,7,63,17,71,16,27
+Ballari,Cheating,2024,85,40,45,15,59,11,42,43,15
+Kalaburagi,Cyber Crime,2024,57,17,40,2,41,14,48,9,7
+Raichur,Kidnapping,2024,13,8,5,0,8,5,4,9,0
+Haveri,Cyber Crime,2024,67,34,33,6,44,17,57,10,22
+Mangaluru,Theft,2024,110,69,41,18,74,18,90,20,5
+Yadgir,Cheating,2024,117,62,55,12,96,9,96,21,47
+Kalaburagi,Molestation,2024,12,5,7,0,7,5,3,9,0
+Bengaluru Urban,Domestic Violence,2024,49,17,32,3,39,7,17,32,4
+Bengaluru Urban,Murder,2024,4,2,2,0,2,2,1,3,0
+Chamarajanagar2,Kidnapping,2024,10,4,6,0,6,4,4,6,1
+Bidar,Murder,2024,6,2,4,0,5,1,1,5,0
+Shivamogga,Cheating,2024,61,38,23,8,39,14,47,14,22
+Kalaburagi,Kidnapping,2024,14,7,7,1,8,5,11,3,3
+Mysuru,Rape,2024,41,28,13,6,31,4,15,26,4
+Vijayanagar,Molestation,2024,28,17,11,1,18,9,8,20,1
+Gadag,Murder,2024,12,5,7,2,7,3,10,2,2
+Bagalkot,Cyber Crime,2024,57,31,26,5,37,15,19,38,1
+Chikkaballapura,Rape,2024,34,13,21,6,26,2,11,23,1
+Bengaluru Rural,Theft,2024,120,68,52,13,89,18,45,75,19
+Gadag,Kidnapping,2024,5,2,3,0,3,2,3,2,0
+Chamarajanagar,Cyber Crime,2024,62,31,31,7,41,14,24,38,8
+RuralAreaX,Cheating,2024,99,38,61,4,72,23,50,49,6
+Vijayanagar,Kidnapping,2024,6,2,4,0,4,2,4,2,1
+Yadgir,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+Shivamogga,Theft,2024,121,57,64,14,74,33,65,56,24
+Koppal,Robbery,2024,18,6,12,3,14,1,14,4,6
+Belagavi,Theft,2024,143,54,89,8,108,27,51,92,15
+Uttara Kannada,Dowry Death,2024,4,1,3,0,2,2,2,2,0
+Belagavi,Kidnapping,2024,7,4,3,1,5,1,2,5,0
+Shimoga,Domestic Violence,2024,68,41,27,12,51,5,25,43,1
+Kalaburagi,Domestic Violence,2024,58,33,25,10,35,13,22,36,7
+Tumakuru,Dowry Death,2024,8,5,3,1,5,2,3,5,0
+Gadag,Molestation,2024,35,12,23,1,24,10,18,17,8
+Belagavi,Theft,2024,117,64,53,20,96,1,92,25,15
+Hassan,Theft,2024,109,72,37,7,75,27,75,34,11
+Chamarajanagar,Domestic Violence,2024,91,53,38,4,67,20,65,26,15
+Dharwad,Murder,2024,0,0,0,0,0,0,0,0,0
+Shivamogga,Murder,2024,10,3,7,0,8,2,7,3,2
+Koppal,Murder,2024,3,1,2,0,1,2,0,3,0
+Raichur,Domestic Violence,2024,68,32,36,7,46,15,35,33,11
+Davangere,Dowry Death,2024,11,6,5,2,8,1,5,6,0
+Davangere,Cyber Crime,2024,59,38,21,4,48,7,44,15,9
+Shivamogga,Murder,2024,5,2,3,0,3,2,2,3,0
+Ramanagara,Kidnapping,2024,6,3,3,0,3,3,4,2,1
+Belagavi,Theft,2024,140,63,77,7,88,45,73,67,14
+Hassan,Cyber Crime,2024,45,20,25,4,29,12,36,9,11
+Mandya,Molestation,2024,29,10,19,3,21,5,20,9,6
+Chikkaballapura,Robbery,2024,6,2,4,0,4,2,2,4,0
+Belagavi,Kidnapping,2024,9,5,4,1,6,2,6,3,2
+Chamarajanagar,Robbery,2024,27,11,16,2,17,8,22,5,5
+Koppal,Molestation,2024,20,9,11,1,13,6,16,4,7
+Bengaluru Rural,Theft,2024,131,64,67,19,99,13,86,45,30
+Belagavi,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Kodagu,Domestic Violence,2024,96,29,67,14,74,8,37,59,9
+RuralAreaX,Cheating,2024,102,61,41,10,81,11,38,64,8
+Hassan,Cyber Crime,2024,51,20,31,8,32,11,32,19,14
+Raichur,Cyber Crime,2024,98,36,62,5,64,29,46,52,10
+Bengaluru Urban,Robbery,2024,14,4,10,2,11,1,11,3,3
+Kodagu,Murder,2024,9,6,3,1,7,1,7,2,0
+Udupi,Kidnapping,2024,11,4,7,1,8,2,8,3,1
+Chikkamagaluru,Cyber Crime,2024,60,35,25,4,40,16,37,23,14
+Dharwad,Cyber Crime,2024,66,29,37,9,45,12,38,28,8
+Hubballi,Cheating,2024,84,57,27,3,62,19,73,11,25
+Chamarajanagar2,Cyber Crime,2024,58,27,31,9,45,4,44,14,21
+Davangere,Murder,2024,5,3,2,0,3,2,3,2,1
+Ballari,Molestation,2024,24,11,13,4,19,1,7,17,3
+Hassan,Cyber Crime,2024,50,29,21,7,38,5,30,20,6
+Chamarajanagar,Cyber Crime,2024,46,15,31,2,37,7,27,19,4
+Tumakuru,Robbery,2024,12,5,7,2,9,1,6,6,1
+RuralAreaX,Rape,2024,41,16,25,5,31,5,20,21,7
+Mysuru,Kidnapping,2024,4,2,2,0,2,2,2,2,0
+Chamarajanagar,Kidnapping,2024,10,5,5,1,6,3,8,2,2
+Dharwad,Cyber Crime,2024,63,33,30,9,45,9,27,36,4
+Mangaluru,Cheating,2024,103,65,38,17,85,1,53,50,11
+Koppal,Molestation,2024,34,17,17,2,23,9,28,6,13
+Ramanagara,Murder,2024,3,1,2,0,1,2,1,2,0
+Bengaluru Rural,Theft,2024,111,73,38,15,81,15,92,19,5
+Ramanagara,Molestation,2024,37,21,16,1,27,9,25,12,6
+Bagalkot,Robbery,2024,12,4,8,0,9,3,8,4,3
+Kodagu,Kidnapping,2024,12,4,8,0,8,4,7,5,0
+Chitradurga,Cyber Crime,2024,49,16,33,5,41,3,43,6,3
+Mangaluru,Molestation,2024,19,8,11,1,13,5,9,10,2
+Vijayanagar,Cheating,2024,81,29,52,6,58,17,45,36,3
+Haveri,Rape,2024,42,15,27,4,33,5,29,13,13
+Kalaburagi,Robbery,2024,21,7,14,3,14,4,14,7,6
+Chitradurga,Robbery,2024,8,4,4,1,6,1,5,3,1
+Udupi,Domestic Violence,2024,80,27,53,9,51,20,57,23,22
+Shivamogga,Theft,2024,103,59,44,15,73,15,37,66,5
+Chamarajanagar2,Domestic Violence,2024,65,33,32,5,39,21,48,17,23
+Haveri,Domestic Violence,2024,68,36,32,5,43,20,44,24,4
+Chikkamagaluru,Theft,2024,111,59,52,20,91,0,76,35,31
+Chikkaballapura,Robbery,2024,11,7,4,0,6,5,3,8,0
+Hassan,Robbery,2024,15,6,9,1,11,3,12,3,5
+Shimoga,Theft,2024,116,80,36,11,69,36,70,46,22
+Kalaburagi,Rape,2024,36,23,13,7,22,7,11,25,0
+Davangere,Cheating,2024,87,60,27,7,58,22,47,40,3
+Mysuru,Domestic Violence,2024,93,28,65,13,66,14,23,70,7
+Yadgir,Dowry Death,2024,9,5,4,1,6,2,2,7,0
+Bengaluru Rural,Domestic Violence,2024,59,36,23,9,37,13,28,31,4
+Chamarajanagar2,Kidnapping,2024,6,3,3,0,4,2,4,2,1
+Vijayapura,Dowry Death,2024,10,6,4,0,6,4,6,4,2
+Mangaluru,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Kodagu,Rape,2024,45,20,25,4,29,12,13,32,4
+Chamarajanagar,Robbery,2024,12,6,6,2,7,3,7,5,1
+Chitradurga,Cyber Crime,2024,51,25,26,5,37,9,36,15,14
+Chamarajanagar2,Rape,2024,46,28,18,1,36,9,39,7,7
+Hassan,Dowry Death,2024,8,5,3,0,5,3,4,4,1
+Shimoga,Dowry Death,2024,7,3,4,0,5,2,2,5,0
+Chikkamagaluru,Kidnapping,2024,4,1,3,0,3,1,2,2,0
+Bagalkot,Theft,2024,98,38,60,12,63,23,41,57,14
+Mysuru,Molestation,2024,19,11,8,3,14,2,11,8,0
+Bengaluru Rural,Rape,2024,32,22,10,5,20,7,22,10,3
+Kolar,Molestation,2024,25,10,15,4,16,5,12,13,2
+Raichur,Theft,2024,141,63,78,23,115,3,110,31,41
+Yadgir,Domestic Violence,2024,84,41,43,5,59,20,65,19,29
+Haveri,Murder,2024,5,3,2,0,3,2,1,4,0
+Raichur,Cheating,2024,94,35,59,9,74,11,46,48,6
+Vijayanagar,Cheating,2024,111,75,36,5,68,38,71,40,19
+Kolar,Cheating,2024,75,49,26,3,46,26,42,33,7
+Bengaluru Rural,Dowry Death,2024,2,0,2,0,1,1,1,1,0
+Uttara Kannada,Murder,2024,3,1,2,0,1,2,1,2,0
+Uttara Kannada,Robbery,2024,12,7,5,1,9,2,8,4,1
+Yadgir,Molestation,2024,28,11,17,2,21,5,9,19,4
+Chitradurga,Domestic Violence,2024,75,50,25,8,52,15,52,23,12
+Bengaluru Rural,Dowry Death,2024,11,4,7,1,8,2,9,2,4
+Gadag,Rape,2024,24,10,14,3,16,5,6,18,1
+Kodagu,Robbery,2024,18,5,13,2,12,4,5,13,0
+Hubballi,Molestation,2024,21,8,13,1,15,5,15,6,3
+Chamarajanagar,Kidnapping,2024,4,2,2,0,2,2,2,2,0
+Bagalkot,Kidnapping,2024,10,3,7,1,8,1,3,7,0
+Tumakuru,Rape,2024,32,10,22,4,19,9,8,24,2
+Uttara Kannada,Cyber Crime,2024,51,18,33,7,32,12,23,28,7
+Udupi,Cyber Crime,2024,65,35,30,10,46,9,26,39,3
+Hubballi,Murder,2024,3,1,2,0,2,1,2,1,0
+Kolar,Cyber Crime,2024,57,21,36,1,47,9,49,8,20
+Mandya,Domestic Violence,2024,70,22,48,8,47,15,49,21,19
+Kalaburagi,Kidnapping,2024,9,5,4,1,7,1,3,6,1
+Mandya,Domestic Violence,2024,64,40,24,4,45,15,21,43,3
+Gadag,Dowry Death,2024,5,1,4,0,3,2,3,2,0
+Shimoga,Dowry Death,2024,8,4,4,1,5,2,6,2,1
+Vijayanagar,Robbery,2024,17,11,6,3,11,3,10,7,3
+Bengaluru Urban,Cheating,2024,93,39,54,5,71,17,75,18,14
+Kodagu,Domestic Violence,2024,81,34,47,10,62,9,66,15,32
+Mangaluru,Murder,2024,3,1,2,0,2,1,1,2,0
+Chamarajanagar2,Dowry Death,2024,3,0,3,0,2,1,1,2,0
+Davangere,Kidnapping,2024,6,3,3,1,5,0,4,2,0
+Chikkamagaluru,Theft,2024,122,82,40,19,73,30,80,42,27
+Chitradurga,Dowry Death,2024,2,1,1,0,1,1,0,2,0
+Chikkaballapura,Kidnapping,2024,1,0,1,0,0,1,0,1,0
+Mysuru,Molestation,2024,26,15,11,2,20,4,19,7,9
+Ballari,Dowry Death,2024,12,7,5,1,8,3,6,6,2
+Chikkamagaluru,Rape,2024,40,15,25,5,27,8,18,22,3
+Yadgir,Cheating,2024,106,39,67,9,83,14,32,74,11
+Mangaluru,Cheating,2024,102,33,69,17,84,1,38,64,16
+Chikkamagaluru,Robbery,2024,14,9,5,1,9,4,7,7,3
+Haveri,Domestic Violence,2024,93,45,48,11,74,8,41,52,2
+Shimoga,Kidnapping,2024,6,3,3,0,4,2,3,3,1
+RuralAreaX,Robbery,2024,21,11,10,3,12,6,8,13,3
+Hassan,Robbery,2024,10,4,6,1,7,2,5,5,0
