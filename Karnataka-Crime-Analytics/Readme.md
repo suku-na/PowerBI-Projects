@@ -20,13 +20,18 @@
   <i>End-to-end crime analytics and reporting for the state of Karnataka</i>
 </p>
 
-<p align="center">
+## Dashboard Overview
+---
   <img width="1057" height="711" alt="image" src="https://github.com/user-attachments/assets/4e146aac-1bbd-4087-9e42-f41d46bd85cb" />
-  ---
+--- 
+---
   <img width="682" height="682" alt="image" src="https://github.com/user-attachments/assets/1ed10767-1a33-4aed-805b-9ffdc9a57cfc" />
-  ---
+---
+---
+  <img width="815" height="713" alt="image" src="https://github.com/user-attachments/assets/27959e7d-fa9d-4bae-bc37-025382611fd5" />
+---  
 
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=power%20bi&logoColor=black" />
