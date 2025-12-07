@@ -21,15 +21,12 @@
 </p>
 
 ## Dashboard Overview
----
+<p align="center">
   <img width="1057" height="711" alt="image" src="https://github.com/user-attachments/assets/4e146aac-1bbd-4087-9e42-f41d46bd85cb" />
---- 
----
   <img width="682" height="682" alt="image" src="https://github.com/user-attachments/assets/1ed10767-1a33-4aed-805b-9ffdc9a57cfc" />
----
----
   <img width="815" height="713" alt="image" src="https://github.com/user-attachments/assets/27959e7d-fa9d-4bae-bc37-025382611fd5" />
----  
+  <img width="972" height="718" alt="image" src="https://github.com/user-attachments/assets/e6c1476f-fc8b-4f56-9d3b-547778e1917b" />
+</p> 
 
 
 
