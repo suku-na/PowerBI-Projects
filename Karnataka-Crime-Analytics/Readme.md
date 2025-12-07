@@ -1,5 +1,23 @@
 <h1 align="center">🔍 Karnataka Crime Analysis Power BI Dashboard</h1>
 
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <!-- PowerBI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI"/> 
+  <!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" width="45" height="45" alt="Excel" style="filter: invert(52%) sepia(96%) saturate(322%) hue-rotate(83deg) brightness(90%) contrast(85%);"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
+  <!-- Windows -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" alt="Windows"/>
+</p>
+
+---
+
+
+
 <p align="center">
   <i>End-to-end crime analytics and reporting for the state of Karnataka</i>
 </p>
@@ -119,4 +137,43 @@ CALCULATE(
 
 Closure Rate % =
 DIVIDE([Closed Cases], [Total Cases])
+```
 
+## 🚀 How to Use
+1. Download the file Karnataka Crime Dashboard.pbix
+2. Open in Power BI Desktop
+3. Recommended: Latest version of Power BI Desktop
+4. Connect / Refresh Data (if applicable)
+5. Update the data source path if you’re using local Excel/CSV files
+6. Click on Refresh to load the latest data
+7. Interact with the visuals
+8. Use slicers (Year, District, Crime Type, Status, etc.)
+9. Hover over charts for detailed tooltips
+
+---
+
+---
+
+## 📂 Repository Structure
+
+```
+📁 Karnatka crime analytics
+│
+├── Karnataka Crime Analytics (2023-2025).pbix
+├── README.md
+└── 📁 images
+```
+---
+
+## 🔗 References
+- Microsoft Power BI — [https://learn.microsoft.com/power-bi](https://learn.microsoft.com/power-bi)  
+- Power Query M Language — [https://learn.microsoft.com/powerquery-m](https://learn.microsoft.com/powerquery-m)
+
+---
+
+## ✨ Author
+**Sumit Kumar**  
+📎 [GitHub Profile](https://github.com/suku-na)  
+📂 [Project Repository](https://github.com/suku-na/PowerBI-Projects)
+
+---
