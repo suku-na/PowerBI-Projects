@@ -58,8 +58,6 @@ It enables stakeholders (police departments, policy makers, and analysts) to:
 
 ## 🗂️ Dataset Description
 
-> _Note: Adjust these points as per your actual dataset columns._
-
 Typical fields used in this dashboard include:
 
 - **Location details**  
@@ -77,8 +75,6 @@ Typical fields used in this dashboard include:
 ---
 
 ## 📊 Dashboard Pages & Features
-
-> _Customize to exactly match your report pages._
 
 1. ### 🔹 Overview Page
    - Total Crime Cases
@@ -116,7 +112,7 @@ Typical fields used in this dashboard include:
 
 ## 🧮 Key Measures (DAX – Conceptual)
 
-Some example measures that can be used in this report:
+Some example measures used in this report:
 
 ```DAX
 Total Cases = COUNTROWS(CrimeData)
