@@ -16,21 +16,12 @@
 
 ---
 ---
-
-## 📊 Dashboard Preview
-
-**<img width="1057" height="711" alt="image" src="https://github.com/user-attachments/assets/4e146aac-1bbd-4087-9e42-f41d46bd85cb" />**
-
-
----
-
-
 <p align="center">
   <i>End-to-end crime analytics and reporting for the state of Karnataka</i>
 </p>
 
 <p align="center">
-  <img src="./Karnataka_Crime_Dashboard.png" alt="Karnataka Crime Dashboard" width="800"/>
+  <img width="1057" height="711" alt="image" src="https://github.com/user-attachments/assets/4e146aac-1bbd-4087-9e42-f41d46bd85cb" />
 </p>
 
 <p align="center">
