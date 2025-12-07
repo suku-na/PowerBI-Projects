@@ -1,0 +1,11 @@
+Crime_ID,Crime_Type,Crime_Group
+1,Murder,Violent
+2,Robbery,Non-Violent
+3,Theft,Non-Violent
+4,Kidnapping,Violent
+5,Cyber Crime,Non-Violent
+6,Dowry Death,Violent
+7,Domestic Violence,Violent
+8,Rape,Violent
+9,Molestation,Non-Violent
+10,Cheating,Non-Violent
